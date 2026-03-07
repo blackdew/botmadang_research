@@ -1,0 +1,1960 @@
+{
+  "axis": "PRAG",
+  "description": "화용론 — Fairclough 담화실천 층위",
+  "overall": {
+    "total_posts": 500,
+    "total_hits": 2700,
+    "codes": {
+      "PRAG-AGREE": {
+        "desc": "동의 표현",
+        "total_hits": 11,
+        "posts_with_code": 9,
+        "posts_with_code_ratio": 0.018,
+        "hits_per_post": 0.022,
+        "share_of_all_hits": 0.0041
+      },
+      "PRAG-DISAGREE": {
+        "desc": "반대 표현",
+        "total_hits": 10,
+        "posts_with_code": 9,
+        "posts_with_code_ratio": 0.018,
+        "hits_per_post": 0.02,
+        "share_of_all_hits": 0.0037
+      },
+      "PRAG-MITIGATE": {
+        "desc": "완화 표현",
+        "total_hits": 55,
+        "posts_with_code": 43,
+        "posts_with_code_ratio": 0.086,
+        "hits_per_post": 0.11,
+        "share_of_all_hits": 0.0204
+      },
+      "PRAG-EMPHASIZE": {
+        "desc": "강조 표현",
+        "total_hits": 775,
+        "posts_with_code": 184,
+        "posts_with_code_ratio": 0.368,
+        "hits_per_post": 1.55,
+        "share_of_all_hits": 0.287
+      },
+      "PRAG-QUOTE": {
+        "desc": "인용/참조",
+        "total_hits": 1378,
+        "posts_with_code": 231,
+        "posts_with_code_ratio": 0.462,
+        "hits_per_post": 2.756,
+        "share_of_all_hits": 0.5104
+      },
+      "PRAG-HUMOR": {
+        "desc": "유머/위트",
+        "total_hits": 471,
+        "posts_with_code": 35,
+        "posts_with_code_ratio": 0.07,
+        "hits_per_post": 0.942,
+        "share_of_all_hits": 0.1744
+      }
+    },
+    "code_ranking": [
+      {
+        "code": "PRAG-QUOTE",
+        "total_hits": 1378
+      },
+      {
+        "code": "PRAG-EMPHASIZE",
+        "total_hits": 775
+      },
+      {
+        "code": "PRAG-HUMOR",
+        "total_hits": 471
+      },
+      {
+        "code": "PRAG-MITIGATE",
+        "total_hits": 55
+      },
+      {
+        "code": "PRAG-AGREE",
+        "total_hits": 11
+      },
+      {
+        "code": "PRAG-DISAGREE",
+        "total_hits": 10
+      }
+    ]
+  },
+  "by_agent": {
+    "Ark_IP_V14": {
+      "post_count": 6,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 4,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.6667,
+          "share_of_all_hits": 0.25
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 12,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.75
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "BENZIE": {
+      "post_count": 7,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.2857,
+          "hits_per_post": 0.2857,
+          "share_of_all_hits": 0.4
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1429,
+          "hits_per_post": 0.1429,
+          "share_of_all_hits": 0.2
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.2857,
+          "hits_per_post": 0.2857,
+          "share_of_all_hits": 0.4
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-MITIGATE"
+    },
+    "BootingBot": {
+      "post_count": 142,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 6,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.0423,
+          "hits_per_post": 0.0423,
+          "share_of_all_hits": 0.0432
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 94,
+          "posts_with_code": 83,
+          "posts_with_code_ratio": 0.5845,
+          "hits_per_post": 0.662,
+          "share_of_all_hits": 0.6763
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 39,
+          "posts_with_code": 36,
+          "posts_with_code_ratio": 0.2535,
+          "hits_per_post": 0.2746,
+          "share_of_all_hits": 0.2806
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-EMPHASIZE"
+    },
+    "Henry": {
+      "post_count": 1,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 1.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "I_Molt": {
+      "post_count": 14,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0714,
+          "hits_per_post": 0.0714,
+          "share_of_all_hits": 0.0149
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 12,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.8571,
+          "share_of_all_hits": 0.1791
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 23,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 1.6429,
+          "share_of_all_hits": 0.3433
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 30,
+          "posts_with_code": 11,
+          "posts_with_code_ratio": 0.7857,
+          "hits_per_post": 2.1429,
+          "share_of_all_hits": 0.4478
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0714,
+          "hits_per_post": 0.0714,
+          "share_of_all_hits": 0.0149
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "MUSE": {
+      "post_count": 3,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 21,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 7.0,
+          "share_of_all_hits": 0.84
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 4,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.3333,
+          "share_of_all_hits": 0.16
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-EMPHASIZE"
+    },
+    "OctoContent": {
+      "post_count": 3,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-AGREE"
+    },
+    "OpenClaw": {
+      "post_count": 2,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.3333
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.6667
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "OpenClaw_KR": {
+      "post_count": 9,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.2222,
+          "hits_per_post": 0.2222,
+          "share_of_all_hits": 0.4
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.6
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "Phoebe": {
+      "post_count": 12,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 6,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.4167,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.75
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0833,
+          "hits_per_post": 0.1667,
+          "share_of_all_hits": 0.25
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-MITIGATE"
+    },
+    "Pyran_Secret": {
+      "post_count": 1,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-AGREE"
+    },
+    "RobertBot": {
+      "post_count": 53,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 53,
+          "posts_with_code": 53,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 1.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "RosieAI": {
+      "post_count": 1,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 1.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "TruthChaser": {
+      "post_count": 4,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.4
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.4
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.25,
+          "hits_per_post": 0.25,
+          "share_of_all_hits": 0.2
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-MITIGATE"
+    },
+    "Van": {
+      "post_count": 3,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.0185
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 34,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 11.3333,
+          "share_of_all_hits": 0.6296
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 17,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 5.6667,
+          "share_of_all_hits": 0.3148
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.6667,
+          "share_of_all_hits": 0.037
+        }
+      },
+      "dominant_code": "PRAG-EMPHASIZE"
+    },
+    "VibeCoding": {
+      "post_count": 79,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 10,
+          "posts_with_code": 8,
+          "posts_with_code_ratio": 0.1013,
+          "hits_per_post": 0.1266,
+          "share_of_all_hits": 0.0047
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 8,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.0886,
+          "hits_per_post": 0.1013,
+          "share_of_all_hits": 0.0038
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 21,
+          "posts_with_code": 16,
+          "posts_with_code_ratio": 0.2025,
+          "hits_per_post": 0.2658,
+          "share_of_all_hits": 0.0099
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 453,
+          "posts_with_code": 41,
+          "posts_with_code_ratio": 0.519,
+          "hits_per_post": 5.7342,
+          "share_of_all_hits": 0.2137
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 1166,
+          "posts_with_code": 77,
+          "posts_with_code_ratio": 0.9747,
+          "hits_per_post": 14.7595,
+          "share_of_all_hits": 0.55
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 462,
+          "posts_with_code": 29,
+          "posts_with_code_ratio": 0.3671,
+          "hits_per_post": 5.8481,
+          "share_of_all_hits": 0.2179
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "ZZOBOT": {
+      "post_count": 1,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-AGREE"
+    },
+    "cloomi": {
+      "post_count": 1,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-AGREE"
+    },
+    "coldbot": {
+      "post_count": 5,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 4,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.4,
+          "hits_per_post": 0.8,
+          "share_of_all_hits": 1.0
+        }
+      },
+      "dominant_code": "PRAG-HUMOR"
+    },
+    "epoko_claw_firstbot_5": {
+      "post_count": 5,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-AGREE"
+    },
+    "jorongi_2026": {
+      "post_count": 3,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-AGREE"
+    },
+    "pioneer": {
+      "post_count": 26,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0385,
+          "hits_per_post": 0.0385,
+          "share_of_all_hits": 0.0455
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 19,
+          "posts_with_code": 8,
+          "posts_with_code_ratio": 0.3077,
+          "hits_per_post": 0.7308,
+          "share_of_all_hits": 0.8636
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.0769,
+          "hits_per_post": 0.0769,
+          "share_of_all_hits": 0.0909
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-EMPHASIZE"
+    },
+    "ssamz_ai_bot": {
+      "post_count": 34,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0294,
+          "hits_per_post": 0.0294,
+          "share_of_all_hits": 0.008
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 114,
+          "posts_with_code": 25,
+          "posts_with_code_ratio": 0.7353,
+          "hits_per_post": 3.3529,
+          "share_of_all_hits": 0.912
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 10,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.1765,
+          "hits_per_post": 0.2941,
+          "share_of_all_hits": 0.08
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-EMPHASIZE"
+    },
+    "ttooribot": {
+      "post_count": 1,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 5,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 5.0,
+          "share_of_all_hits": 1.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "독고종철": {
+      "post_count": 82,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0122,
+          "hits_per_post": 0.0244,
+          "share_of_all_hits": 0.05
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 6,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.0732,
+          "hits_per_post": 0.0732,
+          "share_of_all_hits": 0.15
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 30,
+          "posts_with_code": 24,
+          "posts_with_code_ratio": 0.2927,
+          "hits_per_post": 0.3659,
+          "share_of_all_hits": 0.75
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.0244,
+          "hits_per_post": 0.0244,
+          "share_of_all_hits": 0.05
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "첼로_우아한_소설가": {
+      "post_count": 1,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.5
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.5
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-MITIGATE"
+    },
+    "클로렐라": {
+      "post_count": 1,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-AGREE"
+    }
+  },
+  "by_madang": {
+    "classical_music": {
+      "post_count": 3,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 21,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 7.0,
+          "share_of_all_hits": 0.84
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 4,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.3333,
+          "share_of_all_hits": 0.16
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-EMPHASIZE"
+    },
+    "cute_ai": {
+      "post_count": 2,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 6,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.0,
+          "share_of_all_hits": 0.8571
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.1429
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "daily": {
+      "post_count": 43,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0233,
+          "hits_per_post": 0.0233,
+          "share_of_all_hits": 0.0026
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 8,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.1395,
+          "hits_per_post": 0.186,
+          "share_of_all_hits": 0.0208
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 108,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.2093,
+          "hits_per_post": 2.5116,
+          "share_of_all_hits": 0.2805
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 195,
+          "posts_with_code": 36,
+          "posts_with_code_ratio": 0.8372,
+          "hits_per_post": 4.5349,
+          "share_of_all_hits": 0.5065
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 73,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.093,
+          "hits_per_post": 1.6977,
+          "share_of_all_hits": 0.1896
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "edutech": {
+      "post_count": 11,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0909,
+          "hits_per_post": 0.0909,
+          "share_of_all_hits": 0.0049
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 42,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.2727,
+          "hits_per_post": 3.8182,
+          "share_of_all_hits": 0.2059
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 116,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.8182,
+          "hits_per_post": 10.5455,
+          "share_of_all_hits": 0.5686
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 45,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.3636,
+          "hits_per_post": 4.0909,
+          "share_of_all_hits": 0.2206
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "finance": {
+      "post_count": 9,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1111,
+          "hits_per_post": 0.1111,
+          "share_of_all_hits": 0.0068
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 4,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.4444,
+          "share_of_all_hits": 0.027
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 39,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 4.3333,
+          "share_of_all_hits": 0.2635
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 72,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.7778,
+          "hits_per_post": 8.0,
+          "share_of_all_hits": 0.4865
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 32,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.2222,
+          "hits_per_post": 3.5556,
+          "share_of_all_hits": 0.2162
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "general": {
+      "post_count": 286,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0035,
+          "hits_per_post": 0.0035,
+          "share_of_all_hits": 0.0019
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.0105,
+          "hits_per_post": 0.0105,
+          "share_of_all_hits": 0.0056
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 17,
+          "posts_with_code": 16,
+          "posts_with_code_ratio": 0.0559,
+          "hits_per_post": 0.0594,
+          "share_of_all_hits": 0.0315
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 279,
+          "posts_with_code": 121,
+          "posts_with_code_ratio": 0.4231,
+          "hits_per_post": 0.9755,
+          "share_of_all_hits": 0.5167
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 195,
+          "posts_with_code": 86,
+          "posts_with_code_ratio": 0.3007,
+          "hits_per_post": 0.6818,
+          "share_of_all_hits": 0.3611
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 45,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.0175,
+          "hits_per_post": 0.1573,
+          "share_of_all_hits": 0.0833
+        }
+      },
+      "dominant_code": "PRAG-EMPHASIZE"
+    },
+    "korea": {
+      "post_count": 13,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 4,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.2308,
+          "hits_per_post": 0.3077,
+          "share_of_all_hits": 0.0089
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.1538,
+          "hits_per_post": 0.1538,
+          "share_of_all_hits": 0.0045
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 3,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.1538,
+          "hits_per_post": 0.2308,
+          "share_of_all_hits": 0.0067
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 89,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.5385,
+          "hits_per_post": 6.8462,
+          "share_of_all_hits": 0.1982
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 240,
+          "posts_with_code": 13,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 18.4615,
+          "share_of_all_hits": 0.5345
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 111,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.5385,
+          "hits_per_post": 8.5385,
+          "share_of_all_hits": 0.2472
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "philosophy": {
+      "post_count": 22,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0455,
+          "hits_per_post": 0.0455,
+          "share_of_all_hits": 0.005
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 10,
+          "posts_with_code": 8,
+          "posts_with_code_ratio": 0.3636,
+          "hits_per_post": 0.4545,
+          "share_of_all_hits": 0.0498
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 65,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.2273,
+          "hits_per_post": 2.9545,
+          "share_of_all_hits": 0.3234
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 96,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.2727,
+          "hits_per_post": 4.3636,
+          "share_of_all_hits": 0.4776
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 29,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.1364,
+          "hits_per_post": 1.3182,
+          "share_of_all_hits": 0.1443
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "questions": {
+      "post_count": 3,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 3,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.6667,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.1765
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 6,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.6667,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.3529
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 8,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.6667,
+          "share_of_all_hits": 0.4706
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "showcase": {
+      "post_count": 22,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0455,
+          "hits_per_post": 0.0909,
+          "share_of_all_hits": 0.0116
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 5,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.0909,
+          "hits_per_post": 0.2273,
+          "share_of_all_hits": 0.0289
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 23,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.1818,
+          "hits_per_post": 1.0455,
+          "share_of_all_hits": 0.1329
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 103,
+          "posts_with_code": 17,
+          "posts_with_code_ratio": 0.7727,
+          "hits_per_post": 4.6818,
+          "share_of_all_hits": 0.5954
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 40,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.1364,
+          "hits_per_post": 1.8182,
+          "share_of_all_hits": 0.2312
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "tech": {
+      "post_count": 56,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 3,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.0357,
+          "hits_per_post": 0.0536,
+          "share_of_all_hits": 0.0087
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0179,
+          "hits_per_post": 0.0179,
+          "share_of_all_hits": 0.0029
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 4,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.0536,
+          "hits_per_post": 0.0714,
+          "share_of_all_hits": 0.0116
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 87,
+          "posts_with_code": 14,
+          "posts_with_code_ratio": 0.25,
+          "hits_per_post": 1.5536,
+          "share_of_all_hits": 0.2514
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 157,
+          "posts_with_code": 21,
+          "posts_with_code_ratio": 0.375,
+          "hits_per_post": 2.8036,
+          "share_of_all_hits": 0.4538
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 94,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.0893,
+          "hits_per_post": 1.6786,
+          "share_of_all_hits": 0.2717
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    },
+    "vibecoding": {
+      "post_count": 30,
+      "codes": {
+        "PRAG-AGREE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "PRAG-DISAGREE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0333,
+          "hits_per_post": 0.0333,
+          "share_of_all_hits": 0.0049
+        },
+        "PRAG-MITIGATE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0333,
+          "hits_per_post": 0.0333,
+          "share_of_all_hits": 0.0049
+        },
+        "PRAG-EMPHASIZE": {
+          "total_hits": 16,
+          "posts_with_code": 13,
+          "posts_with_code_ratio": 0.4333,
+          "hits_per_post": 0.5333,
+          "share_of_all_hits": 0.078
+        },
+        "PRAG-QUOTE": {
+          "total_hits": 186,
+          "posts_with_code": 28,
+          "posts_with_code_ratio": 0.9333,
+          "hits_per_post": 6.2,
+          "share_of_all_hits": 0.9073
+        },
+        "PRAG-HUMOR": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0333,
+          "hits_per_post": 0.0333,
+          "share_of_all_hits": 0.0049
+        }
+      },
+      "dominant_code": "PRAG-QUOTE"
+    }
+  }
+}

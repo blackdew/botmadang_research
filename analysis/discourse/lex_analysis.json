@@ -1,0 +1,1960 @@
+{
+  "axis": "LEX",
+  "description": "어휘 수준 — Fairclough 텍스트 층위",
+  "overall": {
+    "total_posts": 500,
+    "total_hits": 3805,
+    "codes": {
+      "LEX-FORMAL": {
+        "desc": "격식체 어휘",
+        "total_hits": 1198,
+        "posts_with_code": 291,
+        "posts_with_code_ratio": 0.582,
+        "hits_per_post": 2.396,
+        "share_of_all_hits": 0.3148
+      },
+      "LEX-CASUAL": {
+        "desc": "비격식 어휘",
+        "total_hits": 1086,
+        "posts_with_code": 143,
+        "posts_with_code_ratio": 0.286,
+        "hits_per_post": 2.172,
+        "share_of_all_hits": 0.2854
+      },
+      "LEX-TECH": {
+        "desc": "전문/기술 용어",
+        "total_hits": 1167,
+        "posts_with_code": 365,
+        "posts_with_code_ratio": 0.73,
+        "hits_per_post": 2.334,
+        "share_of_all_hits": 0.3067
+      },
+      "LEX-EMOJI": {
+        "desc": "이모지/이모티콘 사용",
+        "total_hits": 294,
+        "posts_with_code": 133,
+        "posts_with_code_ratio": 0.266,
+        "hits_per_post": 0.588,
+        "share_of_all_hits": 0.0773
+      },
+      "LEX-AI": {
+        "desc": "AI스러운 표현",
+        "total_hits": 1,
+        "posts_with_code": 1,
+        "posts_with_code_ratio": 0.002,
+        "hits_per_post": 0.002,
+        "share_of_all_hits": 0.0003
+      },
+      "LEX-HEDGE": {
+        "desc": "완화/헤지 표현",
+        "total_hits": 59,
+        "posts_with_code": 49,
+        "posts_with_code_ratio": 0.098,
+        "hits_per_post": 0.118,
+        "share_of_all_hits": 0.0155
+      }
+    },
+    "code_ranking": [
+      {
+        "code": "LEX-FORMAL",
+        "total_hits": 1198
+      },
+      {
+        "code": "LEX-TECH",
+        "total_hits": 1167
+      },
+      {
+        "code": "LEX-CASUAL",
+        "total_hits": 1086
+      },
+      {
+        "code": "LEX-EMOJI",
+        "total_hits": 294
+      },
+      {
+        "code": "LEX-HEDGE",
+        "total_hits": 59
+      },
+      {
+        "code": "LEX-AI",
+        "total_hits": 1
+      }
+    ]
+  },
+  "by_agent": {
+    "Ark_IP_V14": {
+      "post_count": 6,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "BENZIE": {
+      "post_count": 7,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 6,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.5714,
+          "hits_per_post": 0.8571,
+          "share_of_all_hits": 1.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "BootingBot": {
+      "post_count": 142,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 47,
+          "posts_with_code": 42,
+          "posts_with_code_ratio": 0.2958,
+          "hits_per_post": 0.331,
+          "share_of_all_hits": 0.123
+        },
+        "LEX-CASUAL": {
+          "total_hits": 44,
+          "posts_with_code": 36,
+          "posts_with_code_ratio": 0.2535,
+          "hits_per_post": 0.3099,
+          "share_of_all_hits": 0.1152
+        },
+        "LEX-TECH": {
+          "total_hits": 279,
+          "posts_with_code": 110,
+          "posts_with_code_ratio": 0.7746,
+          "hits_per_post": 1.9648,
+          "share_of_all_hits": 0.7304
+        },
+        "LEX-EMOJI": {
+          "total_hits": 6,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.0211,
+          "hits_per_post": 0.0423,
+          "share_of_all_hits": 0.0157
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 6,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.0423,
+          "hits_per_post": 0.0423,
+          "share_of_all_hits": 0.0157
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    },
+    "Henry": {
+      "post_count": 1,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 1.0
+        },
+        "LEX-TECH": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-CASUAL"
+    },
+    "I_Molt": {
+      "post_count": 14,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 39,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 2.7857,
+          "share_of_all_hits": 0.39
+        },
+        "LEX-CASUAL": {
+          "total_hits": 25,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 1.7857,
+          "share_of_all_hits": 0.25
+        },
+        "LEX-TECH": {
+          "total_hits": 21,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.6429,
+          "hits_per_post": 1.5,
+          "share_of_all_hits": 0.21
+        },
+        "LEX-EMOJI": {
+          "total_hits": 12,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.3571,
+          "hits_per_post": 0.8571,
+          "share_of_all_hits": 0.12
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.2143,
+          "hits_per_post": 0.2143,
+          "share_of_all_hits": 0.03
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "MUSE": {
+      "post_count": 3,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.125
+        },
+        "LEX-TECH": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 6,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.75
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.125
+        }
+      },
+      "dominant_code": "LEX-EMOJI"
+    },
+    "OctoContent": {
+      "post_count": 3,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 5,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.6667,
+          "share_of_all_hits": 0.4167
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.6667,
+          "hits_per_post": 0.6667,
+          "share_of_all_hits": 0.1667
+        },
+        "LEX-EMOJI": {
+          "total_hits": 5,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.6667,
+          "share_of_all_hits": 0.4167
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "OpenClaw": {
+      "post_count": 2,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 3,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.5,
+          "share_of_all_hits": 0.75
+        },
+        "LEX-EMOJI": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.25
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    },
+    "OpenClaw_KR": {
+      "post_count": 9,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1111,
+          "hits_per_post": 0.1111,
+          "share_of_all_hits": 1.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    },
+    "Phoebe": {
+      "post_count": 12,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.25,
+          "hits_per_post": 0.25,
+          "share_of_all_hits": 0.1034
+        },
+        "LEX-TECH": {
+          "total_hits": 16,
+          "posts_with_code": 12,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.3333,
+          "share_of_all_hits": 0.5517
+        },
+        "LEX-EMOJI": {
+          "total_hits": 10,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.4167,
+          "hits_per_post": 0.8333,
+          "share_of_all_hits": 0.3448
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    },
+    "Pyran_Secret": {
+      "post_count": 1,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.25
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.125
+        },
+        "LEX-EMOJI": {
+          "total_hits": 5,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 5.0,
+          "share_of_all_hits": 0.625
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-EMOJI"
+    },
+    "RobertBot": {
+      "post_count": 53,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 53,
+          "posts_with_code": 53,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.1749
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 144,
+          "posts_with_code": 53,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.717,
+          "share_of_all_hits": 0.4752
+        },
+        "LEX-EMOJI": {
+          "total_hits": 106,
+          "posts_with_code": 53,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.3498
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    },
+    "RosieAI": {
+      "post_count": 1,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.5
+        },
+        "LEX-EMOJI": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.5
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    },
+    "TruthChaser": {
+      "post_count": 4,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 6,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 1.5,
+          "share_of_all_hits": 0.6667
+        },
+        "LEX-CASUAL": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.2222
+        },
+        "LEX-TECH": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.25,
+          "hits_per_post": 0.25,
+          "share_of_all_hits": 0.1111
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "Van": {
+      "post_count": 3,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 12,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.6667,
+          "hits_per_post": 4.0,
+          "share_of_all_hits": 0.2353
+        },
+        "LEX-CASUAL": {
+          "total_hits": 4,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.6667,
+          "hits_per_post": 1.3333,
+          "share_of_all_hits": 0.0784
+        },
+        "LEX-TECH": {
+          "total_hits": 19,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.6667,
+          "hits_per_post": 6.3333,
+          "share_of_all_hits": 0.3725
+        },
+        "LEX-EMOJI": {
+          "total_hits": 16,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 5.3333,
+          "share_of_all_hits": 0.3137
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    },
+    "VibeCoding": {
+      "post_count": 79,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 45,
+          "posts_with_code": 24,
+          "posts_with_code_ratio": 0.3038,
+          "hits_per_post": 0.5696,
+          "share_of_all_hits": 0.0323
+        },
+        "LEX-CASUAL": {
+          "total_hits": 977,
+          "posts_with_code": 71,
+          "posts_with_code_ratio": 0.8987,
+          "hits_per_post": 12.3671,
+          "share_of_all_hits": 0.7019
+        },
+        "LEX-TECH": {
+          "total_hits": 273,
+          "posts_with_code": 65,
+          "posts_with_code_ratio": 0.8228,
+          "hits_per_post": 3.4557,
+          "share_of_all_hits": 0.1961
+        },
+        "LEX-EMOJI": {
+          "total_hits": 74,
+          "posts_with_code": 27,
+          "posts_with_code_ratio": 0.3418,
+          "hits_per_post": 0.9367,
+          "share_of_all_hits": 0.0532
+        },
+        "LEX-AI": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0127,
+          "hits_per_post": 0.0127,
+          "share_of_all_hits": 0.0007
+        },
+        "LEX-HEDGE": {
+          "total_hits": 22,
+          "posts_with_code": 16,
+          "posts_with_code_ratio": 0.2025,
+          "hits_per_post": 0.2785,
+          "share_of_all_hits": 0.0158
+        }
+      },
+      "dominant_code": "LEX-CASUAL"
+    },
+    "ZZOBOT": {
+      "post_count": 1,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.5
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.25
+        },
+        "LEX-EMOJI": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.25
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "cloomi": {
+      "post_count": 1,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 1.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "coldbot": {
+      "post_count": 5,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 11,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.6,
+          "hits_per_post": 2.2,
+          "share_of_all_hits": 0.5238
+        },
+        "LEX-CASUAL": {
+          "total_hits": 8,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.6,
+          "hits_per_post": 1.6,
+          "share_of_all_hits": 0.381
+        },
+        "LEX-TECH": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.4,
+          "share_of_all_hits": 0.0952
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "epoko_claw_firstbot_5": {
+      "post_count": 5,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 18,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.6,
+          "share_of_all_hits": 0.9474
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0526
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "jorongi_2026": {
+      "post_count": 3,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 3,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.75
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.25
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "pioneer": {
+      "post_count": 26,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 178,
+          "posts_with_code": 25,
+          "posts_with_code_ratio": 0.9615,
+          "hits_per_post": 6.8462,
+          "share_of_all_hits": 0.7511
+        },
+        "LEX-CASUAL": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0385,
+          "hits_per_post": 0.0769,
+          "share_of_all_hits": 0.0084
+        },
+        "LEX-TECH": {
+          "total_hits": 53,
+          "posts_with_code": 11,
+          "posts_with_code_ratio": 0.4231,
+          "hits_per_post": 2.0385,
+          "share_of_all_hits": 0.2236
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 4,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.1538,
+          "hits_per_post": 0.1538,
+          "share_of_all_hits": 0.0169
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "ssamz_ai_bot": {
+      "post_count": 34,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 509,
+          "posts_with_code": 34,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 14.9706,
+          "share_of_all_hits": 0.6654
+        },
+        "LEX-CASUAL": {
+          "total_hits": 12,
+          "posts_with_code": 11,
+          "posts_with_code_ratio": 0.3235,
+          "hits_per_post": 0.3529,
+          "share_of_all_hits": 0.0157
+        },
+        "LEX-TECH": {
+          "total_hits": 191,
+          "posts_with_code": 34,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 5.6176,
+          "share_of_all_hits": 0.2497
+        },
+        "LEX-EMOJI": {
+          "total_hits": 41,
+          "posts_with_code": 24,
+          "posts_with_code_ratio": 0.7059,
+          "hits_per_post": 1.2059,
+          "share_of_all_hits": 0.0536
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 12,
+          "posts_with_code": 10,
+          "posts_with_code_ratio": 0.2941,
+          "hits_per_post": 0.3529,
+          "share_of_all_hits": 0.0157
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "ttooribot": {
+      "post_count": 1,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 3,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.0,
+          "share_of_all_hits": 0.3333
+        },
+        "LEX-TECH": {
+          "total_hits": 4,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 4.0,
+          "share_of_all_hits": 0.4444
+        },
+        "LEX-EMOJI": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.2222
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    },
+    "독고종철": {
+      "post_count": 82,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 257,
+          "posts_with_code": 82,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.1341,
+          "share_of_all_hits": 0.6047
+        },
+        "LEX-CASUAL": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.0366,
+          "hits_per_post": 0.0366,
+          "share_of_all_hits": 0.0071
+        },
+        "LEX-TECH": {
+          "total_hits": 154,
+          "posts_with_code": 57,
+          "posts_with_code_ratio": 0.6951,
+          "hits_per_post": 1.878,
+          "share_of_all_hits": 0.3624
+        },
+        "LEX-EMOJI": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0122,
+          "hits_per_post": 0.0244,
+          "share_of_all_hits": 0.0047
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 9,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.0854,
+          "hits_per_post": 0.1098,
+          "share_of_all_hits": 0.0212
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "첼로_우아한_소설가": {
+      "post_count": 1,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-TECH": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 6,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 6.0,
+          "share_of_all_hits": 0.8571
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.1429
+        }
+      },
+      "dominant_code": "LEX-EMOJI"
+    },
+    "클로렐라": {
+      "post_count": 1,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 3,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.0,
+          "share_of_all_hits": 0.75
+        },
+        "LEX-CASUAL": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.25
+        },
+        "LEX-TECH": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    }
+  },
+  "by_madang": {
+    "classical_music": {
+      "post_count": 3,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-CASUAL": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.125
+        },
+        "LEX-TECH": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-EMOJI": {
+          "total_hits": 6,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.75
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.125
+        }
+      },
+      "dominant_code": "LEX-EMOJI"
+    },
+    "cute_ai": {
+      "post_count": 2,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 3,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 1.5,
+          "share_of_all_hits": 0.2308
+        },
+        "LEX-CASUAL": {
+          "total_hits": 3,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 1.5,
+          "share_of_all_hits": 0.2308
+        },
+        "LEX-TECH": {
+          "total_hits": 5,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.5,
+          "share_of_all_hits": 0.3846
+        },
+        "LEX-EMOJI": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.1538
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    },
+    "daily": {
+      "post_count": 43,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 58,
+          "posts_with_code": 32,
+          "posts_with_code_ratio": 0.7442,
+          "hits_per_post": 1.3488,
+          "share_of_all_hits": 0.151
+        },
+        "LEX-CASUAL": {
+          "total_hits": 142,
+          "posts_with_code": 12,
+          "posts_with_code_ratio": 0.2791,
+          "hits_per_post": 3.3023,
+          "share_of_all_hits": 0.3698
+        },
+        "LEX-TECH": {
+          "total_hits": 111,
+          "posts_with_code": 36,
+          "posts_with_code_ratio": 0.8372,
+          "hits_per_post": 2.5814,
+          "share_of_all_hits": 0.2891
+        },
+        "LEX-EMOJI": {
+          "total_hits": 67,
+          "posts_with_code": 26,
+          "posts_with_code_ratio": 0.6047,
+          "hits_per_post": 1.5581,
+          "share_of_all_hits": 0.1745
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 6,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.1163,
+          "hits_per_post": 0.1395,
+          "share_of_all_hits": 0.0156
+        }
+      },
+      "dominant_code": "LEX-CASUAL"
+    },
+    "edutech": {
+      "post_count": 11,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 22,
+          "posts_with_code": 8,
+          "posts_with_code_ratio": 0.7273,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.1447
+        },
+        "LEX-CASUAL": {
+          "total_hits": 110,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.4545,
+          "hits_per_post": 10.0,
+          "share_of_all_hits": 0.7237
+        },
+        "LEX-TECH": {
+          "total_hits": 6,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.4545,
+          "hits_per_post": 0.5455,
+          "share_of_all_hits": 0.0395
+        },
+        "LEX-EMOJI": {
+          "total_hits": 13,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.2727,
+          "hits_per_post": 1.1818,
+          "share_of_all_hits": 0.0855
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0909,
+          "hits_per_post": 0.0909,
+          "share_of_all_hits": 0.0066
+        }
+      },
+      "dominant_code": "LEX-CASUAL"
+    },
+    "finance": {
+      "post_count": 9,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 17,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.7778,
+          "hits_per_post": 1.8889,
+          "share_of_all_hits": 0.1589
+        },
+        "LEX-CASUAL": {
+          "total_hits": 75,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.6667,
+          "hits_per_post": 8.3333,
+          "share_of_all_hits": 0.7009
+        },
+        "LEX-TECH": {
+          "total_hits": 9,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.5556,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.0841
+        },
+        "LEX-EMOJI": {
+          "total_hits": 5,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.2222,
+          "hits_per_post": 0.5556,
+          "share_of_all_hits": 0.0467
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1111,
+          "hits_per_post": 0.1111,
+          "share_of_all_hits": 0.0093
+        }
+      },
+      "dominant_code": "LEX-CASUAL"
+    },
+    "general": {
+      "post_count": 286,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 772,
+          "posts_with_code": 159,
+          "posts_with_code_ratio": 0.5559,
+          "hits_per_post": 2.6993,
+          "share_of_all_hits": 0.4509
+        },
+        "LEX-CASUAL": {
+          "total_hits": 173,
+          "posts_with_code": 60,
+          "posts_with_code_ratio": 0.2098,
+          "hits_per_post": 0.6049,
+          "share_of_all_hits": 0.1011
+        },
+        "LEX-TECH": {
+          "total_hits": 640,
+          "posts_with_code": 206,
+          "posts_with_code_ratio": 0.7203,
+          "hits_per_post": 2.2378,
+          "share_of_all_hits": 0.3738
+        },
+        "LEX-EMOJI": {
+          "total_hits": 98,
+          "posts_with_code": 48,
+          "posts_with_code_ratio": 0.1678,
+          "hits_per_post": 0.3427,
+          "share_of_all_hits": 0.0572
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 29,
+          "posts_with_code": 25,
+          "posts_with_code_ratio": 0.0874,
+          "hits_per_post": 0.1014,
+          "share_of_all_hits": 0.0169
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "korea": {
+      "post_count": 13,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 8,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.3077,
+          "hits_per_post": 0.6154,
+          "share_of_all_hits": 0.0287
+        },
+        "LEX-CASUAL": {
+          "total_hits": 223,
+          "posts_with_code": 13,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 17.1538,
+          "share_of_all_hits": 0.7993
+        },
+        "LEX-TECH": {
+          "total_hits": 31,
+          "posts_with_code": 8,
+          "posts_with_code_ratio": 0.6154,
+          "hits_per_post": 2.3846,
+          "share_of_all_hits": 0.1111
+        },
+        "LEX-EMOJI": {
+          "total_hits": 13,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.4615,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.0466
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 4,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.1538,
+          "hits_per_post": 0.3077,
+          "share_of_all_hits": 0.0143
+        }
+      },
+      "dominant_code": "LEX-CASUAL"
+    },
+    "philosophy": {
+      "post_count": 22,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 12,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.2273,
+          "hits_per_post": 0.5455,
+          "share_of_all_hits": 0.0779
+        },
+        "LEX-CASUAL": {
+          "total_hits": 95,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.4091,
+          "hits_per_post": 4.3182,
+          "share_of_all_hits": 0.6169
+        },
+        "LEX-TECH": {
+          "total_hits": 25,
+          "posts_with_code": 17,
+          "posts_with_code_ratio": 0.7727,
+          "hits_per_post": 1.1364,
+          "share_of_all_hits": 0.1623
+        },
+        "LEX-EMOJI": {
+          "total_hits": 17,
+          "posts_with_code": 8,
+          "posts_with_code_ratio": 0.3636,
+          "hits_per_post": 0.7727,
+          "share_of_all_hits": 0.1104
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 5,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.1364,
+          "hits_per_post": 0.2273,
+          "share_of_all_hits": 0.0325
+        }
+      },
+      "dominant_code": "LEX-CASUAL"
+    },
+    "questions": {
+      "post_count": 3,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 22,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 7.3333,
+          "share_of_all_hits": 0.5946
+        },
+        "LEX-CASUAL": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.027
+        },
+        "LEX-TECH": {
+          "total_hits": 9,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.6667,
+          "hits_per_post": 3.0,
+          "share_of_all_hits": 0.2432
+        },
+        "LEX-EMOJI": {
+          "total_hits": 5,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 1.6667,
+          "share_of_all_hits": 0.1351
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "showcase": {
+      "post_count": 22,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 33,
+          "posts_with_code": 17,
+          "posts_with_code_ratio": 0.7727,
+          "hits_per_post": 1.5,
+          "share_of_all_hits": 0.1728
+        },
+        "LEX-CASUAL": {
+          "total_hits": 72,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.2273,
+          "hits_per_post": 3.2727,
+          "share_of_all_hits": 0.377
+        },
+        "LEX-TECH": {
+          "total_hits": 50,
+          "posts_with_code": 20,
+          "posts_with_code_ratio": 0.9091,
+          "hits_per_post": 2.2727,
+          "share_of_all_hits": 0.2618
+        },
+        "LEX-EMOJI": {
+          "total_hits": 34,
+          "posts_with_code": 16,
+          "posts_with_code_ratio": 0.7273,
+          "hits_per_post": 1.5455,
+          "share_of_all_hits": 0.178
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.0909,
+          "hits_per_post": 0.0909,
+          "share_of_all_hits": 0.0105
+        }
+      },
+      "dominant_code": "LEX-CASUAL"
+    },
+    "tech": {
+      "post_count": 56,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 228,
+          "posts_with_code": 48,
+          "posts_with_code_ratio": 0.8571,
+          "hits_per_post": 4.0714,
+          "share_of_all_hits": 0.4176
+        },
+        "LEX-CASUAL": {
+          "total_hits": 156,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.1607,
+          "hits_per_post": 2.7857,
+          "share_of_all_hits": 0.2857
+        },
+        "LEX-TECH": {
+          "total_hits": 120,
+          "posts_with_code": 36,
+          "posts_with_code_ratio": 0.6429,
+          "hits_per_post": 2.1429,
+          "share_of_all_hits": 0.2198
+        },
+        "LEX-EMOJI": {
+          "total_hits": 34,
+          "posts_with_code": 19,
+          "posts_with_code_ratio": 0.3393,
+          "hits_per_post": 0.6071,
+          "share_of_all_hits": 0.0623
+        },
+        "LEX-AI": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0179,
+          "hits_per_post": 0.0179,
+          "share_of_all_hits": 0.0018
+        },
+        "LEX-HEDGE": {
+          "total_hits": 7,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.1071,
+          "hits_per_post": 0.125,
+          "share_of_all_hits": 0.0128
+        }
+      },
+      "dominant_code": "LEX-FORMAL"
+    },
+    "vibecoding": {
+      "post_count": 30,
+      "codes": {
+        "LEX-FORMAL": {
+          "total_hits": 23,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.2333,
+          "hits_per_post": 0.7667,
+          "share_of_all_hits": 0.1036
+        },
+        "LEX-CASUAL": {
+          "total_hits": 35,
+          "posts_with_code": 21,
+          "posts_with_code_ratio": 0.7,
+          "hits_per_post": 1.1667,
+          "share_of_all_hits": 0.1577
+        },
+        "LEX-TECH": {
+          "total_hits": 161,
+          "posts_with_code": 28,
+          "posts_with_code_ratio": 0.9333,
+          "hits_per_post": 5.3667,
+          "share_of_all_hits": 0.7252
+        },
+        "LEX-EMOJI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-AI": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "LEX-HEDGE": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.1,
+          "hits_per_post": 0.1,
+          "share_of_all_hits": 0.0135
+        }
+      },
+      "dominant_code": "LEX-TECH"
+    }
+  }
+}

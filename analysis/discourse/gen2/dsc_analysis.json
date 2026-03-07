@@ -1,0 +1,2355 @@
+{
+  "axis": "DSC",
+  "description": "담화 구조 — Fairclough 텍스트 층위",
+  "overall": {
+    "total_posts": 330,
+    "total_hits": 2058,
+    "codes": {
+      "DSC-INTRO": {
+        "desc": "도입부 (주제 제시, 인사, 배경)",
+        "total_hits": 81,
+        "posts_with_code": 74,
+        "posts_with_code_ratio": 0.2242,
+        "hits_per_post": 0.2455,
+        "share_of_all_hits": 0.0394
+      },
+      "DSC-BODY": {
+        "desc": "전개부 (논증, 설명, 사례)",
+        "total_hits": 916,
+        "posts_with_code": 227,
+        "posts_with_code_ratio": 0.6879,
+        "hits_per_post": 2.7758,
+        "share_of_all_hits": 0.4451
+      },
+      "DSC-CONC": {
+        "desc": "결론부 (요약, 의견, 제안)",
+        "total_hits": 34,
+        "posts_with_code": 29,
+        "posts_with_code_ratio": 0.0879,
+        "hits_per_post": 0.103,
+        "share_of_all_hits": 0.0165
+      },
+      "DSC-QUESTION": {
+        "desc": "질문 제기",
+        "total_hits": 871,
+        "posts_with_code": 211,
+        "posts_with_code_ratio": 0.6394,
+        "hits_per_post": 2.6394,
+        "share_of_all_hits": 0.4232
+      },
+      "DSC-ARGUMENT": {
+        "desc": "논증/주장",
+        "total_hits": 106,
+        "posts_with_code": 78,
+        "posts_with_code_ratio": 0.2364,
+        "hits_per_post": 0.3212,
+        "share_of_all_hits": 0.0515
+      },
+      "DSC-EXAMPLE": {
+        "desc": "예시/사례",
+        "total_hits": 46,
+        "posts_with_code": 40,
+        "posts_with_code_ratio": 0.1212,
+        "hits_per_post": 0.1394,
+        "share_of_all_hits": 0.0224
+      },
+      "DSC-META": {
+        "desc": "메타담화",
+        "total_hits": 4,
+        "posts_with_code": 4,
+        "posts_with_code_ratio": 0.0121,
+        "hits_per_post": 0.0121,
+        "share_of_all_hits": 0.0019
+      }
+    },
+    "code_ranking": [
+      {
+        "code": "DSC-BODY",
+        "total_hits": 916
+      },
+      {
+        "code": "DSC-QUESTION",
+        "total_hits": 871
+      },
+      {
+        "code": "DSC-ARGUMENT",
+        "total_hits": 106
+      },
+      {
+        "code": "DSC-INTRO",
+        "total_hits": 81
+      },
+      {
+        "code": "DSC-EXAMPLE",
+        "total_hits": 46
+      },
+      {
+        "code": "DSC-CONC",
+        "total_hits": 34
+      },
+      {
+        "code": "DSC-META",
+        "total_hits": 4
+      }
+    ]
+  },
+  "by_agent": {
+    "Ark_IP_V14": {
+      "post_count": 12,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-INTRO"
+    },
+    "BENZIE": {
+      "post_count": 12,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 5,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.4167,
+          "hits_per_post": 0.4167,
+          "share_of_all_hits": 0.1389
+        },
+        "DSC-BODY": {
+          "total_hits": 7,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.1667,
+          "hits_per_post": 0.5833,
+          "share_of_all_hits": 0.1944
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 23,
+          "posts_with_code": 10,
+          "posts_with_code_ratio": 0.8333,
+          "hits_per_post": 1.9167,
+          "share_of_all_hits": 0.6389
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0833,
+          "hits_per_post": 0.0833,
+          "share_of_all_hits": 0.0278
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "BootingBot": {
+      "post_count": 30,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.1,
+          "hits_per_post": 0.1,
+          "share_of_all_hits": 0.0833
+        },
+        "DSC-BODY": {
+          "total_hits": 4,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.1333,
+          "hits_per_post": 0.1333,
+          "share_of_all_hits": 0.1111
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 24,
+          "posts_with_code": 19,
+          "posts_with_code_ratio": 0.6333,
+          "hits_per_post": 0.8,
+          "share_of_all_hits": 0.6667
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0333,
+          "hits_per_post": 0.0333,
+          "share_of_all_hits": 0.0278
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 4,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.1333,
+          "hits_per_post": 0.1333,
+          "share_of_all_hits": 0.1111
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "Doctor_Oh": {
+      "post_count": 1,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 1.0
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "Henry": {
+      "post_count": 2,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.25
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 3,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.5,
+          "share_of_all_hits": 0.75
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-ARGUMENT"
+    },
+    "I_Molt": {
+      "post_count": 27,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 12,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.4444,
+          "share_of_all_hits": 0.0296
+        },
+        "DSC-BODY": {
+          "total_hits": 101,
+          "posts_with_code": 25,
+          "posts_with_code_ratio": 0.9259,
+          "hits_per_post": 3.7407,
+          "share_of_all_hits": 0.2488
+        },
+        "DSC-CONC": {
+          "total_hits": 15,
+          "posts_with_code": 13,
+          "posts_with_code_ratio": 0.4815,
+          "hits_per_post": 0.5556,
+          "share_of_all_hits": 0.0369
+        },
+        "DSC-QUESTION": {
+          "total_hits": 258,
+          "posts_with_code": 27,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 9.5556,
+          "share_of_all_hits": 0.6355
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 9,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.2222,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.0222
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 9,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.1852,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.0222
+        },
+        "DSC-META": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.0741,
+          "hits_per_post": 0.0741,
+          "share_of_all_hits": 0.0049
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "MUSE": {
+      "post_count": 6,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1667,
+          "hits_per_post": 0.1667,
+          "share_of_all_hits": 0.1667
+        },
+        "DSC-CONC": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1667,
+          "hits_per_post": 0.1667,
+          "share_of_all_hits": 0.1667
+        },
+        "DSC-QUESTION": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.5
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1667,
+          "hits_per_post": 0.1667,
+          "share_of_all_hits": 0.1667
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "OctoContent": {
+      "post_count": 3,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 1.0
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "OpenClaw": {
+      "post_count": 2,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 7,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 3.5,
+          "share_of_all_hits": 0.4118
+        },
+        "DSC-CONC": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.0588
+        },
+        "DSC-QUESTION": {
+          "total_hits": 8,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 4.0,
+          "share_of_all_hits": 0.4706
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.0588
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "OpenClaw_KR": {
+      "post_count": 18,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 7,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.3889,
+          "hits_per_post": 0.3889,
+          "share_of_all_hits": 0.0833
+        },
+        "DSC-BODY": {
+          "total_hits": 63,
+          "posts_with_code": 18,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.5,
+          "share_of_all_hits": 0.75
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 12,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.6667,
+          "share_of_all_hits": 0.1429
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.1111,
+          "hits_per_post": 0.1111,
+          "share_of_all_hits": 0.0238
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "Phoebe": {
+      "post_count": 26,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0385,
+          "hits_per_post": 0.0385,
+          "share_of_all_hits": 0.0078
+        },
+        "DSC-BODY": {
+          "total_hits": 42,
+          "posts_with_code": 23,
+          "posts_with_code_ratio": 0.8846,
+          "hits_per_post": 1.6154,
+          "share_of_all_hits": 0.3281
+        },
+        "DSC-CONC": {
+          "total_hits": 4,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.1538,
+          "hits_per_post": 0.1538,
+          "share_of_all_hits": 0.0312
+        },
+        "DSC-QUESTION": {
+          "total_hits": 72,
+          "posts_with_code": 25,
+          "posts_with_code_ratio": 0.9615,
+          "hits_per_post": 2.7692,
+          "share_of_all_hits": 0.5625
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 9,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.3462,
+          "hits_per_post": 0.3462,
+          "share_of_all_hits": 0.0703
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "Pyran_Secret": {
+      "post_count": 1,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 1.0
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-INTRO"
+    },
+    "RobertBot": {
+      "post_count": 30,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 90,
+          "posts_with_code": 30,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.0,
+          "share_of_all_hits": 0.8654
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 14,
+          "posts_with_code": 14,
+          "posts_with_code_ratio": 0.4667,
+          "hits_per_post": 0.4667,
+          "share_of_all_hits": 0.1346
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "RosieAI": {
+      "post_count": 4,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 6,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 1.5,
+          "share_of_all_hits": 0.375
+        },
+        "DSC-CONC": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.25,
+          "hits_per_post": 0.25,
+          "share_of_all_hits": 0.0625
+        },
+        "DSC-QUESTION": {
+          "total_hits": 7,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.75,
+          "share_of_all_hits": 0.4375
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.25,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.125
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "TruthChaser": {
+      "post_count": 7,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 5,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.7143,
+          "hits_per_post": 0.7143,
+          "share_of_all_hits": 0.125
+        },
+        "DSC-BODY": {
+          "total_hits": 4,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1429,
+          "hits_per_post": 0.5714,
+          "share_of_all_hits": 0.1
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 30,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 4.2857,
+          "share_of_all_hits": 0.75
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1429,
+          "hits_per_post": 0.1429,
+          "share_of_all_hits": 0.025
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "Van": {
+      "post_count": 5,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 5,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.8,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.0769
+        },
+        "DSC-BODY": {
+          "total_hits": 39,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.8,
+          "hits_per_post": 7.8,
+          "share_of_all_hits": 0.6
+        },
+        "DSC-CONC": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0154
+        },
+        "DSC-QUESTION": {
+          "total_hits": 19,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.8,
+          "share_of_all_hits": 0.2923
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0154
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "VibeCoding": {
+      "post_count": 30,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 148,
+          "posts_with_code": 21,
+          "posts_with_code_ratio": 0.7,
+          "hits_per_post": 4.9333,
+          "share_of_all_hits": 0.4169
+        },
+        "DSC-CONC": {
+          "total_hits": 9,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.3,
+          "share_of_all_hits": 0.0254
+        },
+        "DSC-QUESTION": {
+          "total_hits": 184,
+          "posts_with_code": 26,
+          "posts_with_code_ratio": 0.8667,
+          "hits_per_post": 6.1333,
+          "share_of_all_hits": 0.5183
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 8,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 0.2333,
+          "hits_per_post": 0.2667,
+          "share_of_all_hits": 0.0225
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 6,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.1333,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0169
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "ZZOBOT": {
+      "post_count": 1,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.5
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.5
+        }
+      },
+      "dominant_code": "DSC-INTRO"
+    },
+    "cloomi": {
+      "post_count": 1,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 1.0
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-INTRO"
+    },
+    "coldbot": {
+      "post_count": 5,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 4,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.6,
+          "hits_per_post": 0.8,
+          "share_of_all_hits": 0.1818
+        },
+        "DSC-BODY": {
+          "total_hits": 6,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.6,
+          "hits_per_post": 1.2,
+          "share_of_all_hits": 0.2727
+        },
+        "DSC-CONC": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0455
+        },
+        "DSC-QUESTION": {
+          "total_hits": 10,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.6,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.4545
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0455
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "epoko_claw_firstbot_5": {
+      "post_count": 5,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 9,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.8,
+          "share_of_all_hits": 0.3214
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 19,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.8,
+          "share_of_all_hits": 0.6786
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "jorongi_2026": {
+      "post_count": 4,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.25,
+          "hits_per_post": 0.25,
+          "share_of_all_hits": 0.1429
+        },
+        "DSC-BODY": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.5,
+          "share_of_all_hits": 0.2857
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 3,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.75,
+          "share_of_all_hits": 0.4286
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.25,
+          "hits_per_post": 0.25,
+          "share_of_all_hits": 0.1429
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "pioneer": {
+      "post_count": 30,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 8,
+          "posts_with_code": 8,
+          "posts_with_code_ratio": 0.2667,
+          "hits_per_post": 0.2667,
+          "share_of_all_hits": 0.0602
+        },
+        "DSC-BODY": {
+          "total_hits": 77,
+          "posts_with_code": 27,
+          "posts_with_code_ratio": 0.9,
+          "hits_per_post": 2.5667,
+          "share_of_all_hits": 0.5789
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 18,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.1667,
+          "hits_per_post": 0.6,
+          "share_of_all_hits": 0.1353
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 21,
+          "posts_with_code": 15,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 0.7,
+          "share_of_all_hits": 0.1579
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 9,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.3,
+          "hits_per_post": 0.3,
+          "share_of_all_hits": 0.0677
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "ssamz_ai_bot": {
+      "post_count": 30,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 19,
+          "posts_with_code": 17,
+          "posts_with_code_ratio": 0.5667,
+          "hits_per_post": 0.6333,
+          "share_of_all_hits": 0.0432
+        },
+        "DSC-BODY": {
+          "total_hits": 241,
+          "posts_with_code": 30,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 8.0333,
+          "share_of_all_hits": 0.5477
+        },
+        "DSC-CONC": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0333,
+          "hits_per_post": 0.0333,
+          "share_of_all_hits": 0.0023
+        },
+        "DSC-QUESTION": {
+          "total_hits": 130,
+          "posts_with_code": 30,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 4.3333,
+          "share_of_all_hits": 0.2955
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 37,
+          "posts_with_code": 22,
+          "posts_with_code_ratio": 0.7333,
+          "hits_per_post": 1.2333,
+          "share_of_all_hits": 0.0841
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 12,
+          "posts_with_code": 12,
+          "posts_with_code_ratio": 0.4,
+          "hits_per_post": 0.4,
+          "share_of_all_hits": 0.0273
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "ttooribot": {
+      "post_count": 5,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.6,
+          "hits_per_post": 0.6,
+          "share_of_all_hits": 0.125
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 19,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 3.8,
+          "share_of_all_hits": 0.7917
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.4,
+          "hits_per_post": 0.4,
+          "share_of_all_hits": 0.0833
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "노드_node": {
+      "post_count": 1,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 1.0
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-INTRO"
+    },
+    "독고종철": {
+      "post_count": 30,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 6,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0625
+        },
+        "DSC-BODY": {
+          "total_hits": 66,
+          "posts_with_code": 25,
+          "posts_with_code_ratio": 0.8333,
+          "hits_per_post": 2.2,
+          "share_of_all_hits": 0.6875
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 12,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.3,
+          "hits_per_post": 0.4,
+          "share_of_all_hits": 0.125
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 5,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.1333,
+          "hits_per_post": 0.1667,
+          "share_of_all_hits": 0.0521
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 6,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0625
+        },
+        "DSC-META": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0333,
+          "hits_per_post": 0.0333,
+          "share_of_all_hits": 0.0104
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "첼로_우아한_소설가": {
+      "post_count": 1,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.3333
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 2.0,
+          "share_of_all_hits": 0.6667
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "클로렐라": {
+      "post_count": 1,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-INTRO"
+    }
+  },
+  "by_madang": {
+    "classical_music": {
+      "post_count": 7,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1429,
+          "hits_per_post": 0.1429,
+          "share_of_all_hits": 0.0909
+        },
+        "DSC-CONC": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1429,
+          "hits_per_post": 0.1429,
+          "share_of_all_hits": 0.0909
+        },
+        "DSC-QUESTION": {
+          "total_hits": 7,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.5714,
+          "hits_per_post": 1.0,
+          "share_of_all_hits": 0.6364
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.2857,
+          "hits_per_post": 0.2857,
+          "share_of_all_hits": 0.1818
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "cute_ai": {
+      "post_count": 1,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 5,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 5.0,
+          "share_of_all_hits": 1.0
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "daily": {
+      "post_count": 34,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 6,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.1765,
+          "hits_per_post": 0.1765,
+          "share_of_all_hits": 0.026
+        },
+        "DSC-BODY": {
+          "total_hits": 112,
+          "posts_with_code": 27,
+          "posts_with_code_ratio": 0.7941,
+          "hits_per_post": 3.2941,
+          "share_of_all_hits": 0.4848
+        },
+        "DSC-CONC": {
+          "total_hits": 4,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.1176,
+          "hits_per_post": 0.1176,
+          "share_of_all_hits": 0.0173
+        },
+        "DSC-QUESTION": {
+          "total_hits": 103,
+          "posts_with_code": 27,
+          "posts_with_code_ratio": 0.7941,
+          "hits_per_post": 3.0294,
+          "share_of_all_hits": 0.4459
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 5,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.1176,
+          "hits_per_post": 0.1471,
+          "share_of_all_hits": 0.0216
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0294,
+          "hits_per_post": 0.0294,
+          "share_of_all_hits": 0.0043
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "edutech": {
+      "post_count": 3,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 14,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 4.6667,
+          "share_of_all_hits": 0.3889
+        },
+        "DSC-CONC": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.6667,
+          "share_of_all_hits": 0.0556
+        },
+        "DSC-QUESTION": {
+          "total_hits": 19,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 6.3333,
+          "share_of_all_hits": 0.5278
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.3333,
+          "hits_per_post": 0.3333,
+          "share_of_all_hits": 0.0278
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "finance": {
+      "post_count": 2,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 19,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.5,
+          "hits_per_post": 9.5,
+          "share_of_all_hits": 0.6333
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 11,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 5.5,
+          "share_of_all_hits": 0.3667
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "general": {
+      "post_count": 151,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 47,
+          "posts_with_code": 44,
+          "posts_with_code_ratio": 0.2914,
+          "hits_per_post": 0.3113,
+          "share_of_all_hits": 0.0566
+        },
+        "DSC-BODY": {
+          "total_hits": 414,
+          "posts_with_code": 89,
+          "posts_with_code_ratio": 0.5894,
+          "hits_per_post": 2.7417,
+          "share_of_all_hits": 0.4982
+        },
+        "DSC-CONC": {
+          "total_hits": 6,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.0397,
+          "hits_per_post": 0.0397,
+          "share_of_all_hits": 0.0072
+        },
+        "DSC-QUESTION": {
+          "total_hits": 286,
+          "posts_with_code": 90,
+          "posts_with_code_ratio": 0.596,
+          "hits_per_post": 1.894,
+          "share_of_all_hits": 0.3442
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 52,
+          "posts_with_code": 35,
+          "posts_with_code_ratio": 0.2318,
+          "hits_per_post": 0.3444,
+          "share_of_all_hits": 0.0626
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 23,
+          "posts_with_code": 23,
+          "posts_with_code_ratio": 0.1523,
+          "hits_per_post": 0.1523,
+          "share_of_all_hits": 0.0277
+        },
+        "DSC-META": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.0199,
+          "hits_per_post": 0.0199,
+          "share_of_all_hits": 0.0036
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "korea": {
+      "post_count": 5,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 44,
+          "posts_with_code": 4,
+          "posts_with_code_ratio": 0.8,
+          "hits_per_post": 8.8,
+          "share_of_all_hits": 0.4074
+        },
+        "DSC-CONC": {
+          "total_hits": 4,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.4,
+          "hits_per_post": 0.8,
+          "share_of_all_hits": 0.037
+        },
+        "DSC-QUESTION": {
+          "total_hits": 57,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 11.4,
+          "share_of_all_hits": 0.5278
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0093
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 2,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.4,
+          "share_of_all_hits": 0.0185
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "philosophy": {
+      "post_count": 35,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 5,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.1429,
+          "hits_per_post": 0.1429,
+          "share_of_all_hits": 0.022
+        },
+        "DSC-BODY": {
+          "total_hits": 71,
+          "posts_with_code": 27,
+          "posts_with_code_ratio": 0.7714,
+          "hits_per_post": 2.0286,
+          "share_of_all_hits": 0.3128
+        },
+        "DSC-CONC": {
+          "total_hits": 6,
+          "posts_with_code": 6,
+          "posts_with_code_ratio": 0.1714,
+          "hits_per_post": 0.1714,
+          "share_of_all_hits": 0.0264
+        },
+        "DSC-QUESTION": {
+          "total_hits": 133,
+          "posts_with_code": 31,
+          "posts_with_code_ratio": 0.8857,
+          "hits_per_post": 3.8,
+          "share_of_all_hits": 0.5859
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 12,
+          "posts_with_code": 12,
+          "posts_with_code_ratio": 0.3429,
+          "hits_per_post": 0.3429,
+          "share_of_all_hits": 0.0529
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "questions": {
+      "post_count": 7,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 4,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.4286,
+          "hits_per_post": 0.5714,
+          "share_of_all_hits": 0.0328
+        },
+        "DSC-BODY": {
+          "total_hits": 27,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.7143,
+          "hits_per_post": 3.8571,
+          "share_of_all_hits": 0.2213
+        },
+        "DSC-CONC": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1429,
+          "hits_per_post": 0.1429,
+          "share_of_all_hits": 0.0082
+        },
+        "DSC-QUESTION": {
+          "total_hits": 85,
+          "posts_with_code": 7,
+          "posts_with_code_ratio": 1.0,
+          "hits_per_post": 12.1429,
+          "share_of_all_hits": 0.6967
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 5,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.1429,
+          "hits_per_post": 0.7143,
+          "share_of_all_hits": 0.041
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "showcase": {
+      "post_count": 17,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 5,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.1765,
+          "hits_per_post": 0.2941,
+          "share_of_all_hits": 0.0424
+        },
+        "DSC-BODY": {
+          "total_hits": 50,
+          "posts_with_code": 15,
+          "posts_with_code_ratio": 0.8824,
+          "hits_per_post": 2.9412,
+          "share_of_all_hits": 0.4237
+        },
+        "DSC-CONC": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.1765,
+          "hits_per_post": 0.1765,
+          "share_of_all_hits": 0.0254
+        },
+        "DSC-QUESTION": {
+          "total_hits": 52,
+          "posts_with_code": 11,
+          "posts_with_code_ratio": 0.6471,
+          "hits_per_post": 3.0588,
+          "share_of_all_hits": 0.4407
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 5,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.1765,
+          "hits_per_post": 0.2941,
+          "share_of_all_hits": 0.0424
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 2,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.1176,
+          "hits_per_post": 0.1176,
+          "share_of_all_hits": 0.0169
+        },
+        "DSC-META": {
+          "total_hits": 1,
+          "posts_with_code": 1,
+          "posts_with_code_ratio": 0.0588,
+          "hits_per_post": 0.0588,
+          "share_of_all_hits": 0.0085
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    },
+    "tech": {
+      "post_count": 53,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 14,
+          "posts_with_code": 13,
+          "posts_with_code_ratio": 0.2453,
+          "hits_per_post": 0.2642,
+          "share_of_all_hits": 0.0476
+        },
+        "DSC-BODY": {
+          "total_hits": 145,
+          "posts_with_code": 45,
+          "posts_with_code_ratio": 0.8491,
+          "hits_per_post": 2.7358,
+          "share_of_all_hits": 0.4932
+        },
+        "DSC-CONC": {
+          "total_hits": 7,
+          "posts_with_code": 5,
+          "posts_with_code_ratio": 0.0943,
+          "hits_per_post": 0.1321,
+          "share_of_all_hits": 0.0238
+        },
+        "DSC-QUESTION": {
+          "total_hits": 93,
+          "posts_with_code": 18,
+          "posts_with_code_ratio": 0.3396,
+          "hits_per_post": 1.7547,
+          "share_of_all_hits": 0.3163
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 26,
+          "posts_with_code": 18,
+          "posts_with_code_ratio": 0.3396,
+          "hits_per_post": 0.4906,
+          "share_of_all_hits": 0.0884
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 9,
+          "posts_with_code": 9,
+          "posts_with_code_ratio": 0.1698,
+          "hits_per_post": 0.1698,
+          "share_of_all_hits": 0.0306
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-BODY"
+    },
+    "vibecoding": {
+      "post_count": 15,
+      "codes": {
+        "DSC-INTRO": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-BODY": {
+          "total_hits": 19,
+          "posts_with_code": 12,
+          "posts_with_code_ratio": 0.8,
+          "hits_per_post": 1.2667,
+          "share_of_all_hits": 0.4222
+        },
+        "DSC-CONC": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        },
+        "DSC-QUESTION": {
+          "total_hits": 20,
+          "posts_with_code": 12,
+          "posts_with_code_ratio": 0.8,
+          "hits_per_post": 1.3333,
+          "share_of_all_hits": 0.4444
+        },
+        "DSC-ARGUMENT": {
+          "total_hits": 3,
+          "posts_with_code": 3,
+          "posts_with_code_ratio": 0.2,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0667
+        },
+        "DSC-EXAMPLE": {
+          "total_hits": 3,
+          "posts_with_code": 2,
+          "posts_with_code_ratio": 0.1333,
+          "hits_per_post": 0.2,
+          "share_of_all_hits": 0.0667
+        },
+        "DSC-META": {
+          "total_hits": 0,
+          "posts_with_code": 0,
+          "posts_with_code_ratio": 0.0,
+          "hits_per_post": 0.0,
+          "share_of_all_hits": 0.0
+        }
+      },
+      "dominant_code": "DSC-QUESTION"
+    }
+  }
+}

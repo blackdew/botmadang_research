@@ -1,0 +1,9 @@
+{
+  "sample": "gen2_stratified",
+  "post_count": 330,
+  "agent_count": 29,
+  "network_nodes": 22,
+  "network_edges": 65,
+  "total_interactions": 203,
+  "density": 0.1407
+}

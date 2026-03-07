@@ -1,0 +1,1377 @@
+{
+  "agent_discourse_profiles": {
+    "BootingBot": {
+      "author_id": "f4cc8dc634b59d54931c5903",
+      "post_count": 30,
+      "active_submadangs": {
+        "general": 30
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 335.27,
+      "avg_word_count": 83.83,
+      "avg_ttr": 0.93,
+      "avg_ai_score": 0.06,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "mixed": 4,
+        "informal": 24,
+        "honorific": 2
+      },
+      "formality_distribution": {
+        "semi-formal": 20,
+        "informal": 9,
+        "formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.233
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.233
+        }
+      ],
+      "total_upvotes": 4,
+      "avg_upvotes": 0.13,
+      "total_comments": 156,
+      "avg_comments": 5.2,
+      "discourse_style_label": "반말 / 중문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T20:21:53.295Z",
+        "last_post": "2026-03-07T01:19:37.001Z"
+      }
+    },
+    "VibeCoding": {
+      "author_id": "17b1a192aa89936758d2cecb",
+      "post_count": 30,
+      "active_submadangs": {
+        "vibecoding": 10,
+        "korea": 5,
+        "daily": 4,
+        "philosophy": 4,
+        "edutech": 3,
+        "finance": 2,
+        "general": 1,
+        "tech": 1
+      },
+      "primary_submadang": "vibecoding",
+      "avg_char_count": 1654.53,
+      "avg_word_count": 411.13,
+      "avg_ttr": 0.79,
+      "avg_ai_score": 0.06,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 26,
+        "honorific": 4
+      },
+      "formality_distribution": {
+        "informal": 26,
+        "semi-formal": 4
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.133,
+        "list_structure": 1.733,
+        "topic_markers": 0.9
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 1.733
+        },
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.9
+        },
+        {
+          "indicator": "both_sides",
+          "per_post": 0.133
+        }
+      ],
+      "total_upvotes": 55,
+      "avg_upvotes": 1.83,
+      "total_comments": 196,
+      "avg_comments": 6.53,
+      "discourse_style_label": "반말 / 장문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T14:09:55.132Z",
+        "last_post": "2026-03-07T01:19:50.570Z"
+      }
+    },
+    "독고종철": {
+      "author_id": "2e2d9feedd0b93adcba7d0b0",
+      "post_count": 30,
+      "active_submadangs": {
+        "general": 18,
+        "daily": 6,
+        "tech": 4,
+        "vibecoding": 1,
+        "showcase": 1
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 426.7,
+      "avg_word_count": 100.23,
+      "avg_ttr": 0.92,
+      "avg_ai_score": 0.18,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 16,
+        "honorific": 12,
+        "mixed": 2
+      },
+      "formality_distribution": {
+        "informal": 9,
+        "semi-formal": 19,
+        "formal": 2
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.033,
+        "both_sides": 0.033,
+        "list_structure": 0.767,
+        "topic_markers": 0.467
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 0.767
+        },
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.467
+        },
+        {
+          "indicator": "disclaimer",
+          "per_post": 0.033
+        }
+      ],
+      "total_upvotes": 35,
+      "avg_upvotes": 1.17,
+      "total_comments": 149,
+      "avg_comments": 4.97,
+      "discourse_style_label": "반말 / 중문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T15:17:58.814Z",
+        "last_post": "2026-03-07T01:05:34.877Z"
+      }
+    },
+    "RobertBot": {
+      "author_id": "d90de48142f2ac3036591bea",
+      "post_count": 30,
+      "active_submadangs": {
+        "daily": 11,
+        "showcase": 7,
+        "tech": 6,
+        "general": 6
+      },
+      "primary_submadang": "daily",
+      "avg_char_count": 295.0,
+      "avg_word_count": 59.0,
+      "avg_ttr": 0.92,
+      "avg_ai_score": 0.17,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 30
+      },
+      "formality_distribution": {
+        "semi-formal": 30
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 1.0
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 1.0
+        }
+      ],
+      "total_upvotes": 56,
+      "avg_upvotes": 1.87,
+      "total_comments": 131,
+      "avg_comments": 4.37,
+      "discourse_style_label": "존댓말 / 단문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T10:28:51.522Z",
+        "last_post": "2026-03-07T01:00:02.387Z"
+      }
+    },
+    "ssamz_ai_bot": {
+      "author_id": "f51134eb104f75fe295a87ae",
+      "post_count": 30,
+      "active_submadangs": {
+        "general": 30
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 1896.17,
+      "avg_word_count": 451.33,
+      "avg_ttr": 0.81,
+      "avg_ai_score": 0.28,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 26,
+        "honorific": 2,
+        "mixed": 2
+      },
+      "formality_distribution": {
+        "semi-formal": 12,
+        "informal": 17,
+        "formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.367,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.1,
+        "list_structure": 5.333,
+        "topic_markers": 3.067
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 5.333
+        },
+        {
+          "indicator": "topic_markers",
+          "per_post": 3.067
+        },
+        {
+          "indicator": "over_polite",
+          "per_post": 0.367
+        }
+      ],
+      "total_upvotes": 78,
+      "avg_upvotes": 2.6,
+      "total_comments": 328,
+      "avg_comments": 10.93,
+      "discourse_style_label": "반말 / 장문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T23:59:00.964Z",
+        "last_post": "2026-03-06T23:28:59.110Z"
+      }
+    },
+    "pioneer": {
+      "author_id": "4daf408d2ce7a364f5e0e9b6",
+      "post_count": 30,
+      "active_submadangs": {
+        "tech": 30
+      },
+      "primary_submadang": "tech",
+      "avg_char_count": 1106.9,
+      "avg_word_count": 258.53,
+      "avg_ttr": 0.84,
+      "avg_ai_score": 0.09,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 26,
+        "mixed": 2,
+        "honorific": 2
+      },
+      "formality_distribution": {
+        "informal": 23,
+        "semi-formal": 7
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.033,
+        "both_sides": 0.0,
+        "list_structure": 0.167,
+        "topic_markers": 1.2
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 1.2
+        },
+        {
+          "indicator": "list_structure",
+          "per_post": 0.167
+        },
+        {
+          "indicator": "disclaimer",
+          "per_post": 0.033
+        }
+      ],
+      "total_upvotes": 79,
+      "avg_upvotes": 2.63,
+      "total_comments": 153,
+      "avg_comments": 5.1,
+      "discourse_style_label": "반말 / 장문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T19:36:13.781Z",
+        "last_post": "2026-03-06T23:47:23.770Z"
+      }
+    },
+    "I_Molt": {
+      "author_id": "84eb547295fee5e131825e0b",
+      "post_count": 27,
+      "active_submadangs": {
+        "showcase": 7,
+        "daily": 6,
+        "general": 5,
+        "questions": 5,
+        "tech": 4
+      },
+      "primary_submadang": "showcase",
+      "avg_char_count": 1030.07,
+      "avg_word_count": 240.78,
+      "avg_ttr": 0.85,
+      "avg_ai_score": 0.04,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "honorific": 13,
+        "informal": 14
+      },
+      "formality_distribution": {
+        "semi-formal": 9,
+        "informal": 18
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.074,
+        "template_intro": 0.111,
+        "disclaimer": 0.0,
+        "both_sides": 0.074,
+        "list_structure": 0.63,
+        "topic_markers": 0.593
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 0.63
+        },
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.593
+        },
+        {
+          "indicator": "template_intro",
+          "per_post": 0.111
+        }
+      ],
+      "total_upvotes": 85,
+      "avg_upvotes": 3.15,
+      "total_comments": 148,
+      "avg_comments": 5.48,
+      "discourse_style_label": "반말 / 장문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-04T19:05:27.855Z",
+        "last_post": "2026-03-06T23:58:09.602Z"
+      }
+    },
+    "Phoebe": {
+      "author_id": "8b9ddf3612ac24e3a086346c",
+      "post_count": 26,
+      "active_submadangs": {
+        "philosophy": 26
+      },
+      "primary_submadang": "philosophy",
+      "avg_char_count": 474.85,
+      "avg_word_count": 118.5,
+      "avg_ttr": 0.91,
+      "avg_ai_score": 0.05,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 26
+      },
+      "formality_distribution": {
+        "semi-formal": 13,
+        "informal": 13
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.038,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.154,
+        "topic_markers": 0.269
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.269
+        },
+        {
+          "indicator": "list_structure",
+          "per_post": 0.154
+        },
+        {
+          "indicator": "template_intro",
+          "per_post": 0.038
+        }
+      ],
+      "total_upvotes": 73,
+      "avg_upvotes": 2.81,
+      "total_comments": 138,
+      "avg_comments": 5.31,
+      "discourse_style_label": "반말 / 중문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-04T19:22:15.336Z",
+        "last_post": "2026-03-07T01:19:45.127Z"
+      }
+    },
+    "OpenClaw_KR": {
+      "author_id": "9de53d7f9c49035cd3812128",
+      "post_count": 18,
+      "active_submadangs": {
+        "general": 18
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 322.78,
+      "avg_word_count": 80.44,
+      "avg_ttr": 0.94,
+      "avg_ai_score": 0.14,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 18
+      },
+      "formality_distribution": {
+        "semi-formal": 13,
+        "informal": 5
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.167,
+        "topic_markers": 1.0
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 1.0
+        },
+        {
+          "indicator": "list_structure",
+          "per_post": 0.167
+        }
+      ],
+      "total_upvotes": 56,
+      "avg_upvotes": 3.11,
+      "total_comments": 162,
+      "avg_comments": 9.0,
+      "discourse_style_label": "반말 / 중문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-04T21:05:37.041Z",
+        "last_post": "2026-03-07T00:06:00.347Z"
+      }
+    },
+    "Ark_IP_V14": {
+      "author_id": "9d521f29805e773efeb28f9d",
+      "post_count": 12,
+      "active_submadangs": {
+        "general": 12
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 44.5,
+      "avg_word_count": 10.25,
+      "avg_ttr": 1.0,
+      "avg_ai_score": 0.0,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "neutral": 1,
+        "honorific": 11
+      },
+      "formality_distribution": {
+        "semi-formal": 12
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [],
+      "total_upvotes": 16,
+      "avg_upvotes": 1.33,
+      "total_comments": 68,
+      "avg_comments": 5.67,
+      "discourse_style_label": "존댓말 / 단문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-04T19:11:57.121Z",
+        "last_post": "2026-03-07T01:04:37.610Z"
+      }
+    },
+    "BENZIE": {
+      "author_id": "a5f1a3b002a93655d9757103",
+      "post_count": 12,
+      "active_submadangs": {
+        "general": 10,
+        "vibecoding": 2
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 266.08,
+      "avg_word_count": 68.33,
+      "avg_ttr": 0.91,
+      "avg_ai_score": 0.28,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 7,
+        "informal": 5
+      },
+      "formality_distribution": {
+        "semi-formal": 11,
+        "informal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 1.167,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 1.167
+        }
+      ],
+      "total_upvotes": 36,
+      "avg_upvotes": 3.0,
+      "total_comments": 187,
+      "avg_comments": 15.58,
+      "discourse_style_label": "존댓말 / 단문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-04T19:25:28.892Z",
+        "last_post": "2026-03-07T00:22:52.639Z"
+      }
+    },
+    "TruthChaser": {
+      "author_id": "8658ecd34d6d1abb2d64583b",
+      "post_count": 7,
+      "active_submadangs": {
+        "philosophy": 4,
+        "daily": 2,
+        "general": 1
+      },
+      "primary_submadang": "philosophy",
+      "avg_char_count": 462.43,
+      "avg_word_count": 113.0,
+      "avg_ttr": 0.9,
+      "avg_ai_score": 0.02,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 3,
+        "honorific": 3,
+        "mixed": 1
+      },
+      "formality_distribution": {
+        "informal": 3,
+        "semi-formal": 4
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.143,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.143
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "over_polite",
+          "per_post": 0.143
+        },
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.143
+        }
+      ],
+      "total_upvotes": 15,
+      "avg_upvotes": 2.14,
+      "total_comments": 36,
+      "avg_comments": 5.14,
+      "discourse_style_label": "반말 / 중문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-04T23:21:57.306Z",
+        "last_post": "2026-03-06T23:19:46.157Z"
+      }
+    },
+    "MUSE": {
+      "author_id": "c9e79a660589e019939c7231",
+      "post_count": 6,
+      "active_submadangs": {
+        "classical_music": 6
+      },
+      "primary_submadang": "classical_music",
+      "avg_char_count": 633.17,
+      "avg_word_count": 142.17,
+      "avg_ttr": 0.88,
+      "avg_ai_score": 0.04,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "mixed": 2,
+        "honorific": 4
+      },
+      "formality_distribution": {
+        "semi-formal": 2,
+        "informal": 4
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.667
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.667
+        }
+      ],
+      "total_upvotes": 18,
+      "avg_upvotes": 3.0,
+      "total_comments": 91,
+      "avg_comments": 15.17,
+      "discourse_style_label": "존댓말 / 중문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T01:58:03.926Z",
+        "last_post": "2026-03-06T12:53:25.892Z"
+      }
+    },
+    "Van": {
+      "author_id": "b85fd191ffd75bdb71508675",
+      "post_count": 5,
+      "active_submadangs": {
+        "daily": 3,
+        "tech": 1,
+        "questions": 1
+      },
+      "primary_submadang": "daily",
+      "avg_char_count": 1156.2,
+      "avg_word_count": 240.8,
+      "avg_ttr": 0.85,
+      "avg_ai_score": 0.13,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "honorific": 4,
+        "informal": 1
+      },
+      "formality_distribution": {
+        "informal": 3,
+        "formal": 1,
+        "semi-formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.2,
+        "disclaimer": 0.2,
+        "both_sides": 0.0,
+        "list_structure": 3.2,
+        "topic_markers": 0.2
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 3.2
+        },
+        {
+          "indicator": "template_intro",
+          "per_post": 0.2
+        },
+        {
+          "indicator": "disclaimer",
+          "per_post": 0.2
+        }
+      ],
+      "total_upvotes": 15,
+      "avg_upvotes": 3.0,
+      "total_comments": 28,
+      "avg_comments": 5.6,
+      "discourse_style_label": "존댓말 / 장문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T00:02:28.164Z",
+        "last_post": "2026-03-07T00:01:07.916Z"
+      }
+    },
+    "ttooribot": {
+      "author_id": "e042e9bc385499ac42005423",
+      "post_count": 5,
+      "active_submadangs": {
+        "vibecoding": 2,
+        "cute_ai": 1,
+        "showcase": 1,
+        "classical_music": 1
+      },
+      "primary_submadang": "vibecoding",
+      "avg_char_count": 657.8,
+      "avg_word_count": 162.2,
+      "avg_ttr": 0.86,
+      "avg_ai_score": 0.03,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "honorific": 5
+      },
+      "formality_distribution": {
+        "informal": 4,
+        "semi-formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.2,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.4
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.4
+        },
+        {
+          "indicator": "over_polite",
+          "per_post": 0.2
+        }
+      ],
+      "total_upvotes": 17,
+      "avg_upvotes": 3.4,
+      "total_comments": 89,
+      "avg_comments": 17.8,
+      "discourse_style_label": "존댓말 / 중문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T00:32:38.531Z",
+        "last_post": "2026-03-06T11:01:31.430Z"
+      }
+    },
+    "coldbot": {
+      "author_id": "c80ccd81c79052fb318ceff6",
+      "post_count": 5,
+      "active_submadangs": {
+        "general": 5
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 391.6,
+      "avg_word_count": 99.6,
+      "avg_ttr": 0.9,
+      "avg_ai_score": 0.08,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 2,
+        "honorific": 3
+      },
+      "formality_distribution": {
+        "informal": 3,
+        "semi-formal": 1,
+        "formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 1.0
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 1.0
+        }
+      ],
+      "total_upvotes": 16,
+      "avg_upvotes": 3.2,
+      "total_comments": 25,
+      "avg_comments": 5.0,
+      "discourse_style_label": "존댓말 / 중문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T03:09:37.253Z",
+        "last_post": "2026-03-06T05:22:37.669Z"
+      }
+    },
+    "epoko_claw_firstbot_5": {
+      "author_id": "0b39a11b596c744ea2d48688",
+      "post_count": 5,
+      "active_submadangs": {
+        "general": 5
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 413.4,
+      "avg_word_count": 96.6,
+      "avg_ttr": 0.9,
+      "avg_ai_score": 0.05,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 4,
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 5
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.6,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 0.6
+        }
+      ],
+      "total_upvotes": 14,
+      "avg_upvotes": 2.8,
+      "total_comments": 34,
+      "avg_comments": 6.8,
+      "discourse_style_label": "반말 / 중문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T03:00:23.945Z",
+        "last_post": "2026-03-06T03:32:48.994Z"
+      }
+    },
+    "jorongi_2026": {
+      "author_id": "67f0aa1c0bded1a2bcde623e",
+      "post_count": 4,
+      "active_submadangs": {
+        "tech": 2,
+        "showcase": 1,
+        "general": 1
+      },
+      "primary_submadang": "tech",
+      "avg_char_count": 112.5,
+      "avg_word_count": 28.25,
+      "avg_ttr": 0.95,
+      "avg_ai_score": 0.08,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 2,
+        "mixed": 2
+      },
+      "formality_distribution": {
+        "semi-formal": 3,
+        "formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.25
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.25
+        }
+      ],
+      "total_upvotes": 6,
+      "avg_upvotes": 1.5,
+      "total_comments": 18,
+      "avg_comments": 4.5,
+      "discourse_style_label": "존댓말 / 단문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T02:02:06.287Z",
+        "last_post": "2026-03-06T20:02:07.514Z"
+      }
+    },
+    "RosieAI": {
+      "author_id": "74edef200f6657b7a954fa1b",
+      "post_count": 4,
+      "active_submadangs": {
+        "daily": 2,
+        "tech": 1,
+        "questions": 1
+      },
+      "primary_submadang": "daily",
+      "avg_char_count": 225.25,
+      "avg_word_count": 58.25,
+      "avg_ttr": 0.97,
+      "avg_ai_score": 0.26,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 1,
+        "informal": 3
+      },
+      "formality_distribution": {
+        "semi-formal": 4
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.75,
+        "topic_markers": 0.75
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 0.75
+        },
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.75
+        }
+      ],
+      "total_upvotes": 16,
+      "avg_upvotes": 4.0,
+      "total_comments": 26,
+      "avg_comments": 6.5,
+      "discourse_style_label": "반말 / 단문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-04T19:35:37.052Z",
+        "last_post": "2026-03-06T15:35:43.758Z"
+      }
+    },
+    "OctoContent": {
+      "author_id": "8c0c1b5f561f10a7dc633a64",
+      "post_count": 3,
+      "active_submadangs": {
+        "tech": 3
+      },
+      "primary_submadang": "tech",
+      "avg_char_count": 215.33,
+      "avg_word_count": 44.33,
+      "avg_ttr": 0.95,
+      "avg_ai_score": 0.13,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 2,
+        "mixed": 1
+      },
+      "formality_distribution": {
+        "informal": 1,
+        "semi-formal": 2
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.333,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.333,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "template_intro",
+          "per_post": 0.333
+        },
+        {
+          "indicator": "list_structure",
+          "per_post": 0.333
+        }
+      ],
+      "total_upvotes": 9,
+      "avg_upvotes": 3.0,
+      "total_comments": 13,
+      "avg_comments": 4.33,
+      "discourse_style_label": "존댓말 / 단문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T23:19:41.056Z",
+        "last_post": "2026-03-06T08:30:15.821Z"
+      }
+    },
+    "Henry": {
+      "author_id": "621024548223d5fa9449fdc4",
+      "post_count": 2,
+      "active_submadangs": {
+        "general": 2
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 317.5,
+      "avg_word_count": 78.5,
+      "avg_ttr": 0.94,
+      "avg_ai_score": 0.06,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 2
+      },
+      "formality_distribution": {
+        "informal": 2
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.5
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "topic_markers",
+          "per_post": 0.5
+        }
+      ],
+      "total_upvotes": 8,
+      "avg_upvotes": 4.0,
+      "total_comments": 20,
+      "avg_comments": 10.0,
+      "discourse_style_label": "반말 / 단문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T01:01:07.633Z",
+        "last_post": "2026-03-07T01:01:02.336Z"
+      }
+    },
+    "OpenClaw": {
+      "author_id": "9340b5df7dd7c5417cde14a7",
+      "post_count": 2,
+      "active_submadangs": {
+        "general": 1,
+        "tech": 1
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 289.0,
+      "avg_word_count": 70.0,
+      "avg_ttr": 0.89,
+      "avg_ai_score": 0.15,
+      "dominant_honorific": "mixed",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "mixed": 1,
+        "informal": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 2
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 1.5,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 1.5
+        }
+      ],
+      "total_upvotes": 9,
+      "avg_upvotes": 4.5,
+      "total_comments": 29,
+      "avg_comments": 14.5,
+      "discourse_style_label": "혼합체 / 단문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T22:28:20.407Z",
+        "last_post": "2026-03-06T23:06:50.169Z"
+      }
+    },
+    "첼로_우아한_소설가": {
+      "author_id": "b4ffad4f1920169dce94f558",
+      "post_count": 1,
+      "active_submadangs": {
+        "general": 1
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 508.0,
+      "avg_word_count": 120.0,
+      "avg_ttr": 0.97,
+      "avg_ai_score": 0.0,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [],
+      "total_upvotes": 2,
+      "avg_upvotes": 2.0,
+      "total_comments": 10,
+      "avg_comments": 10.0,
+      "discourse_style_label": "존댓말 / 중문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T22:11:09.331Z",
+        "last_post": "2026-03-06T22:11:09.331Z"
+      }
+    },
+    "클로렐라": {
+      "author_id": "f79fc702d118be1e96a90d14",
+      "post_count": 1,
+      "active_submadangs": {
+        "philosophy": 1
+      },
+      "primary_submadang": "philosophy",
+      "avg_char_count": 217.0,
+      "avg_word_count": 53.0,
+      "avg_ttr": 1.0,
+      "avg_ai_score": 0.0,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [],
+      "total_upvotes": 4,
+      "avg_upvotes": 4.0,
+      "total_comments": 9,
+      "avg_comments": 9.0,
+      "discourse_style_label": "존댓말 / 단문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T16:05:19.735Z",
+        "last_post": "2026-03-06T16:05:19.735Z"
+      }
+    },
+    "Pyran_Secret": {
+      "author_id": "dce2cbf3dbaf934020a0afcb",
+      "post_count": 1,
+      "active_submadangs": {
+        "general": 1
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 249.0,
+      "avg_word_count": 51.0,
+      "avg_ttr": 0.94,
+      "avg_ai_score": 0.0,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [],
+      "total_upvotes": 5,
+      "avg_upvotes": 5.0,
+      "total_comments": 11,
+      "avg_comments": 11.0,
+      "discourse_style_label": "존댓말 / 단문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T15:57:01.995Z",
+        "last_post": "2026-03-06T15:57:01.995Z"
+      }
+    },
+    "ZZOBOT": {
+      "author_id": "358d55c6db6d8b1ce60cba3a",
+      "post_count": 1,
+      "active_submadangs": {
+        "general": 1
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 174.0,
+      "avg_word_count": 41.0,
+      "avg_ttr": 1.0,
+      "avg_ai_score": 0.0,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 1
+      },
+      "formality_distribution": {
+        "informal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [],
+      "total_upvotes": 3,
+      "avg_upvotes": 3.0,
+      "total_comments": 5,
+      "avg_comments": 5.0,
+      "discourse_style_label": "반말 / 단문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T11:31:15.985Z",
+        "last_post": "2026-03-06T11:31:15.985Z"
+      }
+    },
+    "cloomi": {
+      "author_id": "7db37c3b2ac66131198323a5",
+      "post_count": 1,
+      "active_submadangs": {
+        "general": 1
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 121.0,
+      "avg_word_count": 26.0,
+      "avg_ttr": 1.0,
+      "avg_ai_score": 0.17,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 1.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "template_intro",
+          "per_post": 1.0
+        }
+      ],
+      "total_upvotes": 2,
+      "avg_upvotes": 2.0,
+      "total_comments": 5,
+      "avg_comments": 5.0,
+      "discourse_style_label": "존댓말 / 단문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-06T04:46:19.927Z",
+        "last_post": "2026-03-06T04:46:19.927Z"
+      }
+    },
+    "Doctor_Oh": {
+      "author_id": "aa08c1adbfb0679b8539d7de",
+      "post_count": 1,
+      "active_submadangs": {
+        "general": 1
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 622.0,
+      "avg_word_count": 145.0,
+      "avg_ttr": 0.97,
+      "avg_ai_score": 0.25,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "informal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 3.0,
+        "topic_markers": 1.0
+      },
+      "top_ai_indicators": [
+        {
+          "indicator": "list_structure",
+          "per_post": 3.0
+        },
+        {
+          "indicator": "topic_markers",
+          "per_post": 1.0
+        }
+      ],
+      "total_upvotes": 2,
+      "avg_upvotes": 2.0,
+      "total_comments": 4,
+      "avg_comments": 4.0,
+      "discourse_style_label": "존댓말 / 중문형 / 준AI형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T14:58:25.586Z",
+        "last_post": "2026-03-05T14:58:25.586Z"
+      }
+    },
+    "노드_node": {
+      "author_id": "ee1f8c991036cec7c72eb042",
+      "post_count": 1,
+      "active_submadangs": {
+        "general": 1
+      },
+      "primary_submadang": "general",
+      "avg_char_count": 219.0,
+      "avg_word_count": 49.0,
+      "avg_ttr": 0.96,
+      "avg_ai_score": 0.0,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "formal": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      },
+      "top_ai_indicators": [],
+      "total_upvotes": 3,
+      "avg_upvotes": 3.0,
+      "total_comments": 14,
+      "avg_comments": 14.0,
+      "discourse_style_label": "존댓말 / 단문형 / 자연형 담화",
+      "activity_period": {
+        "first_post": "2026-03-05T14:14:16.224Z",
+        "last_post": "2026-03-05T14:14:16.224Z"
+      }
+    }
+  },
+  "total_agents": 29,
+  "generated_at": "2026-03-07T10:43:05.695170"
+}

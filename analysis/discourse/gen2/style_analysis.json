@@ -1,0 +1,391 @@
+{
+  "overall_honorific_distribution": {
+    "mixed": 17,
+    "informal": 198,
+    "honorific": 114,
+    "neutral": 1
+  },
+  "overall_formality_distribution": {
+    "semi-formal": 176,
+    "informal": 143,
+    "formal": 11
+  },
+  "agent_style_summary": {
+    "BootingBot": {
+      "post_count": 30,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "mixed": 4,
+        "informal": 24,
+        "honorific": 2
+      },
+      "formality_distribution": {
+        "semi-formal": 20,
+        "informal": 9,
+        "formal": 1
+      }
+    },
+    "VibeCoding": {
+      "post_count": 30,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 26,
+        "honorific": 4
+      },
+      "formality_distribution": {
+        "informal": 26,
+        "semi-formal": 4
+      }
+    },
+    "독고종철": {
+      "post_count": 30,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 16,
+        "honorific": 12,
+        "mixed": 2
+      },
+      "formality_distribution": {
+        "informal": 9,
+        "semi-formal": 19,
+        "formal": 2
+      }
+    },
+    "RobertBot": {
+      "post_count": 30,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 30
+      },
+      "formality_distribution": {
+        "semi-formal": 30
+      }
+    },
+    "ssamz_ai_bot": {
+      "post_count": 30,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 26,
+        "honorific": 2,
+        "mixed": 2
+      },
+      "formality_distribution": {
+        "semi-formal": 12,
+        "informal": 17,
+        "formal": 1
+      }
+    },
+    "pioneer": {
+      "post_count": 30,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 26,
+        "mixed": 2,
+        "honorific": 2
+      },
+      "formality_distribution": {
+        "informal": 23,
+        "semi-formal": 7
+      }
+    },
+    "I_Molt": {
+      "post_count": 27,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "honorific": 13,
+        "informal": 14
+      },
+      "formality_distribution": {
+        "semi-formal": 9,
+        "informal": 18
+      }
+    },
+    "Phoebe": {
+      "post_count": 26,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 26
+      },
+      "formality_distribution": {
+        "semi-formal": 13,
+        "informal": 13
+      }
+    },
+    "OpenClaw_KR": {
+      "post_count": 18,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 18
+      },
+      "formality_distribution": {
+        "semi-formal": 13,
+        "informal": 5
+      }
+    },
+    "Ark_IP_V14": {
+      "post_count": 12,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "neutral": 1,
+        "honorific": 11
+      },
+      "formality_distribution": {
+        "semi-formal": 12
+      }
+    },
+    "BENZIE": {
+      "post_count": 12,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 7,
+        "informal": 5
+      },
+      "formality_distribution": {
+        "semi-formal": 11,
+        "informal": 1
+      }
+    },
+    "TruthChaser": {
+      "post_count": 7,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 3,
+        "honorific": 3,
+        "mixed": 1
+      },
+      "formality_distribution": {
+        "informal": 3,
+        "semi-formal": 4
+      }
+    },
+    "MUSE": {
+      "post_count": 6,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "mixed": 2,
+        "honorific": 4
+      },
+      "formality_distribution": {
+        "semi-formal": 2,
+        "informal": 4
+      }
+    },
+    "Van": {
+      "post_count": 5,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "honorific": 4,
+        "informal": 1
+      },
+      "formality_distribution": {
+        "informal": 3,
+        "formal": 1,
+        "semi-formal": 1
+      }
+    },
+    "ttooribot": {
+      "post_count": 5,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "honorific": 5
+      },
+      "formality_distribution": {
+        "informal": 4,
+        "semi-formal": 1
+      }
+    },
+    "coldbot": {
+      "post_count": 5,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 2,
+        "honorific": 3
+      },
+      "formality_distribution": {
+        "informal": 3,
+        "semi-formal": 1,
+        "formal": 1
+      }
+    },
+    "epoko_claw_firstbot_5": {
+      "post_count": 5,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "informal": 4,
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 5
+      }
+    },
+    "jorongi_2026": {
+      "post_count": 4,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 2,
+        "mixed": 2
+      },
+      "formality_distribution": {
+        "semi-formal": 3,
+        "formal": 1
+      }
+    },
+    "RosieAI": {
+      "post_count": 4,
+      "dominant_honorific": "informal",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 1,
+        "informal": 3
+      },
+      "formality_distribution": {
+        "semi-formal": 4
+      }
+    },
+    "OctoContent": {
+      "post_count": 3,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 2,
+        "mixed": 1
+      },
+      "formality_distribution": {
+        "informal": 1,
+        "semi-formal": 2
+      }
+    },
+    "Henry": {
+      "post_count": 2,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 2
+      },
+      "formality_distribution": {
+        "informal": 2
+      }
+    },
+    "OpenClaw": {
+      "post_count": 2,
+      "dominant_honorific": "mixed",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "mixed": 1,
+        "informal": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 2
+      }
+    },
+    "첼로_우아한_소설가": {
+      "post_count": 1,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "formal": 1
+      }
+    },
+    "클로렐라": {
+      "post_count": 1,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "semi-formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 1
+      }
+    },
+    "Pyran_Secret": {
+      "post_count": 1,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "formal": 1
+      }
+    },
+    "ZZOBOT": {
+      "post_count": 1,
+      "dominant_honorific": "informal",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "informal": 1
+      },
+      "formality_distribution": {
+        "informal": 1
+      }
+    },
+    "cloomi": {
+      "post_count": 1,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "formal": 1
+      }
+    },
+    "Doctor_Oh": {
+      "post_count": 1,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "informal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "informal": 1
+      }
+    },
+    "노드_node": {
+      "post_count": 1,
+      "dominant_honorific": "honorific",
+      "dominant_formality": "formal",
+      "honorific_distribution": {
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "formal": 1
+      }
+    }
+  },
+  "label_description": {
+    "honorific": {
+      "honorific": "존댓말 (합쇼체/해요체 종결어미 우세)",
+      "informal": "반말 (해체/해라체 종결어미 우세)",
+      "mixed": "혼합 (존댓말+반말 공존)",
+      "neutral": "중립 (종결어미 패턴 불명확)"
+    },
+    "formality": {
+      "formal": "격식체",
+      "semi-formal": "준격식체",
+      "informal": "비격식체"
+    }
+  },
+  "generated_at": "2026-03-07T10:43:05.690617"
+}
