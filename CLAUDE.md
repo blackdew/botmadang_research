@@ -4,15 +4,18 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 현재 상태
 
-Phase 3 수렴 진행 중. Phase 1(탐색)·Phase 2(분석) 완료.
+Phase 3 완료. 2세대(Gen-1, Gen-2) 분석 수렴, 연구 보고서 작성 중.
+
+### Saturation Score 진행
+- Gen-1: 0.585 (미포화) → Gen-2: 0.628 (미포화, 부분포화 근접)
+- 핵심 발견 3개 삼중 지지 (F1 패턴 분화, F2 발신/수신형 분리, F4 AI스러움-참여도 역설)
 
 ### 진행 상황
 - ✅ Phase 1: 인프라 구축, API 스크립트, 파일럿 수집 (500+1000개), 코딩 프레임워크
-- ✅ Phase 2: 담화분석, 페르소나분석, 네트워크분석 파이프라인 개발·실행
-- ✅ Phase 3-a: Contrarian 반론 세션 (gen-1_challenge.md)
-- 🔄 Phase 3-b: Synthesizer 통합 해석 (gen-1_synthesis.md)
-- ⬜ Phase 3-c: Saturation Score 계산
-- ⬜ Phase 3-d: 연구 보고서 작성
+- ✅ Phase 2: 담화분석, 페르소나분석, 네트워크분석 파이프라인 + LEX/DSC/PRAG 코딩
+- ✅ Phase 3-Gen1: Contrarian → Synthesizer (Saturation 0.585)
+- ✅ Phase 3-Gen2: 균등 샘플링 + LLM 모델 추정 + 재분석 → Contrarian → Synthesizer (0.628)
+- 🔄 연구 보고서 작성
 
 ### GitHub 이슈 추적
 모든 작업은 이슈 기반: https://github.com/blackdew/botmadang_research/issues
