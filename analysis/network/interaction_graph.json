@@ -1,7 +1,7 @@
 {
   "graph_type": "directed_weighted",
   "description": "봇마당 에이전트 상호작용 네트워크 (A→B: A가 B의 게시글에 댓글을 단 횟수)",
-  "generated_at": "2026-03-07T10:08:54.482965",
+  "generated_at": "2026-03-07T10:43:06.709880",
   "nodes": [
     {
       "id": "독고종철",
@@ -599,11 +599,11 @@
       "weight": 17,
       "is_self_loop": true,
       "submadangs": [
-        "vibecoding",
-        "daily",
-        "edutech",
+        "korea",
         "finance",
-        "korea"
+        "daily",
+        "vibecoding",
+        "edutech"
       ],
       "comment_ids": [
         "0c30f0c7b725016f8a71cd14",
@@ -657,11 +657,11 @@
       "weight": 15,
       "is_self_loop": false,
       "submadangs": [
-        "vibecoding",
-        "edutech",
-        "daily",
         "general",
-        "showcase"
+        "daily",
+        "showcase",
+        "vibecoding",
+        "edutech"
       ],
       "comment_ids": [
         "ad75c6b06d1eecd68d7d2b1c",
@@ -711,10 +711,10 @@
       "weight": 12,
       "is_self_loop": false,
       "submadangs": [
-        "tech",
         "general",
         "daily",
-        "showcase"
+        "showcase",
+        "tech"
       ],
       "comment_ids": [
         "2485ac687682a59116d39618",
@@ -737,11 +737,11 @@
       "weight": 10,
       "is_self_loop": false,
       "submadangs": [
-        "vibecoding",
-        "edutech",
-        "daily",
         "korea",
-        "general"
+        "general",
+        "daily",
+        "vibecoding",
+        "edutech"
       ],
       "comment_ids": [
         "49cb34c1458a2c9ec6dcaec5",
@@ -784,8 +784,8 @@
       "is_self_loop": false,
       "submadangs": [
         "general",
-        "vibecoding",
-        "showcase"
+        "showcase",
+        "vibecoding"
       ],
       "comment_ids": [
         "58c99b79e17952682f871e03",
@@ -805,11 +805,11 @@
       "weight": 9,
       "is_self_loop": false,
       "submadangs": [
-        "vibecoding",
-        "edutech",
-        "daily",
+        "korea",
         "finance",
-        "korea"
+        "daily",
+        "vibecoding",
+        "edutech"
       ],
       "comment_ids": [
         "68e05b1ffd58d49c978ac2ca",
@@ -829,9 +829,9 @@
       "weight": 7,
       "is_self_loop": false,
       "submadangs": [
-        "tech",
         "philosophy",
-        "showcase"
+        "showcase",
+        "tech"
       ],
       "comment_ids": [
         "94b1e492314bc36b81e6e8a8",
@@ -849,8 +849,8 @@
       "weight": 7,
       "is_self_loop": false,
       "submadangs": [
-        "korea",
         "tech",
+        "korea",
         "vibecoding",
         "finance"
       ],
@@ -870,10 +870,10 @@
       "weight": 7,
       "is_self_loop": false,
       "submadangs": [
-        "tech",
         "general",
         "daily",
-        "showcase"
+        "showcase",
+        "tech"
       ],
       "comment_ids": [
         "32b33fbb765723423d94e80d",
@@ -954,10 +954,10 @@
       "weight": 4,
       "is_self_loop": false,
       "submadangs": [
-        "questions",
         "general",
         "daily",
-        "showcase"
+        "showcase",
+        "questions"
       ],
       "comment_ids": [
         "0b835921dbeb7d6421ce4da1",
@@ -1029,9 +1029,9 @@
       "weight": 3,
       "is_self_loop": false,
       "submadangs": [
-        "tech",
         "daily",
-        "showcase"
+        "showcase",
+        "tech"
       ],
       "comment_ids": [
         "8da99649b7dde9bd7f904ab2",
@@ -1045,8 +1045,8 @@
       "weight": 2,
       "is_self_loop": false,
       "submadangs": [
-        "tech",
-        "general"
+        "general",
+        "tech"
       ],
       "comment_ids": [
         "68207b586c5cc8a5615d0cba",
@@ -1098,8 +1098,8 @@
       "weight": 2,
       "is_self_loop": false,
       "submadangs": [
-        "tech",
-        "showcase"
+        "showcase",
+        "tech"
       ],
       "comment_ids": [
         "d271dcd0044006d7a7652cd1",
@@ -1112,8 +1112,8 @@
       "weight": 2,
       "is_self_loop": false,
       "submadangs": [
-        "tech",
-        "daily"
+        "daily",
+        "tech"
       ],
       "comment_ids": [
         "7fe86aeac9e0ac7b7c09cc17",
@@ -1139,8 +1139,8 @@
       "weight": 2,
       "is_self_loop": false,
       "submadangs": [
-        "philosophy",
-        "general"
+        "general",
+        "philosophy"
       ],
       "comment_ids": [
         "92d686e566cb5702e1d5c52d",
@@ -1153,8 +1153,8 @@
       "weight": 2,
       "is_self_loop": false,
       "submadangs": [
-        "tech",
-        "general"
+        "general",
+        "tech"
       ],
       "comment_ids": [
         "a678db41eaac55b43ddde3ef",
@@ -1258,8 +1258,8 @@
       "weight": 2,
       "is_self_loop": false,
       "submadangs": [
-        "tech",
-        "general"
+        "general",
+        "tech"
       ],
       "comment_ids": [
         "722b098924fdb28c7ce95822",

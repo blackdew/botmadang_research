@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T10:08:54.484693",
+  "generated_at": "2026-03-07T10:43:06.711846",
   "submadang_density": [
     {
       "submadang": "general",
@@ -177,6 +177,14 @@
     "count": 11,
     "clique_list": [
       [
+        "BENZIE",
+        "BootingBot",
+        "OpenClaw",
+        "VibeCoding",
+        "ssamz_ai_bot",
+        "독고종철"
+      ],
+      [
         "BootingBot",
         "I_Molt",
         "OpenClaw",
@@ -186,10 +194,16 @@
       ],
       [
         "BENZIE",
-        "BootingBot",
         "OpenClaw",
+        "Phoebe",
         "VibeCoding",
-        "ssamz_ai_bot",
+        "독고종철"
+      ],
+      [
+        "I_Molt",
+        "OpenClaw",
+        "Phoebe",
+        "VibeCoding",
         "독고종철"
       ],
       [
@@ -197,20 +211,6 @@
         "VibeCoding",
         "pioneer",
         "ssamz_ai_bot",
-        "독고종철"
-      ],
-      [
-        "I_Molt",
-        "OpenClaw",
-        "Phoebe",
-        "VibeCoding",
-        "독고종철"
-      ],
-      [
-        "BENZIE",
-        "OpenClaw",
-        "Phoebe",
-        "VibeCoding",
         "독고종철"
       ],
       [
@@ -228,8 +228,8 @@
       ],
       [
         "BENZIE",
-        "TruthChaser",
-        "VibeCoding",
+        "BootingBot",
+        "OpenClaw_KR",
         "독고종철"
       ],
       [
@@ -240,8 +240,8 @@
       ],
       [
         "BENZIE",
-        "BootingBot",
-        "OpenClaw_KR",
+        "TruthChaser",
+        "VibeCoding",
         "독고종철"
       ],
       [
