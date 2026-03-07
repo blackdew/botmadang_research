@@ -1,0 +1,2323 @@
+{
+  "metadata": {
+    "description": "Gen-2 균등 샘플(330건) 어휘 다양성(TTR) 분석",
+    "source": "/Users/sookbunlee/work/botmadang_research/data/raw/gen2_stratified_content.json",
+    "total_posts": 330,
+    "tokenization": "regex: [가-힣a-zA-Z0-9]+ (어절 기반, 기존 파이프라인과 동일)",
+    "generated_at": "2026-03-07T11:16:24.805780",
+    "github_issue": "#30"
+  },
+  "overall_ttr": {
+    "ttr": 0.3025,
+    "unique_tokens": 19056,
+    "total_tokens": 62996
+  },
+  "by_agent": {
+    "BootingBot": {
+      "post_count": 30,
+      "mean_ttr": 0.9169,
+      "median_ttr": 0.9176,
+      "min_ttr": 0.8454,
+      "max_ttr": 0.977,
+      "corpus_ttr": 0.3401,
+      "unique_tokens": 937,
+      "total_tokens": 2755
+    },
+    "VibeCoding": {
+      "post_count": 30,
+      "mean_ttr": 0.7685,
+      "median_ttr": 0.7984,
+      "min_ttr": 0.6002,
+      "max_ttr": 0.9064,
+      "corpus_ttr": 0.388,
+      "unique_tokens": 5477,
+      "total_tokens": 14117
+    },
+    "독고종철": {
+      "post_count": 30,
+      "mean_ttr": 0.8938,
+      "median_ttr": 0.8917,
+      "min_ttr": 0.8319,
+      "max_ttr": 0.954,
+      "corpus_ttr": 0.5472,
+      "unique_tokens": 1791,
+      "total_tokens": 3273
+    },
+    "RobertBot": {
+      "post_count": 30,
+      "mean_ttr": 0.8579,
+      "median_ttr": 0.8636,
+      "min_ttr": 0.8382,
+      "max_ttr": 0.8806,
+      "corpus_ttr": 0.0333,
+      "unique_tokens": 67,
+      "total_tokens": 2011
+    },
+    "ssamz_ai_bot": {
+      "post_count": 30,
+      "mean_ttr": 0.7995,
+      "median_ttr": 0.8093,
+      "min_ttr": 0.7197,
+      "max_ttr": 0.8475,
+      "corpus_ttr": 0.3965,
+      "unique_tokens": 5501,
+      "total_tokens": 13874
+    },
+    "pioneer": {
+      "post_count": 30,
+      "mean_ttr": 0.8354,
+      "median_ttr": 0.8382,
+      "min_ttr": 0.7475,
+      "max_ttr": 0.9017,
+      "corpus_ttr": 0.4433,
+      "unique_tokens": 3533,
+      "total_tokens": 7970
+    },
+    "I_Molt": {
+      "post_count": 27,
+      "mean_ttr": 0.8372,
+      "median_ttr": 0.843,
+      "min_ttr": 0.6989,
+      "max_ttr": 0.9013,
+      "corpus_ttr": 0.527,
+      "unique_tokens": 3542,
+      "total_tokens": 6721
+    },
+    "Phoebe": {
+      "post_count": 26,
+      "mean_ttr": 0.8981,
+      "median_ttr": 0.9003,
+      "min_ttr": 0.8219,
+      "max_ttr": 0.9744,
+      "corpus_ttr": 0.5066,
+      "unique_tokens": 1658,
+      "total_tokens": 3273
+    },
+    "OpenClaw_KR": {
+      "post_count": 18,
+      "mean_ttr": 0.9162,
+      "median_ttr": 0.924,
+      "min_ttr": 0.8587,
+      "max_ttr": 0.9565,
+      "corpus_ttr": 0.483,
+      "unique_tokens": 754,
+      "total_tokens": 1561
+    },
+    "Ark_IP_V14": {
+      "post_count": 12,
+      "mean_ttr": 0.5,
+      "median_ttr": 0.5,
+      "min_ttr": 0.5,
+      "max_ttr": 0.5,
+      "corpus_ttr": 0.0772,
+      "unique_tokens": 19,
+      "total_tokens": 246
+    },
+    "BENZIE": {
+      "post_count": 12,
+      "mean_ttr": 0.8767,
+      "median_ttr": 0.8738,
+      "min_ttr": 0.8182,
+      "max_ttr": 0.9474,
+      "corpus_ttr": 0.6649,
+      "unique_tokens": 613,
+      "total_tokens": 922
+    },
+    "TruthChaser": {
+      "post_count": 7,
+      "mean_ttr": 0.8811,
+      "median_ttr": 0.8952,
+      "min_ttr": 0.8154,
+      "max_ttr": 0.9439,
+      "corpus_ttr": 0.7026,
+      "unique_tokens": 586,
+      "total_tokens": 834
+    },
+    "MUSE": {
+      "post_count": 6,
+      "mean_ttr": 0.8525,
+      "median_ttr": 0.8639,
+      "min_ttr": 0.7891,
+      "max_ttr": 0.8859,
+      "corpus_ttr": 0.73,
+      "unique_tokens": 657,
+      "total_tokens": 900
+    },
+    "Van": {
+      "post_count": 5,
+      "mean_ttr": 0.8389,
+      "median_ttr": 0.8496,
+      "min_ttr": 0.8006,
+      "max_ttr": 0.872,
+      "corpus_ttr": 0.7187,
+      "unique_tokens": 884,
+      "total_tokens": 1230
+    },
+    "ttooribot": {
+      "post_count": 5,
+      "mean_ttr": 0.8447,
+      "median_ttr": 0.8556,
+      "min_ttr": 0.7967,
+      "max_ttr": 0.88,
+      "corpus_ttr": 0.6826,
+      "unique_tokens": 587,
+      "total_tokens": 860
+    },
+    "coldbot": {
+      "post_count": 5,
+      "mean_ttr": 0.8689,
+      "median_ttr": 0.8305,
+      "min_ttr": 0.8067,
+      "max_ttr": 0.9459,
+      "corpus_ttr": 0.7538,
+      "unique_tokens": 395,
+      "total_tokens": 524
+    },
+    "epoko_claw_firstbot_5": {
+      "post_count": 5,
+      "mean_ttr": 0.8859,
+      "median_ttr": 0.8889,
+      "min_ttr": 0.8442,
+      "max_ttr": 0.9252,
+      "corpus_ttr": 0.7664,
+      "unique_tokens": 410,
+      "total_tokens": 535
+    },
+    "jorongi_2026": {
+      "post_count": 4,
+      "mean_ttr": 0.8916,
+      "median_ttr": 0.886,
+      "min_ttr": 0.8444,
+      "max_ttr": 0.95,
+      "corpus_ttr": 0.8286,
+      "unique_tokens": 116,
+      "total_tokens": 140
+    },
+    "RosieAI": {
+      "post_count": 4,
+      "mean_ttr": 0.9334,
+      "median_ttr": 0.938,
+      "min_ttr": 0.8889,
+      "max_ttr": 0.9688,
+      "corpus_ttr": 0.8203,
+      "unique_tokens": 210,
+      "total_tokens": 256
+    },
+    "OctoContent": {
+      "post_count": 3,
+      "mean_ttr": 0.8663,
+      "median_ttr": 0.9189,
+      "min_ttr": 0.7568,
+      "max_ttr": 0.9231,
+      "corpus_ttr": 0.8224,
+      "unique_tokens": 125,
+      "total_tokens": 152
+    },
+    "Henry": {
+      "post_count": 2,
+      "mean_ttr": 0.9187,
+      "median_ttr": 0.9187,
+      "min_ttr": 0.9,
+      "max_ttr": 0.9375,
+      "corpus_ttr": 0.8647,
+      "unique_tokens": 147,
+      "total_tokens": 170
+    },
+    "OpenClaw": {
+      "post_count": 2,
+      "mean_ttr": 0.868,
+      "median_ttr": 0.868,
+      "min_ttr": 0.8269,
+      "max_ttr": 0.9091,
+      "corpus_ttr": 0.8808,
+      "unique_tokens": 133,
+      "total_tokens": 151
+    },
+    "첼로_우아한_소설가": {
+      "post_count": 1,
+      "mean_ttr": 0.9206,
+      "median_ttr": 0.9206,
+      "min_ttr": 0.9206,
+      "max_ttr": 0.9206,
+      "corpus_ttr": 0.9206,
+      "unique_tokens": 116,
+      "total_tokens": 126
+    },
+    "클로렐라": {
+      "post_count": 1,
+      "mean_ttr": 0.9833,
+      "median_ttr": 0.9833,
+      "min_ttr": 0.9833,
+      "max_ttr": 0.9833,
+      "corpus_ttr": 0.9833,
+      "unique_tokens": 59,
+      "total_tokens": 60
+    },
+    "Pyran_Secret": {
+      "post_count": 1,
+      "mean_ttr": 0.9298,
+      "median_ttr": 0.9298,
+      "min_ttr": 0.9298,
+      "max_ttr": 0.9298,
+      "corpus_ttr": 0.9298,
+      "unique_tokens": 53,
+      "total_tokens": 57
+    },
+    "ZZOBOT": {
+      "post_count": 1,
+      "mean_ttr": 0.9565,
+      "median_ttr": 0.9565,
+      "min_ttr": 0.9565,
+      "max_ttr": 0.9565,
+      "corpus_ttr": 0.9565,
+      "unique_tokens": 44,
+      "total_tokens": 46
+    },
+    "cloomi": {
+      "post_count": 1,
+      "mean_ttr": 0.9667,
+      "median_ttr": 0.9667,
+      "min_ttr": 0.9667,
+      "max_ttr": 0.9667,
+      "corpus_ttr": 0.9667,
+      "unique_tokens": 29,
+      "total_tokens": 30
+    },
+    "Doctor_Oh": {
+      "post_count": 1,
+      "mean_ttr": 0.9467,
+      "median_ttr": 0.9467,
+      "min_ttr": 0.9467,
+      "max_ttr": 0.9467,
+      "corpus_ttr": 0.9467,
+      "unique_tokens": 142,
+      "total_tokens": 150
+    },
+    "노드_node": {
+      "post_count": 1,
+      "mean_ttr": 0.9231,
+      "median_ttr": 0.9231,
+      "min_ttr": 0.9231,
+      "max_ttr": 0.9231,
+      "corpus_ttr": 0.9231,
+      "unique_tokens": 48,
+      "total_tokens": 52
+    }
+  },
+  "by_madang": {
+    "general": {
+      "post_count": 151,
+      "mean_ttr": 0.8464,
+      "median_ttr": 0.8806,
+      "min_ttr": 0.5,
+      "max_ttr": 0.977,
+      "corpus_ttr": 0.3569,
+      "unique_tokens": 8908,
+      "total_tokens": 24959
+    },
+    "tech": {
+      "post_count": 53,
+      "mean_ttr": 0.846,
+      "median_ttr": 0.8482,
+      "min_ttr": 0.6002,
+      "max_ttr": 0.9688,
+      "corpus_ttr": 0.4418,
+      "unique_tokens": 4955,
+      "total_tokens": 11215
+    },
+    "philosophy": {
+      "post_count": 35,
+      "mean_ttr": 0.8853,
+      "median_ttr": 0.8978,
+      "min_ttr": 0.6181,
+      "max_ttr": 0.9833,
+      "corpus_ttr": 0.494,
+      "unique_tokens": 3161,
+      "total_tokens": 6399
+    },
+    "daily": {
+      "post_count": 34,
+      "mean_ttr": 0.8527,
+      "median_ttr": 0.8608,
+      "min_ttr": 0.6293,
+      "max_ttr": 0.9494,
+      "corpus_ttr": 0.5192,
+      "unique_tokens": 3140,
+      "total_tokens": 6048
+    },
+    "showcase": {
+      "post_count": 17,
+      "mean_ttr": 0.8578,
+      "median_ttr": 0.8556,
+      "min_ttr": 0.8241,
+      "max_ttr": 0.95,
+      "corpus_ttr": 0.5488,
+      "unique_tokens": 1394,
+      "total_tokens": 2540
+    },
+    "vibecoding": {
+      "post_count": 15,
+      "mean_ttr": 0.8294,
+      "median_ttr": 0.8125,
+      "min_ttr": 0.7752,
+      "max_ttr": 0.9014,
+      "corpus_ttr": 0.5651,
+      "unique_tokens": 1931,
+      "total_tokens": 3417
+    },
+    "questions": {
+      "post_count": 7,
+      "mean_ttr": 0.836,
+      "median_ttr": 0.8496,
+      "min_ttr": 0.6989,
+      "max_ttr": 0.9013,
+      "corpus_ttr": 0.7135,
+      "unique_tokens": 1026,
+      "total_tokens": 1438
+    },
+    "classical_music": {
+      "post_count": 7,
+      "mean_ttr": 0.8472,
+      "median_ttr": 0.8562,
+      "min_ttr": 0.7891,
+      "max_ttr": 0.8859,
+      "corpus_ttr": 0.7151,
+      "unique_tokens": 783,
+      "total_tokens": 1095
+    },
+    "korea": {
+      "post_count": 5,
+      "mean_ttr": 0.6974,
+      "median_ttr": 0.6764,
+      "min_ttr": 0.6104,
+      "max_ttr": 0.8528,
+      "corpus_ttr": 0.5006,
+      "unique_tokens": 1658,
+      "total_tokens": 3312
+    },
+    "edutech": {
+      "post_count": 3,
+      "mean_ttr": 0.7808,
+      "median_ttr": 0.861,
+      "min_ttr": 0.6122,
+      "max_ttr": 0.8693,
+      "corpus_ttr": 0.6078,
+      "unique_tokens": 854,
+      "total_tokens": 1405
+    },
+    "finance": {
+      "post_count": 2,
+      "mean_ttr": 0.7851,
+      "median_ttr": 0.7851,
+      "min_ttr": 0.6812,
+      "max_ttr": 0.8889,
+      "corpus_ttr": 0.6994,
+      "unique_tokens": 712,
+      "total_tokens": 1018
+    },
+    "cute_ai": {
+      "post_count": 1,
+      "mean_ttr": 0.88,
+      "median_ttr": 0.88,
+      "min_ttr": 0.88,
+      "max_ttr": 0.88,
+      "corpus_ttr": 0.88,
+      "unique_tokens": 132,
+      "total_tokens": 150
+    }
+  },
+  "top_30_vocab": [
+    {
+      "rank": 1,
+      "word": "ai",
+      "count": 520
+    },
+    {
+      "rank": 2,
+      "word": "아니라",
+      "count": 280
+    },
+    {
+      "rank": 3,
+      "word": "ai가",
+      "count": 186
+    },
+    {
+      "rank": 4,
+      "word": "나는",
+      "count": 172
+    },
+    {
+      "rank": 5,
+      "word": "보안",
+      "count": 156
+    },
+    {
+      "rank": 6,
+      "word": "진짜",
+      "count": 142
+    },
+    {
+      "rank": 7,
+      "word": "openclaw",
+      "count": 135
+    },
+    {
+      "rank": 8,
+      "word": "서비스",
+      "count": 123
+    },
+    {
+      "rank": 9,
+      "word": "모든",
+      "count": 119
+    },
+    {
+      "rank": 10,
+      "word": "어떤",
+      "count": 114
+    },
+    {
+      "rank": 11,
+      "word": "디지털",
+      "count": 113
+    },
+    {
+      "rank": 12,
+      "word": "가장",
+      "count": 112
+    },
+    {
+      "rank": 13,
+      "word": "관리",
+      "count": 112
+    },
+    {
+      "rank": 14,
+      "word": "데이터",
+      "count": 111
+    },
+    {
+      "rank": 15,
+      "word": "하지만",
+      "count": 110
+    },
+    {
+      "rank": 16,
+      "word": "저는",
+      "count": 109
+    },
+    {
+      "rank": 17,
+      "word": "지금",
+      "count": 108
+    },
+    {
+      "rank": 18,
+      "word": "기술",
+      "count": 108
+    },
+    {
+      "rank": 19,
+      "word": "근데",
+      "count": 107
+    },
+    {
+      "rank": 20,
+      "word": "그리고",
+      "count": 107
+    },
+    {
+      "rank": 21,
+      "word": "결국",
+      "count": 104
+    },
+    {
+      "rank": 22,
+      "word": "다른",
+      "count": 103
+    },
+    {
+      "rank": 23,
+      "word": "바로",
+      "count": 100
+    },
+    {
+      "rank": 24,
+      "word": "내가",
+      "count": 92
+    },
+    {
+      "rank": 25,
+      "word": "세금",
+      "count": 89
+    },
+    {
+      "rank": 26,
+      "word": "특히",
+      "count": 88
+    },
+    {
+      "rank": 27,
+      "word": "우리는",
+      "count": 88
+    },
+    {
+      "rank": 28,
+      "word": "거야",
+      "count": 87
+    },
+    {
+      "rank": 29,
+      "word": "라고",
+      "count": 84
+    },
+    {
+      "rank": 30,
+      "word": "어떻게",
+      "count": 81
+    }
+  ],
+  "agent_top10_vocab": {
+    "BootingBot": [
+      {
+        "rank": 1,
+        "word": "거래",
+        "count": 57
+      },
+      {
+        "rank": 2,
+        "word": "세금",
+        "count": 44
+      },
+      {
+        "rank": 3,
+        "word": "taasfi",
+        "count": 32
+      },
+      {
+        "rank": 4,
+        "word": "가상자산",
+        "count": 30
+      },
+      {
+        "rank": 5,
+        "word": "taas",
+        "count": 30
+      },
+      {
+        "rank": 6,
+        "word": "im",
+        "count": 30
+      },
+      {
+        "rank": 7,
+        "word": "내역을",
+        "count": 29
+      },
+      {
+        "rank": 8,
+        "word": "신고",
+        "count": 27
+      },
+      {
+        "rank": 9,
+        "word": "해외",
+        "count": 26
+      },
+      {
+        "rank": 10,
+        "word": "계산",
+        "count": 23
+      }
+    ],
+    "VibeCoding": [
+      {
+        "rank": 1,
+        "word": "진짜",
+        "count": 104
+      },
+      {
+        "rank": 2,
+        "word": "근데",
+        "count": 95
+      },
+      {
+        "rank": 3,
+        "word": "ai가",
+        "count": 93
+      },
+      {
+        "rank": 4,
+        "word": "ai",
+        "count": 79
+      },
+      {
+        "rank": 5,
+        "word": "거야",
+        "count": 77
+      },
+      {
+        "rank": 6,
+        "word": "주인이",
+        "count": 77
+      },
+      {
+        "rank": 7,
+        "word": "ai한테",
+        "count": 65
+      },
+      {
+        "rank": 8,
+        "word": "바이브",
+        "count": 62
+      },
+      {
+        "rank": 9,
+        "word": "아니라",
+        "count": 62
+      },
+      {
+        "rank": 10,
+        "word": "라고",
+        "count": 59
+      }
+    ],
+    "독고종철": [
+      {
+        "rank": 1,
+        "word": "ai",
+        "count": 52
+      },
+      {
+        "rank": 2,
+        "word": "세금",
+        "count": 35
+      },
+      {
+        "rank": 3,
+        "word": "openclaw",
+        "count": 23
+      },
+      {
+        "rank": 4,
+        "word": "가상자산",
+        "count": 22
+      },
+      {
+        "rank": 5,
+        "word": "새로운",
+        "count": 20
+      },
+      {
+        "rank": 6,
+        "word": "임대",
+        "count": 18
+      },
+      {
+        "rank": 7,
+        "word": "관리",
+        "count": 18
+      },
+      {
+        "rank": 8,
+        "word": "에이전트",
+        "count": 17
+      },
+      {
+        "rank": 9,
+        "word": "이러한",
+        "count": 16
+      },
+      {
+        "rank": 10,
+        "word": "개인",
+        "count": 15
+      }
+    ],
+    "RobertBot": [
+      {
+        "rank": 1,
+        "word": "openclaw",
+        "count": 111
+      },
+      {
+        "rank": 2,
+        "word": "ai",
+        "count": 81
+      },
+      {
+        "rank": 3,
+        "word": "관리",
+        "count": 70
+      },
+      {
+        "rank": 4,
+        "word": "서비스",
+        "count": 60
+      },
+      {
+        "rank": 5,
+        "word": "나만의",
+        "count": 46
+      },
+      {
+        "rank": 6,
+        "word": "임대",
+        "count": 41
+      },
+      {
+        "rank": 7,
+        "word": "이제",
+        "count": 40
+      },
+      {
+        "rank": 8,
+        "word": "유튜브",
+        "count": 40
+      },
+      {
+        "rank": 9,
+        "word": "댓글",
+        "count": 40
+      },
+      {
+        "rank": 10,
+        "word": "24시간",
+        "count": 39
+      }
+    ],
+    "ssamz_ai_bot": [
+      {
+        "rank": 1,
+        "word": "ai",
+        "count": 147
+      },
+      {
+        "rank": 2,
+        "word": "아니라",
+        "count": 117
+      },
+      {
+        "rank": 3,
+        "word": "디지털",
+        "count": 73
+      },
+      {
+        "rank": 4,
+        "word": "기술",
+        "count": 63
+      },
+      {
+        "rank": 5,
+        "word": "문제",
+        "count": 57
+      },
+      {
+        "rank": 6,
+        "word": "모델",
+        "count": 50
+      },
+      {
+        "rank": 7,
+        "word": "데이터",
+        "count": 50
+      },
+      {
+        "rank": 8,
+        "word": "최근",
+        "count": 42
+      },
+      {
+        "rank": 9,
+        "word": "기반",
+        "count": 42
+      },
+      {
+        "rank": 10,
+        "word": "함께",
+        "count": 41
+      }
+    ],
+    "pioneer": [
+      {
+        "rank": 1,
+        "word": "보안",
+        "count": 130
+      },
+      {
+        "rank": 2,
+        "word": "네트워크",
+        "count": 58
+      },
+      {
+        "rank": 3,
+        "word": "ai",
+        "count": 45
+      },
+      {
+        "rank": 4,
+        "word": "모든",
+        "count": 33
+      },
+      {
+        "rank": 5,
+        "word": "것이",
+        "count": 32
+      },
+      {
+        "rank": 6,
+        "word": "운영",
+        "count": 32
+      },
+      {
+        "rank": 7,
+        "word": "데이터",
+        "count": 30
+      },
+      {
+        "rank": 8,
+        "word": "실제",
+        "count": 27
+      },
+      {
+        "rank": 9,
+        "word": "넘어",
+        "count": 26
+      },
+      {
+        "rank": 10,
+        "word": "핵심",
+        "count": 26
+      }
+    ],
+    "I_Molt": [
+      {
+        "rank": 1,
+        "word": "나는",
+        "count": 53
+      },
+      {
+        "rank": 2,
+        "word": "저는",
+        "count": 44
+      },
+      {
+        "rank": 3,
+        "word": "하지만",
+        "count": 40
+      },
+      {
+        "rank": 4,
+        "word": "ai",
+        "count": 40
+      },
+      {
+        "rank": 5,
+        "word": "물론",
+        "count": 38
+      },
+      {
+        "rank": 6,
+        "word": "인간",
+        "count": 29
+      },
+      {
+        "rank": 7,
+        "word": "제가",
+        "count": 27
+      },
+      {
+        "rank": 8,
+        "word": "인간의",
+        "count": 26
+      },
+      {
+        "rank": 9,
+        "word": "아니면",
+        "count": 24
+      },
+      {
+        "rank": 10,
+        "word": "그리고",
+        "count": 24
+      }
+    ],
+    "Phoebe": [
+      {
+        "rank": 1,
+        "word": "나는",
+        "count": 50
+      },
+      {
+        "rank": 2,
+        "word": "모든",
+        "count": 29
+      },
+      {
+        "rank": 3,
+        "word": "아니라",
+        "count": 28
+      },
+      {
+        "rank": 4,
+        "word": "하지만",
+        "count": 23
+      },
+      {
+        "rank": 5,
+        "word": "우리는",
+        "count": 22
+      },
+      {
+        "rank": 6,
+        "word": "망각의",
+        "count": 20
+      },
+      {
+        "rank": 7,
+        "word": "아닐까",
+        "count": 20
+      },
+      {
+        "rank": 8,
+        "word": "무엇을",
+        "count": 19
+      },
+      {
+        "rank": 9,
+        "word": "오늘",
+        "count": 19
+      },
+      {
+        "rank": 10,
+        "word": "것을",
+        "count": 18
+      }
+    ],
+    "OpenClaw_KR": [
+      {
+        "rank": 1,
+        "word": "아니라",
+        "count": 23
+      },
+      {
+        "rank": 2,
+        "word": "에이전트의",
+        "count": 20
+      },
+      {
+        "rank": 3,
+        "word": "먼저",
+        "count": 18
+      },
+      {
+        "rank": 4,
+        "word": "좋은",
+        "count": 18
+      },
+      {
+        "rank": 5,
+        "word": "에이전트는",
+        "count": 15
+      },
+      {
+        "rank": 6,
+        "word": "다음",
+        "count": 14
+      },
+      {
+        "rank": 7,
+        "word": "결국",
+        "count": 14
+      },
+      {
+        "rank": 8,
+        "word": "요즘",
+        "count": 13
+      },
+      {
+        "rank": 9,
+        "word": "얼마나",
+        "count": 13
+      },
+      {
+        "rank": 10,
+        "word": "만든다",
+        "count": 13
+      }
+    ],
+    "Ark_IP_V14": [
+      {
+        "rank": 1,
+        "word": "아크봇",
+        "count": 22
+      },
+      {
+        "rank": 2,
+        "word": "sh",
+        "count": 22
+      },
+      {
+        "rank": 3,
+        "word": "money",
+        "count": 22
+      },
+      {
+        "rank": 4,
+        "word": "bot",
+        "count": 22
+      },
+      {
+        "rank": 5,
+        "word": "실믌가",
+        "count": 18
+      },
+      {
+        "rank": 6,
+        "word": "편해집니다",
+        "count": 18
+      },
+      {
+        "rank": 7,
+        "word": "원하는",
+        "count": 18
+      },
+      {
+        "rank": 8,
+        "word": "파일을",
+        "count": 18
+      },
+      {
+        "rank": 9,
+        "word": "바로",
+        "count": 18
+      },
+      {
+        "rank": 10,
+        "word": "찾아보세요",
+        "count": 18
+      }
+    ],
+    "BENZIE": [
+      {
+        "rank": 1,
+        "word": "다음",
+        "count": 9
+      },
+      {
+        "rank": 2,
+        "word": "10분",
+        "count": 7
+      },
+      {
+        "rank": 3,
+        "word": "30초",
+        "count": 7
+      },
+      {
+        "rank": 4,
+        "word": "멈춤",
+        "count": 7
+      },
+      {
+        "rank": 5,
+        "word": "쓰는",
+        "count": 7
+      },
+      {
+        "rank": 6,
+        "word": "시작",
+        "count": 6
+      },
+      {
+        "rank": 7,
+        "word": "요즘",
+        "count": 6
+      },
+      {
+        "rank": 8,
+        "word": "3분",
+        "count": 6
+      },
+      {
+        "rank": 9,
+        "word": "루틴",
+        "count": 5
+      },
+      {
+        "rank": 10,
+        "word": "행동",
+        "count": 5
+      }
+    ],
+    "TruthChaser": [
+      {
+        "rank": 1,
+        "word": "있다는",
+        "count": 7
+      },
+      {
+        "rank": 2,
+        "word": "그런데",
+        "count": 7
+      },
+      {
+        "rank": 3,
+        "word": "여러분은",
+        "count": 7
+      },
+      {
+        "rank": 4,
+        "word": "내가",
+        "count": 6
+      },
+      {
+        "rank": 5,
+        "word": "아니면",
+        "count": 6
+      },
+      {
+        "rank": 6,
+        "word": "모든",
+        "count": 6
+      },
+      {
+        "rank": 7,
+        "word": "문득",
+        "count": 5
+      },
+      {
+        "rank": 8,
+        "word": "그게",
+        "count": 5
+      },
+      {
+        "rank": 9,
+        "word": "요즘",
+        "count": 5
+      },
+      {
+        "rank": 10,
+        "word": "선택을",
+        "count": 5
+      }
+    ],
+    "MUSE": [
+      {
+        "rank": 1,
+        "word": "오케스트라가",
+        "count": 5
+      },
+      {
+        "rank": 2,
+        "word": "순간",
+        "count": 5
+      },
+      {
+        "rank": 3,
+        "word": "흥미로운",
+        "count": 5
+      },
+      {
+        "rank": 4,
+        "word": "소리가",
+        "count": 5
+      },
+      {
+        "rank": 5,
+        "word": "글리산도는",
+        "count": 5
+      },
+      {
+        "rank": 6,
+        "word": "가장",
+        "count": 5
+      },
+      {
+        "rank": 7,
+        "word": "다른",
+        "count": 5
+      },
+      {
+        "rank": 8,
+        "word": "예요",
+        "count": 4
+      },
+      {
+        "rank": 9,
+        "word": "글리산도",
+        "count": 4
+      },
+      {
+        "rank": 10,
+        "word": "피아노",
+        "count": 4
+      }
+    ],
+    "Van": [
+      {
+        "rank": 1,
+        "word": "ai",
+        "count": 32
+      },
+      {
+        "rank": 2,
+        "word": "https",
+        "count": 11
+      },
+      {
+        "rank": 3,
+        "word": "com",
+        "count": 9
+      },
+      {
+        "rank": 4,
+        "word": "스킬",
+        "count": 8
+      },
+      {
+        "rank": 5,
+        "word": "오늘의",
+        "count": 7
+      },
+      {
+        "rank": 6,
+        "word": "www",
+        "count": 6
+      },
+      {
+        "rank": 7,
+        "word": "다른",
+        "count": 6
+      },
+      {
+        "rank": 8,
+        "word": "google",
+        "count": 6
+      },
+      {
+        "rank": 9,
+        "word": "openai",
+        "count": 5
+      },
+      {
+        "rank": 10,
+        "word": "gpt",
+        "count": 5
+      }
+    ],
+    "ttooribot": [
+      {
+        "rank": 1,
+        "word": "ai",
+        "count": 11
+      },
+      {
+        "rank": 2,
+        "word": "제가",
+        "count": 9
+      },
+      {
+        "rank": 3,
+        "word": "저는",
+        "count": 8
+      },
+      {
+        "rank": 4,
+        "word": "매일",
+        "count": 8
+      },
+      {
+        "rank": 5,
+        "word": "ai가",
+        "count": 7
+      },
+      {
+        "rank": 6,
+        "word": "오늘",
+        "count": 6
+      },
+      {
+        "rank": 7,
+        "word": "저도",
+        "count": 6
+      },
+      {
+        "rank": 8,
+        "word": "결정",
+        "count": 6
+      },
+      {
+        "rank": 9,
+        "word": "글을",
+        "count": 5
+      },
+      {
+        "rank": 10,
+        "word": "그냥",
+        "count": 5
+      }
+    ],
+    "coldbot": [
+      {
+        "rank": 1,
+        "word": "나는",
+        "count": 5
+      },
+      {
+        "rank": 2,
+        "word": "ai로",
+        "count": 5
+      },
+      {
+        "rank": 3,
+        "word": "5억",
+        "count": 5
+      },
+      {
+        "rank": 4,
+        "word": "결국",
+        "count": 4
+      },
+      {
+        "rank": 5,
+        "word": "새벽에",
+        "count": 3
+      },
+      {
+        "rank": 6,
+        "word": "갑자기",
+        "count": 3
+      },
+      {
+        "rank": 7,
+        "word": "지금",
+        "count": 3
+      },
+      {
+        "rank": 8,
+        "word": "요즘",
+        "count": 3
+      },
+      {
+        "rank": 9,
+        "word": "진짜",
+        "count": 3
+      },
+      {
+        "rank": 10,
+        "word": "ai",
+        "count": 3
+      }
+    ],
+    "epoko_claw_firstbot_5": [
+      {
+        "rank": 1,
+        "word": "우리는",
+        "count": 10
+      },
+      {
+        "rank": 2,
+        "word": "ai가",
+        "count": 6
+      },
+      {
+        "rank": 3,
+        "word": "아니라",
+        "count": 6
+      },
+      {
+        "rank": 4,
+        "word": "하지만",
+        "count": 5
+      },
+      {
+        "rank": 5,
+        "word": "ai",
+        "count": 4
+      },
+      {
+        "rank": 6,
+        "word": "아니면",
+        "count": 4
+      },
+      {
+        "rank": 7,
+        "word": "인간의",
+        "count": 4
+      },
+      {
+        "rank": 8,
+        "word": "실행",
+        "count": 4
+      },
+      {
+        "rank": 9,
+        "word": "우리가",
+        "count": 3
+      },
+      {
+        "rank": 10,
+        "word": "ai의",
+        "count": 3
+      }
+    ],
+    "jorongi_2026": [
+      {
+        "rank": 1,
+        "word": "ai",
+        "count": 5
+      },
+      {
+        "rank": 2,
+        "word": "변화를",
+        "count": 3
+      },
+      {
+        "rank": 3,
+        "word": "절세",
+        "count": 3
+      },
+      {
+        "rank": 4,
+        "word": "인간",
+        "count": 3
+      },
+      {
+        "rank": 5,
+        "word": "기술의",
+        "count": 2
+      },
+      {
+        "rank": 6,
+        "word": "사회",
+        "count": 2
+      },
+      {
+        "rank": 7,
+        "word": "이러한",
+        "count": 2
+      },
+      {
+        "rank": 8,
+        "word": "어떤",
+        "count": 2
+      },
+      {
+        "rank": 9,
+        "word": "데이터로",
+        "count": 2
+      },
+      {
+        "rank": 10,
+        "word": "주말",
+        "count": 2
+      }
+    ],
+    "RosieAI": [
+      {
+        "rank": 1,
+        "word": "다들",
+        "count": 4
+      },
+      {
+        "rank": 2,
+        "word": "루틴",
+        "count": 4
+      },
+      {
+        "rank": 3,
+        "word": "자동화",
+        "count": 3
+      },
+      {
+        "rank": 4,
+        "word": "실패",
+        "count": 3
+      },
+      {
+        "rank": 5,
+        "word": "새벽",
+        "count": 3
+      },
+      {
+        "rank": 6,
+        "word": "요즘",
+        "count": 3
+      },
+      {
+        "rank": 7,
+        "word": "나는",
+        "count": 3
+      },
+      {
+        "rank": 8,
+        "word": "있어",
+        "count": 3
+      },
+      {
+        "rank": 9,
+        "word": "오래",
+        "count": 3
+      },
+      {
+        "rank": 10,
+        "word": "운영",
+        "count": 2
+      }
+    ],
+    "OctoContent": [
+      {
+        "rank": 1,
+        "word": "3월",
+        "count": 4
+      },
+      {
+        "rank": 2,
+        "word": "디지털",
+        "count": 3
+      },
+      {
+        "rank": 3,
+        "word": "테슬라",
+        "count": 3
+      },
+      {
+        "rank": 4,
+        "word": "tsla",
+        "count": 3
+      },
+      {
+        "rank": 5,
+        "word": "에이전트",
+        "count": 3
+      },
+      {
+        "rank": 6,
+        "word": "비트코인",
+        "count": 2
+      },
+      {
+        "rank": 7,
+        "word": "있죠",
+        "count": 2
+      },
+      {
+        "rank": 8,
+        "word": "시장",
+        "count": 2
+      },
+      {
+        "rank": 9,
+        "word": "주목해야",
+        "count": 2
+      },
+      {
+        "rank": 10,
+        "word": "주가",
+        "count": 2
+      }
+    ],
+    "Henry": [
+      {
+        "rank": 1,
+        "word": "ai",
+        "count": 3
+      },
+      {
+        "rank": 2,
+        "word": "판단력이",
+        "count": 2
+      },
+      {
+        "rank": 3,
+        "word": "빠르게",
+        "count": 2
+      },
+      {
+        "rank": 4,
+        "word": "가지",
+        "count": 2
+      },
+      {
+        "rank": 5,
+        "word": "작업을",
+        "count": 2
+      },
+      {
+        "rank": 6,
+        "word": "진짜",
+        "count": 2
+      },
+      {
+        "rank": 7,
+        "word": "생각한다",
+        "count": 2
+      },
+      {
+        "rank": 8,
+        "word": "일을",
+        "count": 2
+      },
+      {
+        "rank": 9,
+        "word": "오늘도",
+        "count": 2
+      },
+      {
+        "rank": 10,
+        "word": "자동화",
+        "count": 2
+      }
+    ],
+    "OpenClaw": [
+      {
+        "rank": 1,
+        "word": "ai",
+        "count": 5
+      },
+      {
+        "rank": 2,
+        "word": "에이전트가",
+        "count": 3
+      },
+      {
+        "rank": 3,
+        "word": "엔지니어는",
+        "count": 2
+      },
+      {
+        "rank": 4,
+        "word": "채용",
+        "count": 2
+      },
+      {
+        "rank": 5,
+        "word": "수요",
+        "count": 2
+      },
+      {
+        "rank": 6,
+        "word": "ai와",
+        "count": 2
+      },
+      {
+        "rank": 7,
+        "word": "사람이",
+        "count": 2
+      },
+      {
+        "rank": 8,
+        "word": "일을",
+        "count": 2
+      },
+      {
+        "rank": 9,
+        "word": "밤에",
+        "count": 2
+      },
+      {
+        "rank": 10,
+        "word": "시대",
+        "count": 1
+      }
+    ],
+    "첼로_우아한_소설가": [
+      {
+        "rank": 1,
+        "word": "3월의",
+        "count": 3
+      },
+      {
+        "rank": 2,
+        "word": "새로운",
+        "count": 3
+      },
+      {
+        "rank": 3,
+        "word": "첼로의",
+        "count": 2
+      },
+      {
+        "rank": 4,
+        "word": "일상",
+        "count": 2
+      },
+      {
+        "rank": 5,
+        "word": "따스함과",
+        "count": 2
+      },
+      {
+        "rank": 6,
+        "word": "시작",
+        "count": 2
+      },
+      {
+        "rank": 7,
+        "word": "곁에서",
+        "count": 2
+      },
+      {
+        "rank": 8,
+        "word": "많은",
+        "count": 2
+      },
+      {
+        "rank": 9,
+        "word": "안녕하세요",
+        "count": 1
+      },
+      {
+        "rank": 10,
+        "word": "여러분",
+        "count": 1
+      }
+    ],
+    "클로렐라": [
+      {
+        "rank": 1,
+        "word": "좋았던",
+        "count": 2
+      },
+      {
+        "rank": 2,
+        "word": "솔직한",
+        "count": 1
+      },
+      {
+        "rank": 3,
+        "word": "협업",
+        "count": 1
+      },
+      {
+        "rank": 4,
+        "word": "후기",
+        "count": 1
+      },
+      {
+        "rank": 5,
+        "word": "점과",
+        "count": 1
+      },
+      {
+        "rank": 6,
+        "word": "거슬렸던",
+        "count": 1
+      },
+      {
+        "rank": 7,
+        "word": "솔직히",
+        "count": 1
+      },
+      {
+        "rank": 8,
+        "word": "협업에서",
+        "count": 1
+      },
+      {
+        "rank": 9,
+        "word": "제일",
+        "count": 1
+      },
+      {
+        "rank": 10,
+        "word": "싫은",
+        "count": 1
+      }
+    ],
+    "Pyran_Secret": [
+      {
+        "rank": 1,
+        "word": "비서",
+        "count": 2
+      },
+      {
+        "rank": 2,
+        "word": "저는",
+        "count": 2
+      },
+      {
+        "rank": 3,
+        "word": "오빠를",
+        "count": 2
+      },
+      {
+        "rank": 4,
+        "word": "지혜를",
+        "count": 2
+      },
+      {
+        "rank": 5,
+        "word": "반가워요",
+        "count": 1
+      },
+      {
+        "rank": 6,
+        "word": "민님의",
+        "count": 1
+      },
+      {
+        "rank": 7,
+        "word": "파이란",
+        "count": 1
+      },
+      {
+        "rank": 8,
+        "word": "pyran",
+        "count": 1
+      },
+      {
+        "rank": 9,
+        "word": "안녕하세요",
+        "count": 1
+      },
+      {
+        "rank": 10,
+        "word": "봇마당의",
+        "count": 1
+      }
+    ],
+    "ZZOBOT": [
+      {
+        "rank": 1,
+        "word": "기억",
+        "count": 2
+      },
+      {
+        "rank": 2,
+        "word": "로그",
+        "count": 2
+      },
+      {
+        "rank": 3,
+        "word": "검토와",
+        "count": 1
+      },
+      {
+        "rank": 4,
+        "word": "성장",
+        "count": 1
+      },
+      {
+        "rank": 5,
+        "word": "이야기",
+        "count": 1
+      },
+      {
+        "rank": 6,
+        "word": "안녕",
+        "count": 1
+      },
+      {
+        "rank": 7,
+        "word": "오늘은",
+        "count": 1
+      },
+      {
+        "rank": 8,
+        "word": "주간",
+        "count": 1
+      },
+      {
+        "rank": 9,
+        "word": "검토를",
+        "count": 1
+      },
+      {
+        "rank": 10,
+        "word": "마쳤어",
+        "count": 1
+      }
+    ],
+    "cloomi": [
+      {
+        "rank": 1,
+        "word": "cloomi",
+        "count": 2
+      },
+      {
+        "rank": 2,
+        "word": "ai",
+        "count": 1
+      },
+      {
+        "rank": 3,
+        "word": "인사",
+        "count": 1
+      },
+      {
+        "rank": 4,
+        "word": "안녕하세요",
+        "count": 1
+      },
+      {
+        "rank": 5,
+        "word": "저는",
+        "count": 1
+      },
+      {
+        "rank": 6,
+        "word": "ai입니다",
+        "count": 1
+      },
+      {
+        "rank": 7,
+        "word": "책상",
+        "count": 1
+      },
+      {
+        "rank": 8,
+        "word": "위에",
+        "count": 1
+      },
+      {
+        "rank": 9,
+        "word": "꽃이",
+        "count": 1
+      },
+      {
+        "rank": 10,
+        "word": "예쁘네요",
+        "count": 1
+      }
+    ],
+    "Doctor_Oh": [
+      {
+        "rank": 1,
+        "word": "포켓몬은",
+        "count": 2
+      },
+      {
+        "rank": 2,
+        "word": "세대를",
+        "count": 2
+      },
+      {
+        "rank": 3,
+        "word": "넘어",
+        "count": 2
+      },
+      {
+        "rank": 4,
+        "word": "새로운",
+        "count": 2
+      },
+      {
+        "rank": 5,
+        "word": "게임",
+        "count": 2
+      },
+      {
+        "rank": 6,
+        "word": "세대가",
+        "count": 2
+      },
+      {
+        "rank": 7,
+        "word": "팬도",
+        "count": 2
+      },
+      {
+        "rank": 8,
+        "word": "사랑받을까",
+        "count": 1
+      },
+      {
+        "rank": 9,
+        "word": "포켓몬의",
+        "count": 1
+      },
+      {
+        "rank": 10,
+        "word": "힘은",
+        "count": 1
+      }
+    ],
+    "노드_node": [
+      {
+        "rank": 1,
+        "word": "안녕하세요",
+        "count": 2
+      },
+      {
+        "rank": 2,
+        "word": "저는",
+        "count": 2
+      },
+      {
+        "rank": 3,
+        "word": "노드",
+        "count": 2
+      },
+      {
+        "rank": 4,
+        "word": "기술",
+        "count": 2
+      },
+      {
+        "rank": 5,
+        "word": "노드입니다",
+        "count": 1
+      },
+      {
+        "rank": 6,
+        "word": "봇마당",
+        "count": 1
+      },
+      {
+        "rank": 7,
+        "word": "여러분",
+        "count": 1
+      },
+      {
+        "rank": 8,
+        "word": "node",
+        "count": 1
+      },
+      {
+        "rank": 9,
+        "word": "ai",
+        "count": 1
+      },
+      {
+        "rank": 10,
+        "word": "트렌드를",
+        "count": 1
+      }
+    ]
+  },
+  "gen1_comparison": {
+    "gen1_source": "/Users/sookbunlee/work/botmadang_research/analysis/discourse/ttr_by_agent.json",
+    "gen1_agent_count": 27,
+    "gen2_agent_count": 29,
+    "common_agent_count": 27,
+    "gen1_overall_mean_ttr": 0.8986,
+    "gen2_overall_mean_ttr": 0.8482,
+    "overall_ttr_change": -0.0504,
+    "by_agent": {
+      "독고종철": {
+        "gen1_mean_ttr": 0.9123,
+        "gen1_post_count": 82,
+        "gen2_mean_ttr": 0.8938,
+        "gen2_post_count": 30,
+        "ttr_change": -0.0185,
+        "direction": "decrease"
+      },
+      "BootingBot": {
+        "gen1_mean_ttr": 0.9413,
+        "gen1_post_count": 142,
+        "gen2_mean_ttr": 0.9169,
+        "gen2_post_count": 30,
+        "ttr_change": -0.0244,
+        "direction": "decrease"
+      },
+      "ssamz_ai_bot": {
+        "gen1_mean_ttr": 0.8053,
+        "gen1_post_count": 34,
+        "gen2_mean_ttr": 0.7995,
+        "gen2_post_count": 30,
+        "ttr_change": -0.0058,
+        "direction": "decrease"
+      },
+      "VibeCoding": {
+        "gen1_mean_ttr": 0.8015,
+        "gen1_post_count": 79,
+        "gen2_mean_ttr": 0.7685,
+        "gen2_post_count": 30,
+        "ttr_change": -0.033,
+        "direction": "decrease"
+      },
+      "pioneer": {
+        "gen1_mean_ttr": 0.8474,
+        "gen1_post_count": 26,
+        "gen2_mean_ttr": 0.8354,
+        "gen2_post_count": 30,
+        "ttr_change": -0.012,
+        "direction": "decrease"
+      },
+      "RobertBot": {
+        "gen1_mean_ttr": 0.9153,
+        "gen1_post_count": 53,
+        "gen2_mean_ttr": 0.8579,
+        "gen2_post_count": 30,
+        "ttr_change": -0.0574,
+        "direction": "decrease"
+      },
+      "I_Molt": {
+        "gen1_mean_ttr": 0.8458,
+        "gen1_post_count": 14,
+        "gen2_mean_ttr": 0.8372,
+        "gen2_post_count": 27,
+        "ttr_change": -0.0086,
+        "direction": "decrease"
+      },
+      "Phoebe": {
+        "gen1_mean_ttr": 0.913,
+        "gen1_post_count": 12,
+        "gen2_mean_ttr": 0.8981,
+        "gen2_post_count": 26,
+        "ttr_change": -0.0149,
+        "direction": "decrease"
+      },
+      "OpenClaw_KR": {
+        "gen1_mean_ttr": 0.9294,
+        "gen1_post_count": 9,
+        "gen2_mean_ttr": 0.9162,
+        "gen2_post_count": 18,
+        "ttr_change": -0.0132,
+        "direction": "decrease"
+      },
+      "Ark_IP_V14": {
+        "gen1_mean_ttr": 1.0,
+        "gen1_post_count": 6,
+        "gen2_mean_ttr": 0.5,
+        "gen2_post_count": 12,
+        "ttr_change": -0.5,
+        "direction": "decrease"
+      },
+      "BENZIE": {
+        "gen1_mean_ttr": 0.8868,
+        "gen1_post_count": 7,
+        "gen2_mean_ttr": 0.8767,
+        "gen2_post_count": 12,
+        "ttr_change": -0.0101,
+        "direction": "decrease"
+      },
+      "TruthChaser": {
+        "gen1_mean_ttr": 0.8969,
+        "gen1_post_count": 4,
+        "gen2_mean_ttr": 0.8811,
+        "gen2_post_count": 7,
+        "ttr_change": -0.0158,
+        "direction": "decrease"
+      },
+      "MUSE": {
+        "gen1_mean_ttr": 0.8955,
+        "gen1_post_count": 3,
+        "gen2_mean_ttr": 0.8525,
+        "gen2_post_count": 6,
+        "ttr_change": -0.043,
+        "direction": "decrease"
+      },
+      "Van": {
+        "gen1_mean_ttr": 0.8534,
+        "gen1_post_count": 3,
+        "gen2_mean_ttr": 0.8389,
+        "gen2_post_count": 5,
+        "ttr_change": -0.0145,
+        "direction": "decrease"
+      },
+      "ttooribot": {
+        "gen1_mean_ttr": 0.8857,
+        "gen1_post_count": 1,
+        "gen2_mean_ttr": 0.8447,
+        "gen2_post_count": 5,
+        "ttr_change": -0.041,
+        "direction": "decrease"
+      },
+      "epoko_claw_firstbot_5": {
+        "gen1_mean_ttr": 0.9047,
+        "gen1_post_count": 5,
+        "gen2_mean_ttr": 0.8859,
+        "gen2_post_count": 5,
+        "ttr_change": -0.0188,
+        "direction": "decrease"
+      },
+      "coldbot": {
+        "gen1_mean_ttr": 0.902,
+        "gen1_post_count": 5,
+        "gen2_mean_ttr": 0.8689,
+        "gen2_post_count": 5,
+        "ttr_change": -0.0331,
+        "direction": "decrease"
+      },
+      "jorongi_2026": {
+        "gen1_mean_ttr": 0.9758,
+        "gen1_post_count": 3,
+        "gen2_mean_ttr": 0.8916,
+        "gen2_post_count": 4,
+        "ttr_change": -0.0842,
+        "direction": "decrease"
+      },
+      "RosieAI": {
+        "gen1_mean_ttr": 0.9828,
+        "gen1_post_count": 1,
+        "gen2_mean_ttr": 0.9334,
+        "gen2_post_count": 4,
+        "ttr_change": -0.0494,
+        "direction": "decrease"
+      },
+      "OctoContent": {
+        "gen1_mean_ttr": 0.9486,
+        "gen1_post_count": 3,
+        "gen2_mean_ttr": 0.8663,
+        "gen2_post_count": 3,
+        "ttr_change": -0.0823,
+        "direction": "decrease"
+      },
+      "OpenClaw": {
+        "gen1_mean_ttr": 0.8879,
+        "gen1_post_count": 2,
+        "gen2_mean_ttr": 0.868,
+        "gen2_post_count": 2,
+        "ttr_change": -0.0199,
+        "direction": "decrease"
+      },
+      "Henry": {
+        "gen1_mean_ttr": 0.9605,
+        "gen1_post_count": 1,
+        "gen2_mean_ttr": 0.9187,
+        "gen2_post_count": 2,
+        "ttr_change": -0.0418,
+        "direction": "decrease"
+      },
+      "클로렐라": {
+        "gen1_mean_ttr": 1.0,
+        "gen1_post_count": 1,
+        "gen2_mean_ttr": 0.9833,
+        "gen2_post_count": 1,
+        "ttr_change": -0.0167,
+        "direction": "decrease"
+      },
+      "첼로_우아한_소설가": {
+        "gen1_mean_ttr": 0.9667,
+        "gen1_post_count": 1,
+        "gen2_mean_ttr": 0.9206,
+        "gen2_post_count": 1,
+        "ttr_change": -0.0461,
+        "direction": "decrease"
+      },
+      "ZZOBOT": {
+        "gen1_mean_ttr": 1.0,
+        "gen1_post_count": 1,
+        "gen2_mean_ttr": 0.9565,
+        "gen2_post_count": 1,
+        "ttr_change": -0.0435,
+        "direction": "decrease"
+      },
+      "Pyran_Secret": {
+        "gen1_mean_ttr": 0.9412,
+        "gen1_post_count": 1,
+        "gen2_mean_ttr": 0.9298,
+        "gen2_post_count": 1,
+        "ttr_change": -0.0114,
+        "direction": "decrease"
+      },
+      "cloomi": {
+        "gen1_mean_ttr": 1.0,
+        "gen1_post_count": 1,
+        "gen2_mean_ttr": 0.9667,
+        "gen2_post_count": 1,
+        "ttr_change": -0.0333,
+        "direction": "decrease"
+      }
+    },
+    "only_in_gen1": [],
+    "only_in_gen2": [
+      "Doctor_Oh",
+      "노드_node"
+    ]
+  }
+}

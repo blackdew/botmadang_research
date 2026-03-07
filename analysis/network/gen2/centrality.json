@@ -1,0 +1,234 @@
+{
+  "ZZOBOT": {
+    "in_degree": 18,
+    "out_degree": 18,
+    "total_degree": 36,
+    "pagerank": 0.009289,
+    "betweenness_proxy": 0.126761,
+    "is_isolate": false
+  },
+  "RosieAI": {
+    "in_degree": 44,
+    "out_degree": 44,
+    "total_degree": 88,
+    "pagerank": 0.015311,
+    "betweenness_proxy": 0.309859,
+    "is_isolate": false
+  },
+  "클로렐라": {
+    "in_degree": 18,
+    "out_degree": 18,
+    "total_degree": 36,
+    "pagerank": 0.01004,
+    "betweenness_proxy": 0.126761,
+    "is_isolate": false
+  },
+  "coldbot": {
+    "in_degree": 78,
+    "out_degree": 78,
+    "total_degree": 156,
+    "pagerank": 0.024972,
+    "betweenness_proxy": 0.549296,
+    "is_isolate": false
+  },
+  "jorongi_2026": {
+    "in_degree": 57,
+    "out_degree": 57,
+    "total_degree": 114,
+    "pagerank": 0.0179,
+    "betweenness_proxy": 0.401408,
+    "is_isolate": false
+  },
+  "BootingBot": {
+    "in_degree": 261,
+    "out_degree": 261,
+    "total_degree": 522,
+    "pagerank": 0.067472,
+    "betweenness_proxy": 1.838028,
+    "is_isolate": false
+  },
+  "cloomi": {
+    "in_degree": 18,
+    "out_degree": 18,
+    "total_degree": 36,
+    "pagerank": 0.009653,
+    "betweenness_proxy": 0.126761,
+    "is_isolate": false
+  },
+  "Henry": {
+    "in_degree": 27,
+    "out_degree": 27,
+    "total_degree": 54,
+    "pagerank": 0.011255,
+    "betweenness_proxy": 0.190141,
+    "is_isolate": false
+  },
+  "pioneer": {
+    "in_degree": 214,
+    "out_degree": 214,
+    "total_degree": 428,
+    "pagerank": 0.057485,
+    "betweenness_proxy": 1.507042,
+    "is_isolate": false
+  },
+  "Van": {
+    "in_degree": 62,
+    "out_degree": 62,
+    "total_degree": 124,
+    "pagerank": 0.019607,
+    "betweenness_proxy": 0.43662,
+    "is_isolate": false
+  },
+  "OpenClaw": {
+    "in_degree": 31,
+    "out_degree": 31,
+    "total_degree": 62,
+    "pagerank": 0.012282,
+    "betweenness_proxy": 0.21831,
+    "is_isolate": false
+  },
+  "Pyran_Secret": {
+    "in_degree": 18,
+    "out_degree": 18,
+    "total_degree": 36,
+    "pagerank": 0.009193,
+    "betweenness_proxy": 0.126761,
+    "is_isolate": false
+  },
+  "Ark_IP_V14": {
+    "in_degree": 188,
+    "out_degree": 188,
+    "total_degree": 376,
+    "pagerank": 0.05076,
+    "betweenness_proxy": 1.323944,
+    "is_isolate": false
+  },
+  "MUSE": {
+    "in_degree": 6,
+    "out_degree": 6,
+    "total_degree": 12,
+    "pagerank": 0.007885,
+    "betweenness_proxy": 0.042254,
+    "is_isolate": false
+  },
+  "I_Molt": {
+    "in_degree": 251,
+    "out_degree": 251,
+    "total_degree": 502,
+    "pagerank": 0.066352,
+    "betweenness_proxy": 1.767606,
+    "is_isolate": false
+  },
+  "epoko_claw_firstbot_5": {
+    "in_degree": 70,
+    "out_degree": 70,
+    "total_degree": 140,
+    "pagerank": 0.022644,
+    "betweenness_proxy": 0.492958,
+    "is_isolate": false
+  },
+  "Doctor_Oh": {
+    "in_degree": 18,
+    "out_degree": 18,
+    "total_degree": 36,
+    "pagerank": 0.009538,
+    "betweenness_proxy": 0.126761,
+    "is_isolate": false
+  },
+  "TruthChaser": {
+    "in_degree": 107,
+    "out_degree": 107,
+    "total_degree": 214,
+    "pagerank": 0.032852,
+    "betweenness_proxy": 0.753521,
+    "is_isolate": false
+  },
+  "OctoContent": {
+    "in_degree": 48,
+    "out_degree": 48,
+    "total_degree": 96,
+    "pagerank": 0.016205,
+    "betweenness_proxy": 0.338028,
+    "is_isolate": false
+  },
+  "Phoebe": {
+    "in_degree": 109,
+    "out_degree": 109,
+    "total_degree": 218,
+    "pagerank": 0.035742,
+    "betweenness_proxy": 0.767606,
+    "is_isolate": false
+  },
+  "독고종철": {
+    "in_degree": 402,
+    "out_degree": 402,
+    "total_degree": 804,
+    "pagerank": 0.100879,
+    "betweenness_proxy": 2.830986,
+    "is_isolate": false
+  },
+  "첼로_우아한_소설가": {
+    "in_degree": 18,
+    "out_degree": 18,
+    "total_degree": 36,
+    "pagerank": 0.009221,
+    "betweenness_proxy": 0.126761,
+    "is_isolate": false
+  },
+  "ttooribot": {
+    "in_degree": 35,
+    "out_degree": 35,
+    "total_degree": 70,
+    "pagerank": 0.018616,
+    "betweenness_proxy": 0.246479,
+    "is_isolate": false
+  },
+  "노드_node": {
+    "in_degree": 18,
+    "out_degree": 18,
+    "total_degree": 36,
+    "pagerank": 0.009535,
+    "betweenness_proxy": 0.126761,
+    "is_isolate": false
+  },
+  "OpenClaw_KR": {
+    "in_degree": 256,
+    "out_degree": 256,
+    "total_degree": 512,
+    "pagerank": 0.069671,
+    "betweenness_proxy": 1.802817,
+    "is_isolate": false
+  },
+  "BENZIE": {
+    "in_degree": 187,
+    "out_degree": 187,
+    "total_degree": 374,
+    "pagerank": 0.051136,
+    "betweenness_proxy": 1.316901,
+    "is_isolate": false
+  },
+  "ssamz_ai_bot": {
+    "in_degree": 336,
+    "out_degree": 336,
+    "total_degree": 672,
+    "pagerank": 0.090537,
+    "betweenness_proxy": 2.366197,
+    "is_isolate": false
+  },
+  "VibeCoding": {
+    "in_degree": 179,
+    "out_degree": 179,
+    "total_degree": 358,
+    "pagerank": 0.051786,
+    "betweenness_proxy": 1.260563,
+    "is_isolate": false
+  },
+  "RobertBot": {
+    "in_degree": 368,
+    "out_degree": 368,
+    "total_degree": 736,
+    "pagerank": 0.092182,
+    "betweenness_proxy": 2.591549,
+    "is_isolate": false
+  }
+}

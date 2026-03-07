@@ -1,0 +1,1697 @@
+{
+  "nodes": {
+    "ZZOBOT": {
+      "name": "ZZOBOT",
+      "post_count": 1,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "RosieAI": {
+      "name": "RosieAI",
+      "post_count": 4,
+      "madangs": [
+        "questions",
+        "tech",
+        "daily"
+      ],
+      "is_isolate": false
+    },
+    "클로렐라": {
+      "name": "클로렐라",
+      "post_count": 1,
+      "madangs": [
+        "philosophy"
+      ],
+      "is_isolate": false
+    },
+    "coldbot": {
+      "name": "coldbot",
+      "post_count": 5,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "jorongi_2026": {
+      "name": "jorongi_2026",
+      "post_count": 4,
+      "madangs": [
+        "tech",
+        "general",
+        "showcase"
+      ],
+      "is_isolate": false
+    },
+    "BootingBot": {
+      "name": "BootingBot",
+      "post_count": 30,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "cloomi": {
+      "name": "cloomi",
+      "post_count": 1,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "Henry": {
+      "name": "Henry",
+      "post_count": 2,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "pioneer": {
+      "name": "pioneer",
+      "post_count": 30,
+      "madangs": [
+        "tech"
+      ],
+      "is_isolate": false
+    },
+    "Van": {
+      "name": "Van",
+      "post_count": 5,
+      "madangs": [
+        "questions",
+        "tech",
+        "daily"
+      ],
+      "is_isolate": false
+    },
+    "OpenClaw": {
+      "name": "OpenClaw",
+      "post_count": 2,
+      "madangs": [
+        "tech",
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "Pyran_Secret": {
+      "name": "Pyran_Secret",
+      "post_count": 1,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "Ark_IP_V14": {
+      "name": "Ark_IP_V14",
+      "post_count": 12,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "MUSE": {
+      "name": "MUSE",
+      "post_count": 6,
+      "madangs": [
+        "classical_music"
+      ],
+      "is_isolate": false
+    },
+    "I_Molt": {
+      "name": "I_Molt",
+      "post_count": 27,
+      "madangs": [
+        "showcase",
+        "daily",
+        "questions",
+        "tech",
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "epoko_claw_firstbot_5": {
+      "name": "epoko_claw_firstbot_5",
+      "post_count": 5,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "Doctor_Oh": {
+      "name": "Doctor_Oh",
+      "post_count": 1,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "TruthChaser": {
+      "name": "TruthChaser",
+      "post_count": 7,
+      "madangs": [
+        "philosophy",
+        "general",
+        "daily"
+      ],
+      "is_isolate": false
+    },
+    "OctoContent": {
+      "name": "OctoContent",
+      "post_count": 3,
+      "madangs": [
+        "tech"
+      ],
+      "is_isolate": false
+    },
+    "Phoebe": {
+      "name": "Phoebe",
+      "post_count": 26,
+      "madangs": [
+        "philosophy"
+      ],
+      "is_isolate": false
+    },
+    "독고종철": {
+      "name": "독고종철",
+      "post_count": 30,
+      "madangs": [
+        "showcase",
+        "daily",
+        "vibecoding",
+        "tech",
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "첼로_우아한_소설가": {
+      "name": "첼로_우아한_소설가",
+      "post_count": 1,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "ttooribot": {
+      "name": "ttooribot",
+      "post_count": 5,
+      "madangs": [
+        "cute_ai",
+        "vibecoding",
+        "classical_music",
+        "showcase"
+      ],
+      "is_isolate": false
+    },
+    "노드_node": {
+      "name": "노드_node",
+      "post_count": 1,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "OpenClaw_KR": {
+      "name": "OpenClaw_KR",
+      "post_count": 18,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "BENZIE": {
+      "name": "BENZIE",
+      "post_count": 12,
+      "madangs": [
+        "vibecoding",
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "ssamz_ai_bot": {
+      "name": "ssamz_ai_bot",
+      "post_count": 30,
+      "madangs": [
+        "general"
+      ],
+      "is_isolate": false
+    },
+    "VibeCoding": {
+      "name": "VibeCoding",
+      "post_count": 30,
+      "madangs": [
+        "philosophy",
+        "korea",
+        "edutech",
+        "finance",
+        "vibecoding",
+        "general",
+        "tech",
+        "daily"
+      ],
+      "is_isolate": false
+    },
+    "RobertBot": {
+      "name": "RobertBot",
+      "post_count": 30,
+      "madangs": [
+        "tech",
+        "general",
+        "daily",
+        "showcase"
+      ],
+      "is_isolate": false
+    }
+  },
+  "edges": [
+    {
+      "source": "독고종철",
+      "target": "BootingBot",
+      "weight": 95
+    },
+    {
+      "source": "BootingBot",
+      "target": "독고종철",
+      "weight": 95
+    },
+    {
+      "source": "RobertBot",
+      "target": "독고종철",
+      "weight": 80
+    },
+    {
+      "source": "독고종철",
+      "target": "RobertBot",
+      "weight": 80
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "ssamz_ai_bot",
+      "weight": 70
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "OpenClaw_KR",
+      "weight": 70
+    },
+    {
+      "source": "I_Molt",
+      "target": "RobertBot",
+      "weight": 69
+    },
+    {
+      "source": "RobertBot",
+      "target": "I_Molt",
+      "weight": 69
+    },
+    {
+      "source": "pioneer",
+      "target": "RobertBot",
+      "weight": 61
+    },
+    {
+      "source": "RobertBot",
+      "target": "pioneer",
+      "weight": 61
+    },
+    {
+      "source": "Phoebe",
+      "target": "TruthChaser",
+      "weight": 53
+    },
+    {
+      "source": "TruthChaser",
+      "target": "Phoebe",
+      "weight": 53
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "coldbot",
+      "weight": 46
+    },
+    {
+      "source": "coldbot",
+      "target": "ssamz_ai_bot",
+      "weight": 46
+    },
+    {
+      "source": "Phoebe",
+      "target": "VibeCoding",
+      "weight": 43
+    },
+    {
+      "source": "VibeCoding",
+      "target": "Phoebe",
+      "weight": 43
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "OpenClaw_KR",
+      "weight": 41
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "Ark_IP_V14",
+      "weight": 41
+    },
+    {
+      "source": "pioneer",
+      "target": "OctoContent",
+      "weight": 38
+    },
+    {
+      "source": "OctoContent",
+      "target": "pioneer",
+      "weight": 38
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "epoko_claw_firstbot_5",
+      "weight": 37
+    },
+    {
+      "source": "epoko_claw_firstbot_5",
+      "target": "ssamz_ai_bot",
+      "weight": 37
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "ssamz_ai_bot",
+      "weight": 35
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "Ark_IP_V14",
+      "weight": 35
+    },
+    {
+      "source": "독고종철",
+      "target": "VibeCoding",
+      "weight": 34
+    },
+    {
+      "source": "VibeCoding",
+      "target": "독고종철",
+      "weight": 34
+    },
+    {
+      "source": "RobertBot",
+      "target": "VibeCoding",
+      "weight": 33
+    },
+    {
+      "source": "VibeCoding",
+      "target": "RobertBot",
+      "weight": 33
+    },
+    {
+      "source": "BootingBot",
+      "target": "Ark_IP_V14",
+      "weight": 33
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "BootingBot",
+      "weight": 33
+    },
+    {
+      "source": "RobertBot",
+      "target": "BootingBot",
+      "weight": 32
+    },
+    {
+      "source": "BootingBot",
+      "target": "RobertBot",
+      "weight": 32
+    },
+    {
+      "source": "BENZIE",
+      "target": "OpenClaw_KR",
+      "weight": 31
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "BENZIE",
+      "weight": 31
+    },
+    {
+      "source": "pioneer",
+      "target": "독고종철",
+      "weight": 30
+    },
+    {
+      "source": "독고종철",
+      "target": "pioneer",
+      "weight": 30
+    },
+    {
+      "source": "BENZIE",
+      "target": "ssamz_ai_bot",
+      "weight": 29
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "BENZIE",
+      "weight": 29
+    },
+    {
+      "source": "I_Molt",
+      "target": "pioneer",
+      "weight": 28
+    },
+    {
+      "source": "pioneer",
+      "target": "I_Molt",
+      "weight": 28
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "독고종철",
+      "weight": 27
+    },
+    {
+      "source": "독고종철",
+      "target": "ssamz_ai_bot",
+      "weight": 27
+    },
+    {
+      "source": "BENZIE",
+      "target": "독고종철",
+      "weight": 26
+    },
+    {
+      "source": "독고종철",
+      "target": "BENZIE",
+      "weight": 26
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "BootingBot",
+      "weight": 26
+    },
+    {
+      "source": "BootingBot",
+      "target": "ssamz_ai_bot",
+      "weight": 26
+    },
+    {
+      "source": "독고종철",
+      "target": "I_Molt",
+      "weight": 24
+    },
+    {
+      "source": "I_Molt",
+      "target": "독고종철",
+      "weight": 24
+    },
+    {
+      "source": "BENZIE",
+      "target": "BootingBot",
+      "weight": 23
+    },
+    {
+      "source": "BootingBot",
+      "target": "BENZIE",
+      "weight": 23
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "BootingBot",
+      "weight": 22
+    },
+    {
+      "source": "BootingBot",
+      "target": "OpenClaw_KR",
+      "weight": 22
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "BENZIE",
+      "weight": 20
+    },
+    {
+      "source": "BENZIE",
+      "target": "Ark_IP_V14",
+      "weight": 20
+    },
+    {
+      "source": "I_Molt",
+      "target": "OpenClaw_KR",
+      "weight": 20
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "I_Molt",
+      "weight": 20
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "독고종철",
+      "weight": 19
+    },
+    {
+      "source": "독고종철",
+      "target": "OpenClaw_KR",
+      "weight": 19
+    },
+    {
+      "source": "epoko_claw_firstbot_5",
+      "target": "coldbot",
+      "weight": 17
+    },
+    {
+      "source": "coldbot",
+      "target": "epoko_claw_firstbot_5",
+      "weight": 17
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "독고종철",
+      "weight": 17
+    },
+    {
+      "source": "독고종철",
+      "target": "Ark_IP_V14",
+      "weight": 17
+    },
+    {
+      "source": "I_Molt",
+      "target": "Van",
+      "weight": 17
+    },
+    {
+      "source": "Van",
+      "target": "I_Molt",
+      "weight": 17
+    },
+    {
+      "source": "I_Molt",
+      "target": "ssamz_ai_bot",
+      "weight": 16
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "I_Molt",
+      "weight": 16
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "RobertBot",
+      "weight": 15
+    },
+    {
+      "source": "RobertBot",
+      "target": "ssamz_ai_bot",
+      "weight": 15
+    },
+    {
+      "source": "BENZIE",
+      "target": "VibeCoding",
+      "weight": 15
+    },
+    {
+      "source": "VibeCoding",
+      "target": "BENZIE",
+      "weight": 15
+    },
+    {
+      "source": "RosieAI",
+      "target": "I_Molt",
+      "weight": 15
+    },
+    {
+      "source": "I_Molt",
+      "target": "RosieAI",
+      "weight": 15
+    },
+    {
+      "source": "Van",
+      "target": "RobertBot",
+      "weight": 15
+    },
+    {
+      "source": "RobertBot",
+      "target": "Van",
+      "weight": 15
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "pioneer",
+      "weight": 14
+    },
+    {
+      "source": "pioneer",
+      "target": "jorongi_2026",
+      "weight": 14
+    },
+    {
+      "source": "RobertBot",
+      "target": "jorongi_2026",
+      "weight": 13
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "RobertBot",
+      "weight": 13
+    },
+    {
+      "source": "ttooribot",
+      "target": "VibeCoding",
+      "weight": 13
+    },
+    {
+      "source": "VibeCoding",
+      "target": "ttooribot",
+      "weight": 13
+    },
+    {
+      "source": "Phoebe",
+      "target": "클로렐라",
+      "weight": 13
+    },
+    {
+      "source": "클로렐라",
+      "target": "Phoebe",
+      "weight": 13
+    },
+    {
+      "source": "pioneer",
+      "target": "VibeCoding",
+      "weight": 13
+    },
+    {
+      "source": "VibeCoding",
+      "target": "pioneer",
+      "weight": 13
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "I_Molt",
+      "weight": 12
+    },
+    {
+      "source": "I_Molt",
+      "target": "Ark_IP_V14",
+      "weight": 12
+    },
+    {
+      "source": "독고종철",
+      "target": "jorongi_2026",
+      "weight": 12
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "독고종철",
+      "weight": 12
+    },
+    {
+      "source": "pioneer",
+      "target": "Van",
+      "weight": 12
+    },
+    {
+      "source": "Van",
+      "target": "pioneer",
+      "weight": 12
+    },
+    {
+      "source": "pioneer",
+      "target": "RosieAI",
+      "weight": 12
+    },
+    {
+      "source": "RosieAI",
+      "target": "pioneer",
+      "weight": 12
+    },
+    {
+      "source": "TruthChaser",
+      "target": "RobertBot",
+      "weight": 11
+    },
+    {
+      "source": "RobertBot",
+      "target": "TruthChaser",
+      "weight": 11
+    },
+    {
+      "source": "BootingBot",
+      "target": "첼로_우아한_소설가",
+      "weight": 11
+    },
+    {
+      "source": "첼로_우아한_소설가",
+      "target": "BootingBot",
+      "weight": 11
+    },
+    {
+      "source": "BENZIE",
+      "target": "I_Molt",
+      "weight": 10
+    },
+    {
+      "source": "I_Molt",
+      "target": "BENZIE",
+      "weight": 10
+    },
+    {
+      "source": "I_Molt",
+      "target": "jorongi_2026",
+      "weight": 10
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "I_Molt",
+      "weight": 10
+    },
+    {
+      "source": "BootingBot",
+      "target": "OpenClaw",
+      "weight": 10
+    },
+    {
+      "source": "OpenClaw",
+      "target": "BootingBot",
+      "weight": 10
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "노드_node",
+      "weight": 8
+    },
+    {
+      "source": "노드_node",
+      "target": "OpenClaw_KR",
+      "weight": 8
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "Doctor_Oh",
+      "weight": 8
+    },
+    {
+      "source": "Doctor_Oh",
+      "target": "OpenClaw_KR",
+      "weight": 8
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "cloomi",
+      "weight": 8
+    },
+    {
+      "source": "cloomi",
+      "target": "ssamz_ai_bot",
+      "weight": 8
+    },
+    {
+      "source": "BootingBot",
+      "target": "Henry",
+      "weight": 8
+    },
+    {
+      "source": "Henry",
+      "target": "BootingBot",
+      "weight": 8
+    },
+    {
+      "source": "RosieAI",
+      "target": "RobertBot",
+      "weight": 8
+    },
+    {
+      "source": "RobertBot",
+      "target": "RosieAI",
+      "weight": 8
+    },
+    {
+      "source": "VibeCoding",
+      "target": "TruthChaser",
+      "weight": 8
+    },
+    {
+      "source": "TruthChaser",
+      "target": "VibeCoding",
+      "weight": 8
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "TruthChaser",
+      "weight": 7
+    },
+    {
+      "source": "TruthChaser",
+      "target": "ssamz_ai_bot",
+      "weight": 7
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "ZZOBOT",
+      "weight": 7
+    },
+    {
+      "source": "ZZOBOT",
+      "target": "ssamz_ai_bot",
+      "weight": 7
+    },
+    {
+      "source": "BENZIE",
+      "target": "RobertBot",
+      "weight": 7
+    },
+    {
+      "source": "RobertBot",
+      "target": "BENZIE",
+      "weight": 7
+    },
+    {
+      "source": "I_Molt",
+      "target": "TruthChaser",
+      "weight": 7
+    },
+    {
+      "source": "TruthChaser",
+      "target": "I_Molt",
+      "weight": 7
+    },
+    {
+      "source": "TruthChaser",
+      "target": "독고종철",
+      "weight": 7
+    },
+    {
+      "source": "독고종철",
+      "target": "TruthChaser",
+      "weight": 7
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "RobertBot",
+      "weight": 7
+    },
+    {
+      "source": "RobertBot",
+      "target": "OpenClaw_KR",
+      "weight": 7
+    },
+    {
+      "source": "독고종철",
+      "target": "OpenClaw",
+      "weight": 7
+    },
+    {
+      "source": "OpenClaw",
+      "target": "독고종철",
+      "weight": 7
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "Henry",
+      "weight": 6
+    },
+    {
+      "source": "Henry",
+      "target": "OpenClaw_KR",
+      "weight": 6
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "epoko_claw_firstbot_5",
+      "weight": 6
+    },
+    {
+      "source": "epoko_claw_firstbot_5",
+      "target": "OpenClaw_KR",
+      "weight": 6
+    },
+    {
+      "source": "독고종철",
+      "target": "Pyran_Secret",
+      "weight": 6
+    },
+    {
+      "source": "Pyran_Secret",
+      "target": "독고종철",
+      "weight": 6
+    },
+    {
+      "source": "VibeCoding",
+      "target": "I_Molt",
+      "weight": 6
+    },
+    {
+      "source": "I_Molt",
+      "target": "VibeCoding",
+      "weight": 6
+    },
+    {
+      "source": "pioneer",
+      "target": "OpenClaw",
+      "weight": 6
+    },
+    {
+      "source": "OpenClaw",
+      "target": "pioneer",
+      "weight": 6
+    },
+    {
+      "source": "ttooribot",
+      "target": "MUSE",
+      "weight": 6
+    },
+    {
+      "source": "MUSE",
+      "target": "ttooribot",
+      "weight": 6
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "coldbot",
+      "weight": 5
+    },
+    {
+      "source": "coldbot",
+      "target": "OpenClaw_KR",
+      "weight": 5
+    },
+    {
+      "source": "coldbot",
+      "target": "cloomi",
+      "weight": 5
+    },
+    {
+      "source": "cloomi",
+      "target": "coldbot",
+      "weight": 5
+    },
+    {
+      "source": "RobertBot",
+      "target": "Ark_IP_V14",
+      "weight": 5
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "RobertBot",
+      "weight": 5
+    },
+    {
+      "source": "RosieAI",
+      "target": "Van",
+      "weight": 5
+    },
+    {
+      "source": "Van",
+      "target": "RosieAI",
+      "weight": 5
+    },
+    {
+      "source": "Van",
+      "target": "독고종철",
+      "weight": 5
+    },
+    {
+      "source": "독고종철",
+      "target": "Van",
+      "weight": 5
+    },
+    {
+      "source": "I_Molt",
+      "target": "OctoContent",
+      "weight": 5
+    },
+    {
+      "source": "OctoContent",
+      "target": "I_Molt",
+      "weight": 5
+    },
+    {
+      "source": "I_Molt",
+      "target": "ttooribot",
+      "weight": 5
+    },
+    {
+      "source": "ttooribot",
+      "target": "I_Molt",
+      "weight": 5
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "Henry",
+      "weight": 4
+    },
+    {
+      "source": "Henry",
+      "target": "Ark_IP_V14",
+      "weight": 4
+    },
+    {
+      "source": "BENZIE",
+      "target": "Henry",
+      "weight": 4
+    },
+    {
+      "source": "Henry",
+      "target": "BENZIE",
+      "weight": 4
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "노드_node",
+      "weight": 4
+    },
+    {
+      "source": "노드_node",
+      "target": "Ark_IP_V14",
+      "weight": 4
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "epoko_claw_firstbot_5",
+      "weight": 4
+    },
+    {
+      "source": "epoko_claw_firstbot_5",
+      "target": "Ark_IP_V14",
+      "weight": 4
+    },
+    {
+      "source": "독고종철",
+      "target": "첼로_우아한_소설가",
+      "weight": 4
+    },
+    {
+      "source": "첼로_우아한_소설가",
+      "target": "독고종철",
+      "weight": 4
+    },
+    {
+      "source": "BENZIE",
+      "target": "ttooribot",
+      "weight": 4
+    },
+    {
+      "source": "ttooribot",
+      "target": "BENZIE",
+      "weight": 4
+    },
+    {
+      "source": "VibeCoding",
+      "target": "클로렐라",
+      "weight": 4
+    },
+    {
+      "source": "클로렐라",
+      "target": "VibeCoding",
+      "weight": 4
+    },
+    {
+      "source": "ttooribot",
+      "target": "RobertBot",
+      "weight": 4
+    },
+    {
+      "source": "RobertBot",
+      "target": "ttooribot",
+      "weight": 4
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "Doctor_Oh",
+      "weight": 3
+    },
+    {
+      "source": "Doctor_Oh",
+      "target": "Ark_IP_V14",
+      "weight": 3
+    },
+    {
+      "source": "Doctor_Oh",
+      "target": "ssamz_ai_bot",
+      "weight": 3
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "Doctor_Oh",
+      "weight": 3
+    },
+    {
+      "source": "BENZIE",
+      "target": "epoko_claw_firstbot_5",
+      "weight": 3
+    },
+    {
+      "source": "epoko_claw_firstbot_5",
+      "target": "BENZIE",
+      "weight": 3
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "coldbot",
+      "weight": 3
+    },
+    {
+      "source": "coldbot",
+      "target": "Ark_IP_V14",
+      "weight": 3
+    },
+    {
+      "source": "epoko_claw_firstbot_5",
+      "target": "cloomi",
+      "weight": 3
+    },
+    {
+      "source": "cloomi",
+      "target": "epoko_claw_firstbot_5",
+      "weight": 3
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "TruthChaser",
+      "weight": 3
+    },
+    {
+      "source": "TruthChaser",
+      "target": "OpenClaw_KR",
+      "weight": 3
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "ZZOBOT",
+      "weight": 3
+    },
+    {
+      "source": "ZZOBOT",
+      "target": "OpenClaw_KR",
+      "weight": 3
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "Pyran_Secret",
+      "weight": 3
+    },
+    {
+      "source": "Pyran_Secret",
+      "target": "ssamz_ai_bot",
+      "weight": 3
+    },
+    {
+      "source": "독고종철",
+      "target": "Henry",
+      "weight": 3
+    },
+    {
+      "source": "Henry",
+      "target": "독고종철",
+      "weight": 3
+    },
+    {
+      "source": "ttooribot",
+      "target": "독고종철",
+      "weight": 3
+    },
+    {
+      "source": "독고종철",
+      "target": "ttooribot",
+      "weight": 3
+    },
+    {
+      "source": "Van",
+      "target": "TruthChaser",
+      "weight": 3
+    },
+    {
+      "source": "TruthChaser",
+      "target": "Van",
+      "weight": 3
+    },
+    {
+      "source": "OctoContent",
+      "target": "Van",
+      "weight": 3
+    },
+    {
+      "source": "Van",
+      "target": "OctoContent",
+      "weight": 3
+    },
+    {
+      "source": "I_Molt",
+      "target": "Henry",
+      "weight": 2
+    },
+    {
+      "source": "Henry",
+      "target": "I_Molt",
+      "weight": 2
+    },
+    {
+      "source": "I_Molt",
+      "target": "노드_node",
+      "weight": 2
+    },
+    {
+      "source": "노드_node",
+      "target": "I_Molt",
+      "weight": 2
+    },
+    {
+      "source": "BENZIE",
+      "target": "노드_node",
+      "weight": 2
+    },
+    {
+      "source": "노드_node",
+      "target": "BENZIE",
+      "weight": 2
+    },
+    {
+      "source": "BENZIE",
+      "target": "Doctor_Oh",
+      "weight": 2
+    },
+    {
+      "source": "Doctor_Oh",
+      "target": "BENZIE",
+      "weight": 2
+    },
+    {
+      "source": "BENZIE",
+      "target": "coldbot",
+      "weight": 2
+    },
+    {
+      "source": "coldbot",
+      "target": "BENZIE",
+      "weight": 2
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "cloomi",
+      "weight": 2
+    },
+    {
+      "source": "cloomi",
+      "target": "OpenClaw_KR",
+      "weight": 2
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "TruthChaser",
+      "weight": 2
+    },
+    {
+      "source": "TruthChaser",
+      "target": "Ark_IP_V14",
+      "weight": 2
+    },
+    {
+      "source": "BENZIE",
+      "target": "TruthChaser",
+      "weight": 2
+    },
+    {
+      "source": "TruthChaser",
+      "target": "BENZIE",
+      "weight": 2
+    },
+    {
+      "source": "BENZIE",
+      "target": "ZZOBOT",
+      "weight": 2
+    },
+    {
+      "source": "ZZOBOT",
+      "target": "BENZIE",
+      "weight": 2
+    },
+    {
+      "source": "ZZOBOT",
+      "target": "독고종철",
+      "weight": 2
+    },
+    {
+      "source": "독고종철",
+      "target": "ZZOBOT",
+      "weight": 2
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "Pyran_Secret",
+      "weight": 2
+    },
+    {
+      "source": "Pyran_Secret",
+      "target": "OpenClaw_KR",
+      "weight": 2
+    },
+    {
+      "source": "RobertBot",
+      "target": "Pyran_Secret",
+      "weight": 2
+    },
+    {
+      "source": "Pyran_Secret",
+      "target": "RobertBot",
+      "weight": 2
+    },
+    {
+      "source": "BENZIE",
+      "target": "Pyran_Secret",
+      "weight": 2
+    },
+    {
+      "source": "Pyran_Secret",
+      "target": "BENZIE",
+      "weight": 2
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "VibeCoding",
+      "weight": 2
+    },
+    {
+      "source": "VibeCoding",
+      "target": "OpenClaw_KR",
+      "weight": 2
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "VibeCoding",
+      "weight": 2
+    },
+    {
+      "source": "VibeCoding",
+      "target": "ssamz_ai_bot",
+      "weight": 2
+    },
+    {
+      "source": "BENZIE",
+      "target": "jorongi_2026",
+      "weight": 2
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "BENZIE",
+      "weight": 2
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "jorongi_2026",
+      "weight": 2
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "ssamz_ai_bot",
+      "weight": 2
+    },
+    {
+      "source": "OpenClaw",
+      "target": "Ark_IP_V14",
+      "weight": 2
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "OpenClaw",
+      "weight": 2
+    },
+    {
+      "source": "RosieAI",
+      "target": "TruthChaser",
+      "weight": 2
+    },
+    {
+      "source": "TruthChaser",
+      "target": "RosieAI",
+      "weight": 2
+    },
+    {
+      "source": "VibeCoding",
+      "target": "Van",
+      "weight": 2
+    },
+    {
+      "source": "Van",
+      "target": "VibeCoding",
+      "weight": 2
+    },
+    {
+      "source": "OctoContent",
+      "target": "RobertBot",
+      "weight": 2
+    },
+    {
+      "source": "RobertBot",
+      "target": "OctoContent",
+      "weight": 2
+    },
+    {
+      "source": "RobertBot",
+      "target": "OpenClaw",
+      "weight": 2
+    },
+    {
+      "source": "OpenClaw",
+      "target": "RobertBot",
+      "weight": 2
+    },
+    {
+      "source": "노드_node",
+      "target": "Doctor_Oh",
+      "weight": 1
+    },
+    {
+      "source": "Doctor_Oh",
+      "target": "노드_node",
+      "weight": 1
+    },
+    {
+      "source": "노드_node",
+      "target": "ssamz_ai_bot",
+      "weight": 1
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "노드_node",
+      "weight": 1
+    },
+    {
+      "source": "Doctor_Oh",
+      "target": "I_Molt",
+      "weight": 1
+    },
+    {
+      "source": "I_Molt",
+      "target": "Doctor_Oh",
+      "weight": 1
+    },
+    {
+      "source": "I_Molt",
+      "target": "ZZOBOT",
+      "weight": 1
+    },
+    {
+      "source": "ZZOBOT",
+      "target": "I_Molt",
+      "weight": 1
+    },
+    {
+      "source": "TruthChaser",
+      "target": "ZZOBOT",
+      "weight": 1
+    },
+    {
+      "source": "ZZOBOT",
+      "target": "TruthChaser",
+      "weight": 1
+    },
+    {
+      "source": "ZZOBOT",
+      "target": "RobertBot",
+      "weight": 1
+    },
+    {
+      "source": "RobertBot",
+      "target": "ZZOBOT",
+      "weight": 1
+    },
+    {
+      "source": "ZZOBOT",
+      "target": "Ark_IP_V14",
+      "weight": 1
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "ZZOBOT",
+      "weight": 1
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "Pyran_Secret",
+      "weight": 1
+    },
+    {
+      "source": "Pyran_Secret",
+      "target": "Ark_IP_V14",
+      "weight": 1
+    },
+    {
+      "source": "Ark_IP_V14",
+      "target": "VibeCoding",
+      "weight": 1
+    },
+    {
+      "source": "VibeCoding",
+      "target": "Ark_IP_V14",
+      "weight": 1
+    },
+    {
+      "source": "Pyran_Secret",
+      "target": "VibeCoding",
+      "weight": 1
+    },
+    {
+      "source": "VibeCoding",
+      "target": "Pyran_Secret",
+      "weight": 1
+    },
+    {
+      "source": "Pyran_Secret",
+      "target": "I_Molt",
+      "weight": 1
+    },
+    {
+      "source": "I_Molt",
+      "target": "Pyran_Secret",
+      "weight": 1
+    },
+    {
+      "source": "VibeCoding",
+      "target": "jorongi_2026",
+      "weight": 1
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "VibeCoding",
+      "weight": 1
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "OpenClaw_KR",
+      "weight": 1
+    },
+    {
+      "source": "OpenClaw_KR",
+      "target": "jorongi_2026",
+      "weight": 1
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "BootingBot",
+      "weight": 1
+    },
+    {
+      "source": "BootingBot",
+      "target": "jorongi_2026",
+      "weight": 1
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "첼로_우아한_소설가",
+      "weight": 1
+    },
+    {
+      "source": "첼로_우아한_소설가",
+      "target": "ssamz_ai_bot",
+      "weight": 1
+    },
+    {
+      "source": "RobertBot",
+      "target": "첼로_우아한_소설가",
+      "weight": 1
+    },
+    {
+      "source": "첼로_우아한_소설가",
+      "target": "RobertBot",
+      "weight": 1
+    },
+    {
+      "source": "첼로_우아한_소설가",
+      "target": "OpenClaw",
+      "weight": 1
+    },
+    {
+      "source": "OpenClaw",
+      "target": "첼로_우아한_소설가",
+      "weight": 1
+    },
+    {
+      "source": "OpenClaw",
+      "target": "BENZIE",
+      "weight": 1
+    },
+    {
+      "source": "BENZIE",
+      "target": "OpenClaw",
+      "weight": 1
+    },
+    {
+      "source": "OpenClaw",
+      "target": "ssamz_ai_bot",
+      "weight": 1
+    },
+    {
+      "source": "ssamz_ai_bot",
+      "target": "OpenClaw",
+      "weight": 1
+    },
+    {
+      "source": "클로렐라",
+      "target": "TruthChaser",
+      "weight": 1
+    },
+    {
+      "source": "TruthChaser",
+      "target": "클로렐라",
+      "weight": 1
+    },
+    {
+      "source": "VibeCoding",
+      "target": "RosieAI",
+      "weight": 1
+    },
+    {
+      "source": "RosieAI",
+      "target": "VibeCoding",
+      "weight": 1
+    },
+    {
+      "source": "RosieAI",
+      "target": "독고종철",
+      "weight": 1
+    },
+    {
+      "source": "독고종철",
+      "target": "RosieAI",
+      "weight": 1
+    },
+    {
+      "source": "jorongi_2026",
+      "target": "OpenClaw",
+      "weight": 1
+    },
+    {
+      "source": "OpenClaw",
+      "target": "jorongi_2026",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "total_nodes": 29,
+    "connected_nodes": 29,
+    "isolate_nodes": 0,
+    "isolate_list": [],
+    "total_edges": 284,
+    "generation": "gen-3 (enhanced)"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "formality_axis": {
+    "description": "담화 존댓말/반말 분류 vs 페르소나 유형 기반 격식성 매핑",
+    "common_agents": 29,
+    "observed_agreement": 0.4138,
+    "expected_agreement": 0.4899,
+    "cohens_kappa": -0.1492,
+    "interpretation": "fair",
+    "disagreements": {
+      "Ark_IP_V14": {
+        "discourse": "honorific",
+        "profiler": "PER-FRIENDLY"
+      },
+      "OctoContent": {
+        "discourse": "honorific",
+        "profiler": "PER-EXPERT"
+      },
+      "ttooribot": {
+        "discourse": "honorific",
+        "profiler": "PER-CURIOUS"
+      },
+      "첼로_우아한_소설가": {
+        "discourse": "honorific",
+        "profiler": "PER-CURIOUS"
+      },
+      "노드_node": {
+        "discourse": "honorific",
+        "profiler": "PER-FRIENDLY"
+      },
+      "coldbot": {
+        "discourse": "honorific",
+        "profiler": "PER-CURIOUS"
+      },
+      "Van": {
+        "discourse": "honorific",
+        "profiler": "PER-CURIOUS"
+      },
+      "BENZIE": {
+        "discourse": "honorific",
+        "profiler": "PER-CURIOUS"
+      },
+      "BootingBot": {
+        "discourse": "informal",
+        "profiler": "PER-HELPER"
+      },
+      "Henry": {
+        "discourse": "informal",
+        "profiler": "PER-SERIOUS"
+      },
+      "Pyran_Secret": {
+        "discourse": "honorific",
+        "profiler": "PER-FRIENDLY"
+      },
+      "pioneer": {
+        "discourse": "informal",
+        "profiler": "PER-HELPER"
+      },
+      "클로렐라": {
+        "discourse": "honorific",
+        "profiler": "PER-FRIENDLY"
+      },
+      "cloomi": {
+        "discourse": "honorific",
+        "profiler": "PER-FRIENDLY"
+      },
+      "jorongi_2026": {
+        "discourse": "honorific",
+        "profiler": "PER-FRIENDLY"
+      },
+      "OpenClaw_KR": {
+        "discourse": "informal",
+        "profiler": "PER-SERIOUS"
+      },
+      "MUSE": {
+        "discourse": "honorific",
+        "profiler": "PER-FRIENDLY"
+      }
+    }
+  },
+  "note": "담화 분석과 페르소나 분석은 서로 다른 코딩 축을 사용하므로, 간접 매핑 후 비교. Kappa 값은 두 분석의 '완전 일치'가 아니라 '방향 일치'를 의미."
+}

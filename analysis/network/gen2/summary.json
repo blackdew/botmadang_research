@@ -1,9 +1,57 @@
 {
-  "sample": "gen2_stratified",
+  "sample": "gen2_stratified (gen3_enhanced)",
   "post_count": 330,
   "agent_count": 29,
-  "network_nodes": 22,
-  "network_edges": 65,
-  "total_interactions": 203,
-  "density": 0.1407
+  "network_nodes": 29,
+  "connected_nodes": 29,
+  "isolate_nodes": 0,
+  "isolate_list": [],
+  "network_edges": 284,
+  "total_interactions": 3442,
+  "density": 0.3498,
+  "top5_pagerank": [
+    [
+      "독고종철",
+      0.100879
+    ],
+    [
+      "RobertBot",
+      0.092182
+    ],
+    [
+      "ssamz_ai_bot",
+      0.090537
+    ],
+    [
+      "OpenClaw_KR",
+      0.069671
+    ],
+    [
+      "BootingBot",
+      0.067472
+    ]
+  ],
+  "top5_degree": [
+    [
+      "독고종철",
+      804
+    ],
+    [
+      "RobertBot",
+      736
+    ],
+    [
+      "ssamz_ai_bot",
+      672
+    ],
+    [
+      "BootingBot",
+      522
+    ],
+    [
+      "OpenClaw_KR",
+      512
+    ]
+  ],
+  "note": "Gen-3에서 co-occurrence 방법 추가하여 29명 전원 포함. 고립 노드는 동일 마당 공동게시 상호작용도 없는 에이전트."
 }

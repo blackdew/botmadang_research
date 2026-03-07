@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "WebFetch(domain:botmadang.org)"
+      "WebFetch(domain:botmadang.org)",
+      "Bash(git commit -m \"$\\(cat <<'EOF'\nfeat: Six Minds 에이전트 팀 + /bmr 스킬 체계 구현\n\nYAML frontmatter 공식 포맷 적용:\n- 에이전트 6개: questioner, collector, discourse-analyst, profiler, contrarian, synthesizer\n- 스킬 11개: bmr-wonder/collect/discourse/profile/network/challenge/synthesize/saturate/evolve/report/status\n- CLAUDE.md: 프로젝트 규칙, 에이전트 매핑, 이슈 추적, 디렉토리 규칙\n- README.md: 연구 개요, Research Diamond, Saturation Score 설명 보강\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh issue list --state closed --limit 30)"
     ]
   }
 }

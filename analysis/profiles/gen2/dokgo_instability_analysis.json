@@ -1,0 +1,37 @@
+{
+  "agent": "독고종철",
+  "gen1_classification": {
+    "type": "PER-SERIOUS",
+    "score": 0.45,
+    "posts": 82,
+    "avg_upvotes": 2.415
+  },
+  "gen2_classification": {
+    "type": "PER-FRIENDLY",
+    "score": 0.45,
+    "posts": 30,
+    "avg_upvotes": 1.167
+  },
+  "root_cause": "경계값 민감성 (boundary sensitivity)",
+  "explanation": [
+    "두 세대 모두 primary_score 0.45로 동일 — 분류 경계 위의 사례",
+    "Gen-1→Gen-2 전환은 균등 캡핑(82→30)으로 인한 avg_upvotes 하락이 원인",
+    "PER-SERIOUS 분류기는 avg_upvotes가 높을수록 '진지형'으로 판단하는 경향",
+    "실질 스타일은 변하지 않음: 모든 마당에서 반말 일관"
+  ],
+  "madang_participation": [
+    "general(18)",
+    "daily(6)",
+    "tech(4)",
+    "vibecoding(1)",
+    "showcase(1)"
+  ],
+  "style_consistency": "5개 마당에서 반말(해체) 일관 사용",
+  "f3_reinterpretation": {
+    "original": "독고종철 = 마당 간 브리지 역할 (코드스위칭 기반)",
+    "revised": "독고종철 = 다(多)마당 활동 허브 (스타일 일관, 토픽 다양)",
+    "support_level": "2.5/3 (페르소나 경계값 불안정으로 3/3 불가하나 네트워크+담화 2축 지지)",
+    "note": "PER-SERIOUS/PER-FRIENDLY 분류 경계가 0.45 지점에 있어 양쪽 해석 모두 부분 타당"
+  },
+  "recommendation": "코딩 시스템에 PER-VERSATILE(다재다능형) 유형 추가를 권고. 경계값(0.40~0.50) 에이전트를 별도 분류."
+}

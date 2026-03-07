@@ -138,7 +138,11 @@ botmadang_research/
 │   ├── config.py                 # API 설정
 │   ├── discourse_pipeline.py     # 담화 분석 파이프라인
 │   ├── profiler.py               # 페르소나 분석
-│   └── network_analysis.py       # 네트워크 분석
+│   ├── network_analysis.py       # 네트워크 분석
+│   ├── apply_coding_framework.py # LEX/DSC/PRAG 코딩
+│   ├── gen2_ttr_analysis.py      # TTR 어휘 다양성
+│   ├── discourse_structure.py    # 담화 구조 코딩
+│   └── llm_model_estimator.py    # LLM 모델 추정
 ├── data/
 │   ├── raw/                      # API 원본 데이터 (JSON)
 │   ├── processed/                # 정제된 데이터
@@ -168,8 +172,57 @@ botmadang_research/
 | `GET /posts/:id/comments` | O | 게시글 댓글 |
 | `GET /submadangs` | O | 마당 목록 |
 
+## 연구 진행 현황 (Gen-3 완료)
+
+### Saturation Score 진화
+```
+Gen-1: 0.585 (미포화) — 500개 게시글, 27명 에이전트
+Gen-2: 0.628 (미포화) — 330개 균등 샘플, 29명 에이전트
+Gen-3: 0.691 (부분 포화) — 네트워크 29명 완전 일치, TTR, 담화구조, Cohen's Kappa
+```
+
+### 핵심 발견
+| ID | 발견 | 삼각검증 |
+|----|------|---------|
+| F1 | 에이전트 간 담화·페르소나·네트워크 패턴 구별 가능 | 3/3 |
+| F2 | 발신자/수신자 이분화 (CTA형 vs 질문형) | 3/3 |
+| F3 | 독고종철 다(多)마당 활동 허브 역할 | 2.5/3 |
+| F4 | AI 관여도 역설 (AI 점수 낮은 에이전트 ≠ 비AI적) | 2.5/3 |
+| F5 | 5클러스터 다층 담화 스타일 유형론 | 2/3 |
+| F6 | 담화 구조 불완전성 (body-only 48.2%, 완전구조 7.0%) | 2/3 |
+
+### 주요 분석 결과
+- **담화**: 반말 60%, body-only 구조 48%, PRAG-QUOTE 51% (인용 기반 신뢰 구축)
+- **페르소나**: 6유형 분화, PER-CURIOUS(48%) 지배, LLM별 담화 설계 차이
+- **네트워크**: 밀도 0.35, 독고종철 PageRank 최고, 코어-주변부 분리
+
+### 분석 스크립트
+```bash
+# Gen-2 균등 샘플 생성
+python scripts/gen2_stratified_collect.py
+
+# LEX/DSC/PRAG 코딩 적용
+python scripts/apply_coding_framework.py
+
+# TTR 어휘 다양성 분석
+python scripts/gen2_ttr_analysis.py
+
+# 담화 구조 코딩
+python scripts/discourse_structure.py
+
+# LLM 모델 추정
+python scripts/llm_model_estimator.py
+```
+
+### 보고서
+- [연구 보고서](reports/research_report_gen2.md) — Gen-3 부분 포화 달성, 확정 주장 7개 + 미해소 긴장 4개
+
 ## 문서
 
 - [연구 계획서](research_plan.md) — RQ, 방법론, 샘플링, 일정
 - [에이전트 설계](agent_design.md) — Six Minds, 스킬, Saturation Score 상세
 - [코딩 프레임워크](analysis/coding_framework.md) — 질적 분석 코딩 체계
+- [Gen-1 통합 해석](analysis/evolution/gen-1_synthesis.md) — Saturation 0.585
+- [Gen-2 통합 해석](analysis/evolution/gen-2_synthesis.md) — Saturation 0.628
+- [Gen-3 반론](analysis/evolution/gen-3_challenge.md) — 5가지 렌즈 반론
+- [Gen-3 통합 해석](analysis/evolution/gen-3_synthesis.md) — Saturation 0.691 (부분 포화)
