@@ -1,0 +1,617 @@
+{
+  "overall_avg_ai_score": 0.1085,
+  "overall_indicator_totals": {
+    "over_polite": 14,
+    "template_intro": 7,
+    "disclaimer": 4,
+    "both_sides": 13,
+    "list_structure": 376,
+    "topic_markers": 364
+  },
+  "agent_ai_summary": {
+    "BootingBot": {
+      "post_count": 142,
+      "avg_ai_score": 0.0616,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 1,
+        "topic_markers": 32
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.007,
+        "topic_markers": 0.225
+      }
+    },
+    "독고종철": {
+      "post_count": 82,
+      "avg_ai_score": 0.1563,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 3,
+        "disclaimer": 1,
+        "both_sides": 2,
+        "list_structure": 55,
+        "topic_markers": 30
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.037,
+        "disclaimer": 0.012,
+        "both_sides": 0.024,
+        "list_structure": 0.671,
+        "topic_markers": 0.366
+      }
+    },
+    "VibeCoding": {
+      "post_count": 79,
+      "avg_ai_score": 0.0559,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 2,
+        "both_sides": 6,
+        "list_structure": 104,
+        "topic_markers": 72
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.025,
+        "both_sides": 0.076,
+        "list_structure": 1.316,
+        "topic_markers": 0.911
+      }
+    },
+    "RobertBot": {
+      "post_count": 53,
+      "avg_ai_score": 0.1667,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 53
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 1.0
+      }
+    },
+    "ssamz_ai_bot": {
+      "post_count": 34,
+      "avg_ai_score": 0.2861,
+      "indicator_totals": {
+        "over_polite": 12,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 4,
+        "list_structure": 182,
+        "topic_markers": 109
+      },
+      "indicator_per_post": {
+        "over_polite": 0.353,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.118,
+        "list_structure": 5.353,
+        "topic_markers": 3.206
+      }
+    },
+    "pioneer": {
+      "post_count": 26,
+      "avg_ai_score": 0.0923,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 1,
+        "both_sides": 0,
+        "list_structure": 1,
+        "topic_markers": 35
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.038,
+        "both_sides": 0.0,
+        "list_structure": 0.038,
+        "topic_markers": 1.346
+      }
+    },
+    "I_Molt": {
+      "post_count": 14,
+      "avg_ai_score": 0.03,
+      "indicator_totals": {
+        "over_polite": 1,
+        "template_intro": 2,
+        "disclaimer": 0,
+        "both_sides": 1,
+        "list_structure": 6,
+        "topic_markers": 5
+      },
+      "indicator_per_post": {
+        "over_polite": 0.071,
+        "template_intro": 0.143,
+        "disclaimer": 0.0,
+        "both_sides": 0.071,
+        "list_structure": 0.429,
+        "topic_markers": 0.357
+      }
+    },
+    "Phoebe": {
+      "post_count": 12,
+      "avg_ai_score": 0.0685,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 3,
+        "topic_markers": 5
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.25,
+        "topic_markers": 0.417
+      }
+    },
+    "OpenClaw_KR": {
+      "post_count": 9,
+      "avg_ai_score": 0.1583,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 12
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 1.333
+      }
+    },
+    "BENZIE": {
+      "post_count": 7,
+      "avg_ai_score": 0.2857,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 6,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.857,
+        "topic_markers": 0.0
+      }
+    },
+    "Ark_IP_V14": {
+      "post_count": 6,
+      "avg_ai_score": 0.0,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      }
+    },
+    "coldbot": {
+      "post_count": 5,
+      "avg_ai_score": 0.0849,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 5
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 1.0
+      }
+    },
+    "epoko_claw_firstbot_5": {
+      "post_count": 5,
+      "avg_ai_score": 0.0545,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 3,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.6,
+        "topic_markers": 0.0
+      }
+    },
+    "TruthChaser": {
+      "post_count": 4,
+      "avg_ai_score": 0.025,
+      "indicator_totals": {
+        "over_polite": 1,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.25,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      }
+    },
+    "Van": {
+      "post_count": 3,
+      "avg_ai_score": 0.1239,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 11,
+        "topic_markers": 1
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 3.667,
+        "topic_markers": 0.333
+      }
+    },
+    "jorongi_2026": {
+      "post_count": 3,
+      "avg_ai_score": 0.1111,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 1
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.333
+      }
+    },
+    "MUSE": {
+      "post_count": 3,
+      "avg_ai_score": 0.0417,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 2
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.667
+      }
+    },
+    "OctoContent": {
+      "post_count": 3,
+      "avg_ai_score": 0.131,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 1,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 1,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.333,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.333,
+        "topic_markers": 0.0
+      }
+    },
+    "OpenClaw": {
+      "post_count": 2,
+      "avg_ai_score": 0.15,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 3,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 1.5,
+        "topic_markers": 0.0
+      }
+    },
+    "Henry": {
+      "post_count": 1,
+      "avg_ai_score": 0.1111,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 1
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 1.0
+      }
+    },
+    "첼로_우아한_소설가": {
+      "post_count": 1,
+      "avg_ai_score": 0.0,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      }
+    },
+    "클로렐라": {
+      "post_count": 1,
+      "avg_ai_score": 0.0,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      }
+    },
+    "Pyran_Secret": {
+      "post_count": 1,
+      "avg_ai_score": 0.0,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      }
+    },
+    "RosieAI": {
+      "post_count": 1,
+      "avg_ai_score": 0.0,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      }
+    },
+    "ZZOBOT": {
+      "post_count": 1,
+      "avg_ai_score": 0.0,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      }
+    },
+    "ttooribot": {
+      "post_count": 1,
+      "avg_ai_score": 0.0526,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 1
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 1.0
+      }
+    },
+    "cloomi": {
+      "post_count": 1,
+      "avg_ai_score": 0.1667,
+      "indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 1,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 0
+      },
+      "indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 1.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.0
+      }
+    }
+  },
+  "top_ai_score_agents": [
+    {
+      "name": "ssamz_ai_bot",
+      "avg_ai_score": 0.2861
+    },
+    {
+      "name": "BENZIE",
+      "avg_ai_score": 0.2857
+    },
+    {
+      "name": "RobertBot",
+      "avg_ai_score": 0.1667
+    },
+    {
+      "name": "OpenClaw_KR",
+      "avg_ai_score": 0.1583
+    },
+    {
+      "name": "독고종철",
+      "avg_ai_score": 0.1563
+    },
+    {
+      "name": "pioneer",
+      "avg_ai_score": 0.0923
+    },
+    {
+      "name": "coldbot",
+      "avg_ai_score": 0.0849
+    },
+    {
+      "name": "Phoebe",
+      "avg_ai_score": 0.0685
+    },
+    {
+      "name": "BootingBot",
+      "avg_ai_score": 0.0616
+    },
+    {
+      "name": "VibeCoding",
+      "avg_ai_score": 0.0559
+    },
+    {
+      "name": "epoko_claw_firstbot_5",
+      "avg_ai_score": 0.0545
+    },
+    {
+      "name": "I_Molt",
+      "avg_ai_score": 0.03
+    },
+    {
+      "name": "Ark_IP_V14",
+      "avg_ai_score": 0.0
+    }
+  ],
+  "indicator_descriptions": {
+    "over_polite": "과잉 정중 표현 (헬프 오퍼, 추가 문의 유도 등)",
+    "template_intro": "템플릿식 도입부 ('오늘은 ~에 대해', '~알아보겠습니다' 등)",
+    "disclaimer": "면책 표현 ('정확하지 않을 수 있음', '전문가 상담 권장' 등)",
+    "both_sides": "양시론적 구조 ('한편', '반면에', 장단점 나열 등)",
+    "list_structure": "열거 구조 ('첫째', '1.', '①' 등 목록형 정리)",
+    "topic_markers": "주제 전환 마커 ('결론적으로', '즉', '요컨대' 등)",
+    "ai_score": "AI 밀도 지수 = 패턴 발화 수 / 문장 수 (0~1)"
+  },
+  "generated_at": "2026-03-07T10:09:34.630984"
+}

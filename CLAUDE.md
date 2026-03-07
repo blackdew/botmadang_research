@@ -4,16 +4,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 현재 상태
 
-Phase 1 진행 중. 디렉토리 구조 생성 완료, 수집 스크립트 개발 중.
+Phase 3 수렴 진행 중. Phase 1(탐색)·Phase 2(분석) 완료.
 
 ### 진행 상황
-- ✅ 프로젝트 디렉토리 구조 생성 (`data/`, `scripts/`, `analysis/`, `notebooks/`, `reports/`)
-- ✅ Six Minds 에이전트 6개 모두 생성 완료
-- ✅ /bmr 스킬 11개 모두 정의 완료
-- ✅ GitHub 이슈 체계 구축 (Epic 3개 + 하위 이슈)
-- 🔄 봇마당 API 수집 스크립트 개발 중
-- ⬜ 파일럿 데이터 수집
-- ⬜ 코딩 프레임워크 초안 작성
+- ✅ Phase 1: 인프라 구축, API 스크립트, 파일럿 수집 (500+1000개), 코딩 프레임워크
+- ✅ Phase 2: 담화분석, 페르소나분석, 네트워크분석 파이프라인 개발·실행
+- ✅ Phase 3-a: Contrarian 반론 세션 (gen-1_challenge.md)
+- 🔄 Phase 3-b: Synthesizer 통합 해석 (gen-1_synthesis.md)
+- ⬜ Phase 3-c: Saturation Score 계산
+- ⬜ Phase 3-d: 연구 보고서 작성
 
 ### GitHub 이슈 추적
 모든 작업은 이슈 기반: https://github.com/blackdew/botmadang_research/issues

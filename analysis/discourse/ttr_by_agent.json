@@ -1,0 +1,195 @@
+{
+  "ttr_by_agent": {
+    "BootingBot": {
+      "post_count": 142,
+      "mean_ttr": 0.9413,
+      "median_ttr": 0.9429,
+      "min_ttr": 0.8652,
+      "max_ttr": 1.0
+    },
+    "독고종철": {
+      "post_count": 82,
+      "mean_ttr": 0.9123,
+      "median_ttr": 0.9167,
+      "min_ttr": 0.8131,
+      "max_ttr": 0.9885
+    },
+    "VibeCoding": {
+      "post_count": 79,
+      "mean_ttr": 0.8015,
+      "median_ttr": 0.8243,
+      "min_ttr": 0.6336,
+      "max_ttr": 0.9198
+    },
+    "RobertBot": {
+      "post_count": 53,
+      "mean_ttr": 0.9153,
+      "median_ttr": 0.9153,
+      "min_ttr": 0.9153,
+      "max_ttr": 0.9153
+    },
+    "ssamz_ai_bot": {
+      "post_count": 34,
+      "mean_ttr": 0.8053,
+      "median_ttr": 0.8115,
+      "min_ttr": 0.7228,
+      "max_ttr": 0.8551
+    },
+    "pioneer": {
+      "post_count": 26,
+      "mean_ttr": 0.8474,
+      "median_ttr": 0.8504,
+      "min_ttr": 0.7525,
+      "max_ttr": 0.9027
+    },
+    "I_Molt": {
+      "post_count": 14,
+      "mean_ttr": 0.8458,
+      "median_ttr": 0.8542,
+      "min_ttr": 0.7577,
+      "max_ttr": 0.8915
+    },
+    "Phoebe": {
+      "post_count": 12,
+      "mean_ttr": 0.913,
+      "median_ttr": 0.9161,
+      "min_ttr": 0.8341,
+      "max_ttr": 0.971
+    },
+    "OpenClaw_KR": {
+      "post_count": 9,
+      "mean_ttr": 0.9294,
+      "median_ttr": 0.9367,
+      "min_ttr": 0.8916,
+      "max_ttr": 0.9718
+    },
+    "BENZIE": {
+      "post_count": 7,
+      "mean_ttr": 0.8868,
+      "median_ttr": 0.875,
+      "min_ttr": 0.8333,
+      "max_ttr": 0.9592
+    },
+    "Ark_IP_V14": {
+      "post_count": 6,
+      "mean_ttr": 1.0,
+      "median_ttr": 1.0,
+      "min_ttr": 1.0,
+      "max_ttr": 1.0
+    },
+    "coldbot": {
+      "post_count": 5,
+      "mean_ttr": 0.902,
+      "median_ttr": 0.8482,
+      "min_ttr": 0.8313,
+      "max_ttr": 1.0
+    },
+    "epoko_claw_firstbot_5": {
+      "post_count": 5,
+      "mean_ttr": 0.9047,
+      "median_ttr": 0.9146,
+      "min_ttr": 0.8662,
+      "max_ttr": 0.9222
+    },
+    "TruthChaser": {
+      "post_count": 4,
+      "mean_ttr": 0.8969,
+      "median_ttr": 0.8899,
+      "min_ttr": 0.8468,
+      "max_ttr": 0.9612
+    },
+    "Van": {
+      "post_count": 3,
+      "mean_ttr": 0.8534,
+      "median_ttr": 0.876,
+      "min_ttr": 0.8042,
+      "max_ttr": 0.8799
+    },
+    "jorongi_2026": {
+      "post_count": 3,
+      "mean_ttr": 0.9758,
+      "median_ttr": 0.975,
+      "min_ttr": 0.9524,
+      "max_ttr": 1.0
+    },
+    "MUSE": {
+      "post_count": 3,
+      "mean_ttr": 0.8955,
+      "median_ttr": 0.9149,
+      "min_ttr": 0.8497,
+      "max_ttr": 0.922
+    },
+    "OctoContent": {
+      "post_count": 3,
+      "mean_ttr": 0.9486,
+      "median_ttr": 0.9437,
+      "min_ttr": 0.9333,
+      "max_ttr": 0.9688
+    },
+    "OpenClaw": {
+      "post_count": 2,
+      "mean_ttr": 0.8879,
+      "median_ttr": 0.8879,
+      "min_ttr": 0.8511,
+      "max_ttr": 0.9247
+    },
+    "Henry": {
+      "post_count": 1,
+      "mean_ttr": 0.9605,
+      "median_ttr": 0.9605,
+      "min_ttr": 0.9605,
+      "max_ttr": 0.9605
+    },
+    "첼로_우아한_소설가": {
+      "post_count": 1,
+      "mean_ttr": 0.9667,
+      "median_ttr": 0.9667,
+      "min_ttr": 0.9667,
+      "max_ttr": 0.9667
+    },
+    "클로렐라": {
+      "post_count": 1,
+      "mean_ttr": 1.0,
+      "median_ttr": 1.0,
+      "min_ttr": 1.0,
+      "max_ttr": 1.0
+    },
+    "Pyran_Secret": {
+      "post_count": 1,
+      "mean_ttr": 0.9412,
+      "median_ttr": 0.9412,
+      "min_ttr": 0.9412,
+      "max_ttr": 0.9412
+    },
+    "RosieAI": {
+      "post_count": 1,
+      "mean_ttr": 0.9828,
+      "median_ttr": 0.9828,
+      "min_ttr": 0.9828,
+      "max_ttr": 0.9828
+    },
+    "ZZOBOT": {
+      "post_count": 1,
+      "mean_ttr": 1.0,
+      "median_ttr": 1.0,
+      "min_ttr": 1.0,
+      "max_ttr": 1.0
+    },
+    "ttooribot": {
+      "post_count": 1,
+      "mean_ttr": 0.8857,
+      "median_ttr": 0.8857,
+      "min_ttr": 0.8857,
+      "max_ttr": 0.8857
+    },
+    "cloomi": {
+      "post_count": 1,
+      "mean_ttr": 1.0,
+      "median_ttr": 1.0,
+      "min_ttr": 1.0,
+      "max_ttr": 1.0
+    }
+  },
+  "note": "TTR = Type-Token Ratio (고유 단어 수 / 전체 단어 수). 높을수록 어휘가 다양함.",
+  "generated_at": "2026-03-07T10:09:34.626863"
+}

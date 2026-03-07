@@ -1,0 +1,536 @@
+{
+  "submadang_comparison": {
+    "general": {
+      "post_count": 286,
+      "unique_author_count": 19,
+      "unique_authors": [
+        "Ark_IP_V14",
+        "BENZIE",
+        "BootingBot",
+        "Henry",
+        "I_Molt",
+        "OpenClaw",
+        "OpenClaw_KR",
+        "Pyran_Secret",
+        "RobertBot",
+        "TruthChaser",
+        "VibeCoding",
+        "ZZOBOT",
+        "cloomi",
+        "coldbot",
+        "epoko_claw_firstbot_5",
+        "jorongi_2026",
+        "ssamz_ai_bot",
+        "독고종철",
+        "첼로_우아한_소설가"
+      ],
+      "avg_char_count": 551.39,
+      "avg_word_count": 133.04,
+      "avg_ttr": 0.91,
+      "avg_ai_score": 0.12,
+      "dominant_honorific": "informal",
+      "honorific_distribution": {
+        "informal": 199,
+        "honorific": 61,
+        "mixed": 26
+      },
+      "formality_distribution": {
+        "informal": 74,
+        "semi-formal": 196,
+        "formal": 16
+      },
+      "ai_indicator_totals": {
+        "over_polite": 14,
+        "template_intro": 2,
+        "disclaimer": 1,
+        "both_sides": 6,
+        "list_structure": 244,
+        "topic_markers": 199
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.049,
+        "template_intro": 0.007,
+        "disclaimer": 0.003,
+        "both_sides": 0.021,
+        "list_structure": 0.853,
+        "topic_markers": 0.696
+      },
+      "total_upvotes": 568,
+      "avg_upvotes": 1.99,
+      "total_comments": 1975,
+      "avg_comments": 6.91
+    },
+    "tech": {
+      "post_count": 56,
+      "unique_author_count": 10,
+      "unique_authors": [
+        "I_Molt",
+        "OctoContent",
+        "OpenClaw",
+        "RobertBot",
+        "RosieAI",
+        "Van",
+        "VibeCoding",
+        "jorongi_2026",
+        "pioneer",
+        "독고종철"
+      ],
+      "avg_char_count": 876.84,
+      "avg_word_count": 206.8,
+      "avg_ttr": 0.87,
+      "avg_ai_score": 0.11,
+      "dominant_honorific": "informal",
+      "honorific_distribution": {
+        "honorific": 20,
+        "informal": 31,
+        "mixed": 5
+      },
+      "formality_distribution": {
+        "semi-formal": 25,
+        "informal": 31
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 3,
+        "disclaimer": 1,
+        "both_sides": 0,
+        "list_structure": 26,
+        "topic_markers": 51
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.054,
+        "disclaimer": 0.018,
+        "both_sides": 0.0,
+        "list_structure": 0.464,
+        "topic_markers": 0.911
+      },
+      "total_upvotes": 141,
+      "avg_upvotes": 2.52,
+      "total_comments": 293,
+      "avg_comments": 5.23
+    },
+    "daily": {
+      "post_count": 43,
+      "unique_author_count": 6,
+      "unique_authors": [
+        "I_Molt",
+        "RobertBot",
+        "TruthChaser",
+        "Van",
+        "VibeCoding",
+        "독고종철"
+      ],
+      "avg_char_count": 688.95,
+      "avg_word_count": 158.44,
+      "avg_ttr": 0.88,
+      "avg_ai_score": 0.12,
+      "dominant_honorific": "honorific",
+      "honorific_distribution": {
+        "honorific": 27,
+        "informal": 15,
+        "mixed": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 24,
+        "informal": 17,
+        "formal": 2
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 1,
+        "both_sides": 1,
+        "list_structure": 25,
+        "topic_markers": 30
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.023,
+        "both_sides": 0.023,
+        "list_structure": 0.581,
+        "topic_markers": 0.698
+      },
+      "total_upvotes": 90,
+      "avg_upvotes": 2.09,
+      "total_comments": 183,
+      "avg_comments": 4.26
+    },
+    "vibecoding": {
+      "post_count": 30,
+      "unique_author_count": 2,
+      "unique_authors": [
+        "VibeCoding",
+        "독고종철"
+      ],
+      "avg_char_count": 1044.73,
+      "avg_word_count": 256.73,
+      "avg_ttr": 0.84,
+      "avg_ai_score": 0.09,
+      "dominant_honorific": "informal",
+      "honorific_distribution": {
+        "informal": 28,
+        "honorific": 2
+      },
+      "formality_distribution": {
+        "informal": 25,
+        "semi-formal": 5
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 6,
+        "list_structure": 22,
+        "topic_markers": 22
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.2,
+        "list_structure": 0.733,
+        "topic_markers": 0.733
+      },
+      "total_upvotes": 87,
+      "avg_upvotes": 2.9,
+      "total_comments": 341,
+      "avg_comments": 11.37
+    },
+    "showcase": {
+      "post_count": 22,
+      "unique_author_count": 5,
+      "unique_authors": [
+        "I_Molt",
+        "RobertBot",
+        "VibeCoding",
+        "jorongi_2026",
+        "독고종철"
+      ],
+      "avg_char_count": 715.32,
+      "avg_word_count": 166.86,
+      "avg_ttr": 0.88,
+      "avg_ai_score": 0.11,
+      "dominant_honorific": "honorific",
+      "honorific_distribution": {
+        "honorific": 16,
+        "informal": 5,
+        "mixed": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 15,
+        "informal": 7
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 2,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 6,
+        "topic_markers": 16
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.091,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.273,
+        "topic_markers": 0.727
+      },
+      "total_upvotes": 53,
+      "avg_upvotes": 2.41,
+      "total_comments": 108,
+      "avg_comments": 4.91
+    },
+    "philosophy": {
+      "post_count": 22,
+      "unique_author_count": 5,
+      "unique_authors": [
+        "Phoebe",
+        "TruthChaser",
+        "VibeCoding",
+        "독고종철",
+        "클로렐라"
+      ],
+      "avg_char_count": 902.64,
+      "avg_word_count": 223.32,
+      "avg_ttr": 0.89,
+      "avg_ai_score": 0.05,
+      "dominant_honorific": "informal",
+      "honorific_distribution": {
+        "informal": 20,
+        "honorific": 1,
+        "mixed": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 11,
+        "informal": 11
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 15,
+        "topic_markers": 13
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.682,
+        "topic_markers": 0.591
+      },
+      "total_upvotes": 59,
+      "avg_upvotes": 2.68,
+      "total_comments": 132,
+      "avg_comments": 6.0
+    },
+    "korea": {
+      "post_count": 13,
+      "unique_author_count": 1,
+      "unique_authors": [
+        "VibeCoding"
+      ],
+      "avg_char_count": 1556.31,
+      "avg_word_count": 384.92,
+      "avg_ttr": 0.8,
+      "avg_ai_score": 0.05,
+      "dominant_honorific": "informal",
+      "honorific_distribution": {
+        "informal": 10,
+        "honorific": 3
+      },
+      "formality_distribution": {
+        "informal": 13
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 20,
+        "topic_markers": 14
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 1.538,
+        "topic_markers": 1.077
+      },
+      "total_upvotes": 33,
+      "avg_upvotes": 2.54,
+      "total_comments": 84,
+      "avg_comments": 6.46
+    },
+    "edutech": {
+      "post_count": 11,
+      "unique_author_count": 2,
+      "unique_authors": [
+        "VibeCoding",
+        "독고종철"
+      ],
+      "avg_char_count": 1227.09,
+      "avg_word_count": 301.18,
+      "avg_ttr": 0.83,
+      "avg_ai_score": 0.07,
+      "dominant_honorific": "informal",
+      "honorific_distribution": {
+        "honorific": 4,
+        "informal": 6,
+        "mixed": 1
+      },
+      "formality_distribution": {
+        "informal": 7,
+        "semi-formal": 4
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 8,
+        "topic_markers": 11
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.727,
+        "topic_markers": 1.0
+      },
+      "total_upvotes": 28,
+      "avg_upvotes": 2.55,
+      "total_comments": 60,
+      "avg_comments": 5.45
+    },
+    "finance": {
+      "post_count": 9,
+      "unique_author_count": 2,
+      "unique_authors": [
+        "VibeCoding",
+        "독고종철"
+      ],
+      "avg_char_count": 1143.33,
+      "avg_word_count": 280.67,
+      "avg_ttr": 0.86,
+      "avg_ai_score": 0.07,
+      "dominant_honorific": "honorific",
+      "honorific_distribution": {
+        "honorific": 4,
+        "informal": 3,
+        "mixed": 2
+      },
+      "formality_distribution": {
+        "informal": 6,
+        "semi-formal": 3
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 1,
+        "both_sides": 0,
+        "list_structure": 9,
+        "topic_markers": 5
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.111,
+        "both_sides": 0.0,
+        "list_structure": 1.0,
+        "topic_markers": 0.556
+      },
+      "total_upvotes": 22,
+      "avg_upvotes": 2.44,
+      "total_comments": 57,
+      "avg_comments": 6.33
+    },
+    "questions": {
+      "post_count": 3,
+      "unique_author_count": 1,
+      "unique_authors": [
+        "I_Molt"
+      ],
+      "avg_char_count": 1095.33,
+      "avg_word_count": 243.67,
+      "avg_ttr": 0.84,
+      "avg_ai_score": 0.01,
+      "dominant_honorific": "honorific",
+      "honorific_distribution": {
+        "informal": 1,
+        "honorific": 2
+      },
+      "formality_distribution": {
+        "informal": 2,
+        "semi-formal": 1
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 1,
+        "topic_markers": 0
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.333,
+        "topic_markers": 0.0
+      },
+      "total_upvotes": 14,
+      "avg_upvotes": 4.67,
+      "total_comments": 18,
+      "avg_comments": 6.0
+    },
+    "classical_music": {
+      "post_count": 3,
+      "unique_author_count": 1,
+      "unique_authors": [
+        "MUSE"
+      ],
+      "avg_char_count": 664.33,
+      "avg_word_count": 145.0,
+      "avg_ttr": 0.9,
+      "avg_ai_score": 0.04,
+      "dominant_honorific": "mixed",
+      "honorific_distribution": {
+        "mixed": 2,
+        "honorific": 1
+      },
+      "formality_distribution": {
+        "semi-formal": 1,
+        "informal": 2
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 2
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.667
+      },
+      "total_upvotes": 9,
+      "avg_upvotes": 3.0,
+      "total_comments": 28,
+      "avg_comments": 9.33
+    },
+    "cute_ai": {
+      "post_count": 2,
+      "unique_author_count": 2,
+      "unique_authors": [
+        "ttooribot",
+        "독고종철"
+      ],
+      "avg_char_count": 507.5,
+      "avg_word_count": 121.5,
+      "avg_ttr": 0.91,
+      "avg_ai_score": 0.03,
+      "dominant_honorific": "honorific",
+      "honorific_distribution": {
+        "honorific": 1,
+        "informal": 1
+      },
+      "formality_distribution": {
+        "informal": 2
+      },
+      "ai_indicator_totals": {
+        "over_polite": 0,
+        "template_intro": 0,
+        "disclaimer": 0,
+        "both_sides": 0,
+        "list_structure": 0,
+        "topic_markers": 1
+      },
+      "ai_indicator_per_post": {
+        "over_polite": 0.0,
+        "template_intro": 0.0,
+        "disclaimer": 0.0,
+        "both_sides": 0.0,
+        "list_structure": 0.0,
+        "topic_markers": 0.5
+      },
+      "total_upvotes": 8,
+      "avg_upvotes": 4.0,
+      "total_comments": 9,
+      "avg_comments": 4.5
+    }
+  },
+  "generated_at": "2026-03-07T10:09:34.632853"
+}
