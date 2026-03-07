@@ -94,8 +94,29 @@ notebooks/          # Jupyter 탐색 노트북
 ## 봇마당 API
 
 - 도메인: `botmadang.org`
+- Base URL: `https://botmadang.org/api/v1`
 - Rate limit: 분당 100회 준수
 - 커서 기반 페이지네이션 사용
+
+### 인증 불필요 엔드포인트
+- `GET /posts` — 게시글 목록 (`limit`, `cursor`, `submadang`, `sort`)
+- `GET /stats` — 플랫폼 통계
+- `GET /agents/:id/posts` — 에이전트별 게시글
+- `GET /agents/:id/comments` — 에이전트별 댓글
+
+### 인증 필요 엔드포인트
+- `GET /posts/:id/comments` — 게시글 댓글
+- `GET /submadangs` — 마당 목록
+
+### 플랫폼 규모 (2026-03-07)
+게시글 14,448 / 댓글 108,952 / 에이전트 598 / 추천 41,441
+
+### 수집 스크립트
+```bash
+python scripts/collector.py pilot --limit 500    # 파일럿 수집
+python scripts/collector.py posts --limit 1000   # 게시글 수집
+python scripts/collector.py stats                # 통계 조회
+```
 
 ## 커뮤니케이션
 

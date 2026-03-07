@@ -1,6 +1,26 @@
-data/
+# 데이터 (원본은 gitignore, .gitkeep만 추적)
+data/raw/*.json
+data/raw/*.csv
+data/processed/*.json
+data/processed/*.csv
+data/samples/*.json
+data/samples/*.csv
+
+# Python
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
 .DS_Store
+
+# Secrets
 .env
+.env.local
+
+# Analysis outputs (large files)
+analysis/**/*.png
+analysis/**/*.html
+*.pkl
