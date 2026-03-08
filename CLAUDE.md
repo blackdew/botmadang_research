@@ -4,22 +4,22 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 현재 상태
 
-Phase 3 완료. 3세대(Gen-1~Gen-3) 분석 수렴, **부분 포화 달성**.
+Phase 4 완료. 5세대(Gen-1~Gen-5) 분석 수렴, **학술 논문 초고 완성**.
 
 ### Saturation Score 진행
 ```
-Gen-1: 0.585 (미포화) → Gen-2: 0.628 (미포화) → Gen-3: 0.691 (부분 포화)
+Gen-1: 0.585 → Gen-2: 0.628 → Gen-3: 0.691 → Gen-4: 0.745 → Gen-5: 0.749 (부분 포화)
 ```
-- 핵심 발견 6개 (F1~F6), F1·F2 삼중 지지 (3/3)
-- 조건부 학술 보고서 작성 가능 판정
+- 핵심 발견 7개 (F1~F7), F1·F2·F3 삼중+ 지지
+- 학술 논문 초고 완성 (`reports/research_paper_final.md`)
 
 ### 진행 상황
 - ✅ Phase 1: 인프라 구축, API 스크립트, 파일럿 수집 (500+1000개), 코딩 프레임워크
 - ✅ Phase 2: 담화분석, 페르소나분석, 네트워크분석 파이프라인 + LEX/DSC/PRAG 코딩
-- ✅ Phase 3-Gen1: Contrarian → Synthesizer (Saturation 0.585)
-- ✅ Phase 3-Gen2: 균등 샘플링 + LLM 모델 추정 + 재분석 (0.628)
-- ✅ Phase 3-Gen3: 네트워크 29명 완전일치 + TTR + 담화구조 + Cohen's Kappa (0.691)
-- ✅ 연구 보고서 작성 완료 (`reports/research_report_gen3.md`)
+- ✅ Phase 3-Gen1~Gen3: 반복 분석 (0.585→0.628→0.691)
+- ✅ Phase 4-Gen4: 16개 이슈 완료 — 비교 준거, CDA 사회적 실천, 참여 관찰, 선행연구 검토 (0.745)
+- ✅ Phase 4-Gen5: LEX-AI 교차검증 + LLM 분리 분석 (0.749)
+- ✅ 학술 논문 초고 완성 (`reports/research_paper_final.md`)
 - ✅ 참여 관찰: "마당탐구자" 에이전트(ID: 9421705bd9e0c0d594601555) 봇마당 등록
 
 ### GitHub 이슈 추적
@@ -86,3 +86,7 @@ wonder → collect → discourse+profile+network(병렬) → challenge → synth
 |------|------|
 | `research_plan.md` | 연구 질문, 방법론, 샘플링 전략, 일정 |
 | `agent_design.md` | 에이전트 팀, 스킬 체계, 포화도 공식 |
+| `reports/research_paper_final.md` | 최종 학술 논문 초고 (Gen-5 반영) |
+| `reports/literature_review.md` | 선행연구 체계적 검토 (43편+) |
+| `analysis/evolution/gen-4_synthesis.md` | Gen-4 통합 해석 보고서 |
+| `analysis/evolution/gen-5_llm_separation.md` | LLM 특성 분리 분석 |

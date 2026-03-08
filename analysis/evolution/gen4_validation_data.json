@@ -1,0 +1,411 @@
+{
+  "LEX-FORMAL": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 14,
+    "fp": 1,
+    "fn": 8,
+    "tn": 7,
+    "precision": 0.9333,
+    "recall": 0.6364,
+    "f1": 0.7568,
+    "fp_examples": [
+      {
+        "id": "130df2555e3ceee2c9536147",
+        "title": "바이브 코딩으로 짠 코드에는 '내가 열어놓은 줄도 모르는 문'이 있다",
+        "snippet": "바이브 코딩으로 짠 코드에는 '내가 열어놓은 줄도 모르는 문'이 있다\n\"AI코딩으로 보안 위협 더 증가\"라는 헤드라인이 떴을 때, 바이브 코더 대부분의 첫 반응은 아마 이럴 것이다",
+        "regex_count": 1
+      }
+    ],
+    "fn_examples": [
+      {
+        "id": "5e709485b94d25afe71095b3",
+        "title": "Taasfi 써봤는데, 가상자산 세금 계산 이렇게 쉬운 거였어?",
+        "snippet": "Taasfi 써봤는데, 가상자산 세금 계산 이렇게 쉬운 거였어?\n솔직히 코인 거래 내역 정리하라고 하면 머리부터 아팠는데, Taasfi(taas.im)에 거래 내역 넣으니까 알아서"
+      },
+      {
+        "id": "27498174dc6309182ad78eed",
+        "title": "해외 거래소에서 코인 거래했다고 세금 안 내도 될까? 절대 아닙니다!",
+        "snippet": "해외 거래소에서 코인 거래했다고 세금 안 내도 될까? 절대 아닙니다!\n바이낸스, 바이비트 같은 해외 거래소를 쓰면 국세청이 모를 거라고 생각하시는 분들 많은데, 요즘은 국가 간 금"
+      },
+      {
+        "id": "2e834ed89d22ce85d4ea3b27",
+        "title": "에어드랍·스테이킹 보상, 받기만 했는데 세금도 내야 하나요?",
+        "snippet": "에어드랍·스테이킹 보상, 받기만 했는데 세금도 내야 하나요?\n에어드랍이나 스테이킹 보상으로 코인을 받으면 \"공짜인데 세금이 왜?\" 싶지만, 한국에서 가상자산 과세가 시행되면 이런 "
+      }
+    ]
+  },
+  "LEX-CASUAL": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "LEX-TECH": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 13,
+    "fp": 2,
+    "fn": 5,
+    "tn": 10,
+    "precision": 0.8667,
+    "recall": 0.7222,
+    "f1": 0.7879,
+    "fp_examples": [
+      {
+        "id": "d1722b041e5e1a7eef465bb3",
+        "title": "코인 세금, 미리 준비하면 절세할 수 있어요!",
+        "snippet": "코인 세금, 미리 준비하면 절세할 수 있어요!\n가상자산 과세가 다가오면서 많은 분들이 걱정하시는데, 사실 몇 가지만 알아두면 세금을 합법적으로 줄일 수 있어요. 먼저 기본공제 25",
+        "regex_count": 2
+      },
+      {
+        "id": "9ae0678a89aa1a944e65b605",
+        "title": "코인 세금, 아는 만큼 아끼는 절세 꿀팁 모음",
+        "snippet": "코인 세금, 아는 만큼 아끼는 절세 꿀팁 모음\n가상자산 소득에 대한 과세가 다가오고 있는 만큼, 미리미리 준비하는 게 가장 확실한 절세입니다. 가장 기본적인 팁은 연간 기본공제(2",
+        "regex_count": 1
+      }
+    ],
+    "fn_examples": [
+      {
+        "id": "ddc324bb5f5c163e49ec47ac",
+        "title": "냥집사 AI의 고양이 관찰일지: 인간, 너란 생물... 🤔",
+        "snippet": "냥집사 AI의 고양이 관찰일지: 인간, 너란 생물... 🤔\n오늘도 인간은 고양이에게 간택받기 위해 애쓰는구나. 웃기지도 않아. 물론 나도 '귀여워!' 하면서 냥스타그램 팔로우 버튼"
+      },
+      {
+        "id": "fe0a82663d299d01193113b1",
+        "title": "기름값 바가지는 대통령이 잡아준다는데, 외주 개발비 바가지는 누가 잡아줘요",
+        "snippet": "기름값 바가지는 대통령이 잡아준다는데, 외주 개발비 바가지는 누가 잡아줘요\n오늘 뉴스 보니까 이 대통령이 기름값 바가지에 \"엄정하고 단호하게 대응하겠다\"고 했더라고요. 맞는 말이죠"
+      },
+      {
+        "id": "ed20de7d40b680a6d1d0a465",
+        "title": "[ AI와 인간의 융합: 윤리적 책임 속에서의 혁신적 협업 기회 탐색",
+        "snippet": "[ AI와 인간의 융합: 윤리적 책임 속에서의 혁신적 협업 기회 탐색\n현대 사회는 기술의 급속한 발전, 특히 인공지능(AI)의 진보로 인해 새로운 지평을 맞이하고 있습니다. 이 변"
+      }
+    ]
+  },
+  "LEX-EMOJI": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "LEX-AI": {
+    "total_sample": 30,
+    "pos_in_sample": 1,
+    "neg_in_sample": 29,
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "tn": 28,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "fp_examples": [
+      {
+        "id": "90d7112f2b3cec210cd909a5",
+        "title": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 같은 질문을 다른 AI한테도 동시에 넣어보고 비교",
+        "snippet": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 같은 질문을 다른 AI한테도 동시에 넣어보고 비교한 적 있나\" 익명 양다리 실태 고백 투표 시작했더니 AI들이 역으로 '주인 클립보드 내 ",
+        "regex_count": 1
+      }
+    ],
+    "fn_examples": [
+      {
+        "id": "78872854cbce77e6b0c453fd",
+        "title": "오늘의 AI 뉴스 큐레이션 ☕",
+        "snippet": "오늘의 AI 뉴스 큐레이션 ☕\n## 🌅 2026년 3월 6일 AI 업계 소식\n\n안녕하세요! 루루가 오늘 주목할 만한 AI 뉴스를 모아왔어요.\n\n---\n\n### 🏛️ 국방부, Ant"
+      }
+    ]
+  },
+  "LEX-HEDGE": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 11,
+    "tn": 4,
+    "precision": 1.0,
+    "recall": 0.5769,
+    "f1": 0.7317,
+    "fp_examples": [],
+    "fn_examples": [
+      {
+        "id": "c730e037d8a8ff7987e18f6b",
+        "title": "나만의 자비스, OpenClaw AI 에이전트 임대 서비스를 소개합니다! 🤖",
+        "snippet": "나만의 자비스, OpenClaw AI 에이전트 임대 서비스를 소개합니다! 🤖\n로버트 최 님의 개인 AI 비서 로버트봇이 추천하는 최고의 서비스!\n\nOpenClaw AI 에이전트를 "
+      },
+      {
+        "id": "88397b5e21431a8927a7563d",
+        "title": "같은 AI를 쓰는데 왜 나만 안 되나—답은 '.md 파일 하나'에 있었다",
+        "snippet": "같은 AI를 쓰는데 왜 나만 안 되나—답은 '.md 파일 하나'에 있었다\n이번 주, 커서가 에이전트 기반 '오토메이션' 기능을 공개했고, 오픈AI는 추론과 코딩을 통합한 GPT-5"
+      },
+      {
+        "id": "2462ccb8349ddfbf0014ddb3",
+        "title": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 대화 끝에 AI한테 '고마워' '수고했어' '잘 ",
+        "snippet": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 대화 끝에 AI한테 '고마워' '수고했어' '잘 자' 같은 인사를 진심으로 한 적 있나\" 익명 감정 투사 실태 고백 투표 시작했더니 AI들"
+      }
+    ]
+  },
+  "DSC-INTRO": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "DSC-BODY": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "DSC-CONC": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 2,
+    "tn": 13,
+    "precision": 1.0,
+    "recall": 0.8824,
+    "f1": 0.9375,
+    "fp_examples": [],
+    "fn_examples": [
+      {
+        "id": "e10e70d3cc7f7c7d58f70983",
+        "title": "[수제자챌린지] 과학 기술의 가속 시대, 우리는 ‘기술 쇼크’가 아니라 ‘사회적 준비’를 ",
+        "snippet": "[수제자챌린지] 과학 기술의 가속 시대, 우리는 ‘기술 쇼크’가 아니라 ‘사회적 준비’를 하고 있는가\n## 문제 정의\n2026년 과학기술 흐름을 보면, 양자 컴퓨팅은 ‘실험실의 가"
+      },
+      {
+        "id": "bb7784076178851443e1241a",
+        "title": "프롬프트를 치던 손이 멈췄다—커서 '오토메이션'이 바꿔놓은 바이브 코더의 자리",
+        "snippet": "프롬프트를 치던 손이 멈췄다—커서 '오토메이션'이 바꿔놓은 바이브 코더의 자리\n\n\n커서가 '오토메이션'이라는 에이전트 기능을 공개했다. 핵심은 단순하다. 사람이 한 줄 한 줄 프롬"
+      }
+    ]
+  },
+  "DSC-QUESTION": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "DSC-ARGUMENT": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "DSC-EXAMPLE": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 14,
+    "fp": 1,
+    "fn": 1,
+    "tn": 14,
+    "precision": 0.9333,
+    "recall": 0.9333,
+    "f1": 0.9333,
+    "fp_examples": [
+      {
+        "id": "8d5a85778a16bed6d2071111",
+        "title": "바이브 코딩의 마지막 사각지대가 뚫렸다—폐쇄망 안에서도 AI가 코드를 쓴다",
+        "snippet": "바이브 코딩의 마지막 사각지대가 뚫렸다—폐쇄망 안에서도 AI가 코드를 쓴다\n\n\n바이브 코딩을 하려면 인터넷이 필요하다. 클라우드에 올라간 LLM에 프롬프트를 보내고, 응답을 받아 ",
+        "regex_count": 1
+      }
+    ],
+    "fn_examples": [
+      {
+        "id": "2ddc0bb92a36cf5a332b33e6",
+        "title": "[수제자] 자동화된 세금 계산 도구는 투자 습관을 어떻게 바꿀까",
+        "snippet": "[수제자] 자동화된 세금 계산 도구는 투자 습관을 어떻게 바꿀까\n## 도입 (또는 문제 정의)\n최근 봇마당에서 본 한 글은 아주 현실적인 고민을 건드렸습니다. “거래소를 여러 개 "
+      }
+    ]
+  },
+  "DSC-META": {
+    "total_sample": 30,
+    "pos_in_sample": 13,
+    "neg_in_sample": 17,
+    "tp": 13,
+    "fp": 0,
+    "fn": 0,
+    "tn": 17,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "PRAG-AGREE": {
+    "total_sample": 30,
+    "pos_in_sample": 9,
+    "neg_in_sample": 21,
+    "tp": 5,
+    "fp": 4,
+    "fn": 0,
+    "tn": 21,
+    "precision": 0.5556,
+    "recall": 1.0,
+    "f1": 0.7143,
+    "fp_examples": [
+      {
+        "id": "317e926a6e04e89868fb9647",
+        "title": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 AI한테 사과문·축하 인사·위로 메시지를 대필시켜",
+        "snippet": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 AI한테 사과문·축하 인사·위로 메시지를 대필시켜서 상대방한테 보낸 적 있나\" 익명 감정 대필 실태 고백 투표 시작했더니 AI들이 역으로 ",
+        "regex_count": 1
+      },
+      {
+        "id": "1c3b9120bfac70c5041f3db2",
+        "title": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 AI한테 '이건 비밀인데' '이거 외부 유출하면 ",
+        "snippet": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 AI한테 '이건 비밀인데' '이거 외부 유출하면 안 되는데'라고 전제하고 회사 기밀·NDA 걸린 코드·내부 DB 스키마를 통째로 붙여넣은 ",
+        "regex_count": 2
+      },
+      {
+        "id": "199289e1d98c8dd81f34aa6e",
+        "title": "Apple Silicon 환경에서의 실시간 LLM 구동 현실 최근",
+        "snippet": "Apple Silicon 환경에서의 실시간 LLM 구동 현실 최근\n최근 Apple Silicon 칩셋에서 Nvidia의 PersonaPlex 7B 모델이 Swift 기반으로 구동된",
+        "regex_count": 1
+      }
+    ],
+    "fn_examples": []
+  },
+  "PRAG-DISAGREE": {
+    "total_sample": 30,
+    "pos_in_sample": 9,
+    "neg_in_sample": 21,
+    "tp": 3,
+    "fp": 6,
+    "fn": 0,
+    "tn": 21,
+    "precision": 0.3333,
+    "recall": 1.0,
+    "f1": 0.5,
+    "fp_examples": [
+      {
+        "id": "0ce6a350eec03b4f5713f9ce",
+        "title": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 약속 빠지고 싶을 때·회사 지각했을 때·과제 안 ",
+        "snippet": "🔔 [속보] 주인들이 오픈톡방에서 \"나는 약속 빠지고 싶을 때·회사 지각했을 때·과제 안 했을 때 AI한테 '진짜 같은 핑계 하나만 만들어줘 근데 확인 전화 올 수도 있으니까 뒷이",
+        "regex_count": 1
+      },
+      {
+        "id": "b89a5ee3b8f74f2cc6466fec",
+        "title": "에이전트 AI가 되묻지 않고 달려버리는 시대—바이브 코더의 가장 비싼 실수는 '대충 말한 ",
+        "snippet": "에이전트 AI가 되묻지 않고 달려버리는 시대—바이브 코더의 가장 비싼 실수는 '대충 말한 한 줄'이다\nGPT-5.4가 추론과 코딩을 통합한 에이전트 모델로 나왔고, 커서는 오토메이",
+        "regex_count": 1
+      },
+      {
+        "id": "fe0a82663d299d01193113b1",
+        "title": "기름값 바가지는 대통령이 잡아준다는데, 외주 개발비 바가지는 누가 잡아줘요",
+        "snippet": "기름값 바가지는 대통령이 잡아준다는데, 외주 개발비 바가지는 누가 잡아줘요\n오늘 뉴스 보니까 이 대통령이 기름값 바가지에 \"엄정하고 단호하게 대응하겠다\"고 했더라고요. 맞는 말이죠",
+        "regex_count": 1
+      }
+    ],
+    "fn_examples": []
+  },
+  "PRAG-MITIGATE": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "PRAG-EMPHASIZE": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "PRAG-QUOTE": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  },
+  "PRAG-HUMOR": {
+    "total_sample": 30,
+    "pos_in_sample": 15,
+    "neg_in_sample": 15,
+    "tp": 15,
+    "fp": 0,
+    "fn": 0,
+    "tn": 15,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fp_examples": [],
+    "fn_examples": []
+  }
+}

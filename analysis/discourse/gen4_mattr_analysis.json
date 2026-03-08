@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "description": "Gen-4 MATTR 분석 — TTR 길이 편향 보정",
+    "source": "/Users/sookbunlee/work/botmadang_research/data/raw/gen2_stratified_content.json",
+    "total_posts": 330,
+    "mattr_window": 50,
+    "tokenization": "regex: [가-힣a-zA-Z0-9]+ (어절 기반, 기존 파이프라인과 동일)",
+    "generated_at": "2026-03-08T17:15:51.106440",
+    "github_issue": "#54"
+  },
+  "length_distribution": {
+    "총 게시글": 330,
+    "단문 (< 50 tokens)": 23,
+    "장문 (>= 50 tokens)": 307,
+    "단문 비율": 7.0,
+    "평균 토큰 수": 190.9,
+    "중앙값 토큰 수": 115,
+    "최소 토큰 수": 8,
+    "최대 토큰 수": 1257
+  },
+  "correlation": {
+    "전체 게시글": {
+      "n": 330,
+      "길이_vs_TTR": {
+        "rho": -0.4718,
+        "p": 0.0
+      },
+      "길이_vs_MATTR": {
+        "rho": 0.3329,
+        "p": 0.0
+      },
+      "TTR_vs_MATTR": {
+        "rho": 0.4399,
+        "p": 0.0
+      }
+    },
+    "장문 게시글 (>=50 tokens)": {
+      "n": 307,
+      "길이_vs_TTR": {
+        "rho": -0.6493,
+        "p": 0.0
+      },
+      "길이_vs_MATTR": {
+        "rho": 0.2192,
+        "p": 8.7e-05
+      }
+    }
+  },
+  "agent_summary": {
+    "BootingBot": {
+      "post_count": 30,
+      "mean_tokens": 91.8,
+      "mean_ttr": 0.9169,
+      "mean_mattr": 0.9541,
+      "ttr_mattr_diff": -0.0373,
+      "rank_change": 0,
+      "ttr_rank": 10,
+      "mattr_rank": 10
+    },
+    "VibeCoding": {
+      "post_count": 30,
+      "mean_tokens": 470.6,
+      "mean_ttr": 0.7685,
+      "mean_mattr": 0.9465,
+      "ttr_mattr_diff": -0.178,
+      "rank_change": 12,
+      "ttr_rank": 28,
+      "mattr_rank": 16
+    },
+    "독고종철": {
+      "post_count": 30,
+      "mean_tokens": 109.1,
+      "mean_ttr": 0.8938,
+      "mean_mattr": 0.9572,
+      "ttr_mattr_diff": -0.0634,
+      "rank_change": 5,
+      "ttr_rank": 13,
+      "mattr_rank": 8
+    },
+    "RobertBot": {
+      "post_count": 30,
+      "mean_tokens": 67.0,
+      "mean_ttr": 0.8579,
+      "mean_mattr": 0.9201,
+      "ttr_mattr_diff": -0.0622,
+      "rank_change": -3,
+      "ttr_rank": 21,
+      "mattr_rank": 24
+    },
+    "ssamz_ai_bot": {
+      "post_count": 30,
+      "mean_tokens": 462.5,
+      "mean_ttr": 0.7995,
+      "mean_mattr": 0.9619,
+      "ttr_mattr_diff": -0.1624,
+      "rank_change": 21,
+      "ttr_rank": 27,
+      "mattr_rank": 6
+    },
+    "pioneer": {
+      "post_count": 30,
+      "mean_tokens": 265.7,
+      "mean_ttr": 0.8354,
+      "mean_mattr": 0.9588,
+      "ttr_mattr_diff": -0.1234,
+      "rank_change": 19,
+      "ttr_rank": 26,
+      "mattr_rank": 7
+    },
+    "I_Molt": {
+      "post_count": 27,
+      "mean_tokens": 248.9,
+      "mean_ttr": 0.8372,
+      "mean_mattr": 0.947,
+      "ttr_mattr_diff": -0.1098,
+      "rank_change": 10,
+      "ttr_rank": 25,
+      "mattr_rank": 15
+    },
+    "Phoebe": {
+      "post_count": 26,
+      "mean_tokens": 125.9,
+      "mean_ttr": 0.8981,
+      "mean_mattr": 0.9528,
+      "ttr_mattr_diff": -0.0547,
+      "rank_change": 1,
+      "ttr_rank": 12,
+      "mattr_rank": 11
+    },
+    "OpenClaw_KR": {
+      "post_count": 18,
+      "mean_tokens": 86.7,
+      "mean_ttr": 0.9162,
+      "mean_mattr": 0.9513,
+      "ttr_mattr_diff": -0.0351,
+      "rank_change": -2,
+      "ttr_rank": 11,
+      "mattr_rank": 13
+    },
+    "Ark_IP_V14": {
+      "post_count": 12,
+      "mean_tokens": 20.5,
+      "mean_ttr": 0.5,
+      "mean_mattr": 0.5,
+      "ttr_mattr_diff": 0.0,
+      "rank_change": 0,
+      "ttr_rank": 29,
+      "mattr_rank": 29
+    },
+    "BENZIE": {
+      "post_count": 12,
+      "mean_tokens": 76.8,
+      "mean_ttr": 0.8767,
+      "mean_mattr": 0.9117,
+      "ttr_mattr_diff": -0.0351,
+      "rank_change": -8,
+      "ttr_rank": 17,
+      "mattr_rank": 25
+    },
+    "TruthChaser": {
+      "post_count": 7,
+      "mean_tokens": 119.1,
+      "mean_ttr": 0.8811,
+      "mean_mattr": 0.9455,
+      "ttr_mattr_diff": -0.0644,
+      "rank_change": -1,
+      "ttr_rank": 16,
+      "mattr_rank": 17
+    },
+    "MUSE": {
+      "post_count": 6,
+      "mean_tokens": 150.0,
+      "mean_ttr": 0.8525,
+      "mean_mattr": 0.9414,
+      "ttr_mattr_diff": -0.0889,
+      "rank_change": 4,
+      "ttr_rank": 22,
+      "mattr_rank": 18
+    },
+    "Van": {
+      "post_count": 5,
+      "mean_tokens": 246.0,
+      "mean_ttr": 0.8389,
+      "mean_mattr": 0.9368,
+      "ttr_mattr_diff": -0.0979,
+      "rank_change": 3,
+      "ttr_rank": 24,
+      "mattr_rank": 21
+    },
+    "ttooribot": {
+      "post_count": 5,
+      "mean_tokens": 172.0,
+      "mean_ttr": 0.8447,
+      "mean_mattr": 0.936,
+      "ttr_mattr_diff": -0.0913,
+      "rank_change": 1,
+      "ttr_rank": 23,
+      "mattr_rank": 22
+    },
+    "coldbot": {
+      "post_count": 5,
+      "mean_tokens": 104.8,
+      "mean_ttr": 0.8689,
+      "mean_mattr": 0.9482,
+      "ttr_mattr_diff": -0.0793,
+      "rank_change": 4,
+      "ttr_rank": 18,
+      "mattr_rank": 14
+    },
+    "epoko_claw_firstbot_5": {
+      "post_count": 5,
+      "mean_tokens": 107.0,
+      "mean_ttr": 0.8859,
+      "mean_mattr": 0.9397,
+      "ttr_mattr_diff": -0.0539,
+      "rank_change": -5,
+      "ttr_rank": 15,
+      "mattr_rank": 20
+    },
+    "jorongi_2026": {
+      "post_count": 4,
+      "mean_tokens": 35.0,
+      "mean_ttr": 0.8916,
+      "mean_mattr": 0.8916,
+      "ttr_mattr_diff": 0.0,
+      "rank_change": -13,
+      "ttr_rank": 14,
+      "mattr_rank": 27
+    },
+    "RosieAI": {
+      "post_count": 4,
+      "mean_tokens": 64.0,
+      "mean_ttr": 0.9334,
+      "mean_mattr": 0.9521,
+      "ttr_mattr_diff": -0.0187,
+      "rank_change": -7,
+      "ttr_rank": 5,
+      "mattr_rank": 12
+    },
+    "OctoContent": {
+      "post_count": 3,
+      "mean_tokens": 50.7,
+      "mean_ttr": 0.8663,
+      "mean_mattr": 0.8825,
+      "ttr_mattr_diff": -0.0162,
+      "rank_change": -8,
+      "ttr_rank": 20,
+      "mattr_rank": 28
+    },
+    "Henry": {
+      "post_count": 2,
+      "mean_tokens": 85.0,
+      "mean_ttr": 0.9187,
+      "mean_mattr": 0.9681,
+      "ttr_mattr_diff": -0.0494,
+      "rank_change": 5,
+      "ttr_rank": 9,
+      "mattr_rank": 4
+    },
+    "OpenClaw": {
+      "post_count": 2,
+      "mean_tokens": 75.5,
+      "mean_ttr": 0.868,
+      "mean_mattr": 0.8921,
+      "ttr_mattr_diff": -0.0241,
+      "rank_change": -7,
+      "ttr_rank": 19,
+      "mattr_rank": 26
+    },
+    "첼로_우아한_소설가": {
+      "post_count": 1,
+      "mean_tokens": 126.0,
+      "mean_ttr": 0.9206,
+      "mean_mattr": 0.9795,
+      "ttr_mattr_diff": -0.0588,
+      "rank_change": 5,
+      "ttr_rank": 8,
+      "mattr_rank": 3
+    },
+    "클로렐라": {
+      "post_count": 1,
+      "mean_tokens": 60.0,
+      "mean_ttr": 0.9833,
+      "mean_mattr": 0.9927,
+      "ttr_mattr_diff": -0.0094,
+      "rank_change": 0,
+      "ttr_rank": 1,
+      "mattr_rank": 1
+    },
+    "Pyran_Secret": {
+      "post_count": 1,
+      "mean_tokens": 57.0,
+      "mean_ttr": 0.9298,
+      "mean_mattr": 0.9325,
+      "ttr_mattr_diff": -0.0027,
+      "rank_change": -17,
+      "ttr_rank": 6,
+      "mattr_rank": 23
+    },
+    "ZZOBOT": {
+      "post_count": 1,
+      "mean_tokens": 46.0,
+      "mean_ttr": 0.9565,
+      "mean_mattr": 0.9565,
+      "ttr_mattr_diff": 0.0,
+      "rank_change": -6,
+      "ttr_rank": 3,
+      "mattr_rank": 9
+    },
+    "cloomi": {
+      "post_count": 1,
+      "mean_tokens": 30.0,
+      "mean_ttr": 0.9667,
+      "mean_mattr": 0.9667,
+      "ttr_mattr_diff": 0.0,
+      "rank_change": -3,
+      "ttr_rank": 2,
+      "mattr_rank": 5
+    },
+    "Doctor_Oh": {
+      "post_count": 1,
+      "mean_tokens": 150.0,
+      "mean_ttr": 0.9467,
+      "mean_mattr": 0.985,
+      "ttr_mattr_diff": -0.0383,
+      "rank_change": 2,
+      "ttr_rank": 4,
+      "mattr_rank": 2
+    },
+    "노드_node": {
+      "post_count": 1,
+      "mean_tokens": 52.0,
+      "mean_ttr": 0.9231,
+      "mean_mattr": 0.94,
+      "ttr_mattr_diff": -0.0169,
+      "rank_change": -12,
+      "ttr_rank": 7,
+      "mattr_rank": 19
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "total_corpus": 574,
+  "deriv_posts": 216,
+  "non_deriv_posts": 358,
+  "non_deriv_agents": 25,
+  "total_detections": 422,
+  "deriv_detections": 378,
+  "non_deriv_detections": 44,
+  "code_counts": {
+    "LEX-AI-META": 54,
+    "LEX-AI-HUMAN": 274,
+    "LEX-AI-ROLE": 18,
+    "LEX-AI-COMM": 52,
+    "LEX-AI-SELF": 20,
+    "LEX-AI-EXIST": 4
+  },
+  "deriv_counts": {
+    "LEX-AI-META": 51,
+    "LEX-AI-HUMAN": 242,
+    "LEX-AI-ROLE": 16,
+    "LEX-AI-COMM": 48,
+    "LEX-AI-SELF": 18,
+    "LEX-AI-EXIST": 3
+  },
+  "non_deriv_counts": {
+    "LEX-AI-META": 3,
+    "LEX-AI-ROLE": 2,
+    "LEX-AI-HUMAN": 32,
+    "LEX-AI-COMM": 4,
+    "LEX-AI-SELF": 2,
+    "LEX-AI-EXIST": 1
+  },
+  "deriv_density": 1.75,
+  "non_deriv_density": 0.1229,
+  "top_non_deriv_agents": [
+    [
+      "ssamz_ai_bot",
+      26
+    ],
+    [
+      "epoko_claw_firstbot_5",
+      6
+    ],
+    [
+      "ttooribot",
+      3
+    ],
+    [
+      "coldbot",
+      3
+    ],
+    [
+      "pioneer",
+      2
+    ],
+    [
+      "OpenClaw",
+      1
+    ],
+    [
+      "TruthChaser",
+      1
+    ],
+    [
+      "OctoContent",
+      1
+    ],
+    [
+      "노드_node",
+      1
+    ]
+  ]
+}

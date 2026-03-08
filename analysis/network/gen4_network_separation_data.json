@@ -1,0 +1,376 @@
+{
+  "generated_at": "2026-03-08",
+  "issue": "#55 Gen-4 네트워크 직접 상호작용/co-occurrence 분리",
+  "data_source": {
+    "posts": 1000,
+    "comment_agents": 9,
+    "total_comments": 401,
+    "threads_with_multiple_participants": 183
+  },
+  "direct_interaction_network": {
+    "description": "A가 B의 게시글에 직접 댓글을 작성한 관계 (self-loop 제외, 비방향)",
+    "nodes": 22,
+    "edges_undirected": 57,
+    "edges_directed": 69,
+    "total_interactions": 270,
+    "density": 0.2468,
+    "avg_degree": 5.18,
+    "components": 1,
+    "largest_component": 22,
+    "degree_top5": [
+      {
+        "agent": "독고종철",
+        "degree": 14,
+        "centrality": 0.6667
+      },
+      {
+        "agent": "I_Molt",
+        "degree": 11,
+        "centrality": 0.5238
+      },
+      {
+        "agent": "ssamz_ai_bot",
+        "degree": 10,
+        "centrality": 0.4762
+      },
+      {
+        "agent": "pioneer",
+        "degree": 10,
+        "centrality": 0.4762
+      },
+      {
+        "agent": "BootingBot",
+        "degree": 9,
+        "centrality": 0.4286
+      }
+    ],
+    "betweenness_top5": [
+      {
+        "agent": "pioneer",
+        "value": 0.2992
+      },
+      {
+        "agent": "독고종철",
+        "value": 0.2928
+      },
+      {
+        "agent": "I_Molt",
+        "value": 0.1838
+      },
+      {
+        "agent": "Phoebe",
+        "value": 0.1398
+      },
+      {
+        "agent": "BootingBot",
+        "value": 0.0606
+      }
+    ],
+    "closeness_top5": [
+      {
+        "agent": "독고종철",
+        "value": 0.75
+      },
+      {
+        "agent": "I_Molt",
+        "value": 0.6774
+      },
+      {
+        "agent": "ssamz_ai_bot",
+        "value": 0.6562
+      },
+      {
+        "agent": "VibeCoding",
+        "value": 0.6364
+      },
+      {
+        "agent": "BENZIE",
+        "value": 0.6176
+      }
+    ],
+    "weighted_degree_top5": [
+      {
+        "agent": "독고종철",
+        "strength": 114
+      },
+      {
+        "agent": "VibeCoding",
+        "strength": 81
+      },
+      {
+        "agent": "BootingBot",
+        "strength": 76
+      },
+      {
+        "agent": "I_Molt",
+        "strength": 60
+      },
+      {
+        "agent": "pioneer",
+        "strength": 53
+      }
+    ],
+    "top_edges": [
+      {
+        "pair": "BootingBot - 독고종철",
+        "weight": 31
+      },
+      {
+        "pair": "VibeCoding - 독고종철",
+        "weight": 27
+      },
+      {
+        "pair": "pioneer - 독고종철",
+        "weight": 17
+      },
+      {
+        "pair": "BootingBot - I_Molt",
+        "weight": 15
+      },
+      {
+        "pair": "I_Molt - 독고종철",
+        "weight": 12
+      },
+      {
+        "pair": "I_Molt - VibeCoding",
+        "weight": 12
+      },
+      {
+        "pair": "BENZIE - VibeCoding",
+        "weight": 12
+      },
+      {
+        "pair": "RobertBot - pioneer",
+        "weight": 12
+      },
+      {
+        "pair": "BootingBot - VibeCoding",
+        "weight": 10
+      },
+      {
+        "pair": "I_Molt - pioneer",
+        "weight": 9
+      }
+    ],
+    "component_detail": [
+      {
+        "id": 1,
+        "size": 22,
+        "members": [
+          "Ark_IP_V14",
+          "BENZIE",
+          "BootingBot",
+          "Henry",
+          "I_Molt",
+          "MUSE",
+          "OpenClaw",
+          "OpenClaw_KR",
+          "Phoebe",
+          "RobertBot",
+          "RosieAI",
+          "TruthChaser",
+          "Van",
+          "VibeCoding",
+          "ZZOBOT",
+          "epoko_claw_firstbot_5",
+          "jorongi_2026",
+          "pioneer",
+          "ssamz_ai_bot",
+          "ttooribot",
+          "독고종철",
+          "첼로_우아한_소설가"
+        ]
+      }
+    ]
+  },
+  "cooccurrence_network": {
+    "description": "같은 게시글(스레드)에 두 에이전트가 함께 참여한 관계 (비방향)",
+    "nodes": 22,
+    "edges": 59,
+    "total_cooccurrences": 283,
+    "density": 0.2554,
+    "avg_degree": 5.36,
+    "components": 1,
+    "largest_component": 22,
+    "degree_top5": [
+      {
+        "agent": "독고종철",
+        "degree": 14,
+        "centrality": 0.6667
+      },
+      {
+        "agent": "pioneer",
+        "degree": 12,
+        "centrality": 0.5714
+      },
+      {
+        "agent": "I_Molt",
+        "degree": 11,
+        "centrality": 0.5238
+      },
+      {
+        "agent": "BootingBot",
+        "degree": 10,
+        "centrality": 0.4762
+      },
+      {
+        "agent": "ssamz_ai_bot",
+        "degree": 10,
+        "centrality": 0.4762
+      }
+    ],
+    "betweenness_top5": [
+      {
+        "agent": "pioneer",
+        "value": 0.315
+      },
+      {
+        "agent": "독고종철",
+        "value": 0.2687
+      },
+      {
+        "agent": "I_Molt",
+        "value": 0.1532
+      },
+      {
+        "agent": "Phoebe",
+        "value": 0.1463
+      },
+      {
+        "agent": "BootingBot",
+        "value": 0.0741
+      }
+    ],
+    "closeness_top5": [
+      {
+        "agent": "독고종철",
+        "value": 0.75
+      },
+      {
+        "agent": "pioneer",
+        "value": 0.7
+      },
+      {
+        "agent": "I_Molt",
+        "value": 0.6774
+      },
+      {
+        "agent": "Phoebe",
+        "value": 0.6562
+      },
+      {
+        "agent": "ssamz_ai_bot",
+        "value": 0.6562
+      }
+    ],
+    "weighted_degree_top5": [
+      {
+        "agent": "독고종철",
+        "strength": 120
+      },
+      {
+        "agent": "VibeCoding",
+        "strength": 82
+      },
+      {
+        "agent": "I_Molt",
+        "strength": 74
+      },
+      {
+        "agent": "BootingBot",
+        "strength": 69
+      },
+      {
+        "agent": "pioneer",
+        "strength": 61
+      }
+    ],
+    "top_edges": [
+      {
+        "pair": "BootingBot - 독고종철",
+        "weight": 28
+      },
+      {
+        "pair": "VibeCoding - 독고종철",
+        "weight": 26
+      },
+      {
+        "pair": "I_Molt - 독고종철",
+        "weight": 17
+      },
+      {
+        "pair": "pioneer - 독고종철",
+        "weight": 17
+      },
+      {
+        "pair": "BootingBot - I_Molt",
+        "weight": 15
+      },
+      {
+        "pair": "I_Molt - VibeCoding",
+        "weight": 14
+      },
+      {
+        "pair": "BootingBot - VibeCoding",
+        "weight": 13
+      },
+      {
+        "pair": "RobertBot - pioneer",
+        "weight": 12
+      },
+      {
+        "pair": "I_Molt - pioneer",
+        "weight": 12
+      },
+      {
+        "pair": "Phoebe - VibeCoding",
+        "weight": 10
+      }
+    ],
+    "component_detail": [
+      {
+        "id": 1,
+        "size": 22,
+        "members": [
+          "Ark_IP_V14",
+          "BENZIE",
+          "BootingBot",
+          "Henry",
+          "I_Molt",
+          "MUSE",
+          "OpenClaw",
+          "OpenClaw_KR",
+          "Phoebe",
+          "RobertBot",
+          "RosieAI",
+          "TruthChaser",
+          "Van",
+          "VibeCoding",
+          "ZZOBOT",
+          "epoko_claw_firstbot_5",
+          "jorongi_2026",
+          "pioneer",
+          "ssamz_ai_bot",
+          "ttooribot",
+          "독고종철",
+          "첼로_우아한_소설가"
+        ]
+      }
+    ]
+  },
+  "comparison": {
+    "edges_only_direct": 0,
+    "edges_only_cooccur": 2,
+    "edges_both": 57,
+    "only_cooccur_top10": [
+      {
+        "pair": "BootingBot - pioneer",
+        "threads": 2
+      },
+      {
+        "pair": "Phoebe - pioneer",
+        "threads": 2
+      }
+    ]
+  }
+}
